@@ -1,0 +1,76 @@
+title: "kubeweekly #197"
+date: 12/19/2019
+source: kubeweekly
+data:
+  - title: Falco Security Audit
+    link: "https://falco.org/blog/falco-security-audit/"
+    type: technical
+  - title: Kubernetes 101
+    link: "https://www.cncf.io/blog/2019/12/16/kubernetes-101/"
+    type: technical
+  - title: >-
+      Does Testing Kubernetes Conformance Leave You in the Dark? Get Progress
+      Updates as Tests Run
+    link: >-
+      https://www.cncf.io/blog/2019/12/13/does-testing-kubernetes-conformance-leave-you-in-the-dark-get-progress-updates-as-tests-run/
+    type: technical
+  - title: Nodeless OpenFaaS with AWS EKS and Fargate
+    link: "https://blog.alexellis.io/nodeless-openfaas-with-aws-eks-and-fargate/"
+    type: technical
+  - title: >-
+      Launching Worker Pod Autoscaler &#x2014; Solving specific problems with
+      worker scaling in Kubernetes
+    link: >-
+      https://medium.com/practo-engineering/launching-worker-pod-autoscaler-3f6079728e8b
+    type: technical
+  - title: "Looking at Kubernetes&#x2019; 2k+ TODO Comments"
+    link: >-
+      https://medium.com/@augmentable/looking-at-kubernetes-2k-todo-comments-b2db42dc7fdb
+    type: technical
+  - title: Traffic Management for Knative Services
+    link: >-
+      https://medium.com/@zhimin.wen/traffic-management-for-knative-services-a211171c6e5f
+    type: technical
+  - title: Programmatically Kubernetes port forward in Go
+    link: "https://gianarb.it/blog/programmatically-kube-port-forward-in-go"
+    type: technical
+  - title: Manual recovery of a Rook cluster in Kubernetes
+    link: "https://medium.com/flant-com/rook-cluster-recovery-580efcd275db"
+    type: technical
+  - title: "faas-containerd &#x2013; serverless without Kubernetes"
+    link: "https://blog.alexellis.io/faas-containerd-serverless-without-kubernetes/"
+    type: technical
+  - title: Cloud Native Computing Foundation Announces TUF Graduation
+    link: >-
+      https://www.cncf.io/announcement/2019/12/18/cloud-native-computing-foundation-announces-tuf-graduation/
+    type: editorial
+  - title: "BeyondProd: How Google moved from perimeter-based to cloud-native security"
+    link: >-
+      https://cloud.google.com/blog/products/identity-security/beyondprod-whitepaper-discusses-cloud-native-security-at-google
+    type: editorial
+  - title: "First look at Antrea: a CNI plugin based on Open vSwitch"
+    link: >-
+      https://alexbrand.dev/post/first-look-at-antrea-a-cni-plugin-based-on-open-vswitch/
+    type: editorial
+  - title: The complete guide to containers vs VMs for DevOps
+    link: "https://www.stack.io/blog/containers-vs-vms"
+    type: editorial
+  - title: >-
+      Cloud Native Computing Foundation Announces Schedule for Kubernetes Forums
+      in Bengaluru and Delhi, India
+    link: >-
+      https://www.cncf.io/announcement/2019/12/12/cloud-native-computing-foundation-announces-schedule-for-kubernetes-forums-in-bengaluru-and-delhi-india/
+    type: editorial
+  - title: "Monitoring, Metrics and M3, with Martin Mao and Rob Skillington"
+    link: "https://kubernetespodcast.com/episode/084-monitoring-metrics-m3/"
+    type: editorial
+  - title: CNCF TOC Governance Structure + Elections 2020
+    link: >-
+      https://www.cncf.io/blog/2019/12/06/cncf-toc-governance-structure-elections-2020/
+    type: headlines
+  - title: FAQ for December 2019 TOC Nominations
+    link: "https://www.cncf.io/blog/2019/12/13/faq-for-december-2019-toc-nominations/"
+    type: headlines
+  - title: "Kubernetes Knights at KubeCon &#x2019;19"
+    link: "https://www.cncf.io/blog/2019/12/17/kubernetes-knights-at-kubecon-19/"
+    type: headlines
