@@ -4,7 +4,6 @@ import (
 	"os"
 )
 
-
 func main() {
 	User := os.Getenv("USERNAME")
 	Password := os.Getenv("PASSWORD")

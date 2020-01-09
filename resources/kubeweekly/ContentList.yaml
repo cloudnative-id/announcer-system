@@ -11,5 +11,5 @@ contentList:
       - "#kubereads"
     date: 12/19/2019
     status: 
-      delivered: True
+      delivered: False
     content: contents/kubeweekly197.yaml
