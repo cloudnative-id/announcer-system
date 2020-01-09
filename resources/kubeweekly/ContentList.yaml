@@ -2,7 +2,7 @@ contentList:
   - content: contents/kubeweekly196.yaml
     date: 12/13/2019
     status:
-      delivered: True
+      delivered: true
     tags:
       - "#kubereads"
     title: "kubeweekly #196"
@@ -11,5 +11,5 @@ contentList:
       - "#kubereads"
     date: 12/19/2019
     status: 
-      delivered: False
+      delivered: true
     content: contents/kubeweekly197.yaml

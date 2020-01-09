@@ -1,0 +1,18 @@
+*{{ .Title }}*
+*{{ .Date }}*
+
+*Technical:*
+{{ range .Data }}{{ if eq .Type "technical" }}• [{{ .Title }}]({{ .Link }})
+{{ end }}{{ end }}
+
+*Editorial:*
+{{ range .Data }}{{ if eq .Type "editorial" }}• [{{ .Title }}]({{ .Link }})
+{{ end }}{{ end }}
+
+*Headlines:*
+{{ range .Data }}{{ if eq .Type "headlines" }}• [{{ .Title }}]({{ .Link }})
+{{ end }}{{ end }}
+
+This information is gather from kubeweekly.io
+Cloud Native Indonesia Community
+
