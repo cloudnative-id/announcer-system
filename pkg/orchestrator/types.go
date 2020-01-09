@@ -20,7 +20,9 @@ type KubeweeklyContentList struct {
 type ContentList struct{
 	Content string `yaml:"content"`
 	Date string `yaml:"date"`
-	Status string `yaml:"status"`
+	Status struct{
+		Delivered bool `yaml:"delivered"`
+	}
 	Tags []Tag
 }
 
