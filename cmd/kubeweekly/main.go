@@ -39,11 +39,11 @@ func main() {
 		NewContentList = GetContentListKubeweekly()
 
 		NewContentYaml, _ := yaml.Marshal(NewContent)
-		Session.CreateFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/"+NewContentList.Content,NewContentYaml)
+		Session.CreateFile("cloudnative-id","announcer-system","./resources/kubeweekly/"+NewContentList.Content,NewContentYaml)
 		
 		CurrentContentList.ContentLists = append(CurrentContentList.ContentLists,NewContentList)
 		NewContentListYaml, _ := yaml.Marshal(CurrentContentList)
-		Session.UpdateFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/ContentList.yaml",NewContentListYaml)
+		Session.UpdateFile("cloudnative-id","announcer-system","./resources/kubeweekly/ContentList.yaml",NewContentListYaml)
 
 	} else {
 		fmt.Println("Kubeweekly not updated")

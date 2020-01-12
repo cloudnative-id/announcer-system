@@ -5,7 +5,7 @@ import (
 )
 
 func kubeweekly(Session Github)(){
-	ConfigTmpl := Session.GetFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/ContentList.yaml")
+	ConfigTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/kubeweekly/ContentList.yaml")
 	
 	var PushRepository = false
     var Config KubeweeklyContentList
@@ -15,7 +15,7 @@ func kubeweekly(Session Github)(){
 	for i, s := range Config.ContentLists {
 		if s.Status.Delivered == false {
 
-			YamlTmpl := Session.GetFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/"+s.Content)
+			YamlTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/kubeweekly/"+s.Content)
 
 			var Content KubeweeklyContent
 			yaml.Unmarshal(YamlTmpl, &Content)
@@ -29,6 +29,6 @@ func kubeweekly(Session Github)(){
 
 	if PushRepository {
 		Data, _ := yaml.Marshal(Config)
-		Session.UpdateFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/ContentList.yaml",Data)
+		Session.UpdateFile("cloudnative-id","announcer-system","./resources/kubeweekly/ContentList.yaml",Data)
 	}
 }
