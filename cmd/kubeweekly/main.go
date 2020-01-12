@@ -42,7 +42,7 @@ func main() {
 		Session.CreateFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/"+NewContentList.Content,NewContentYaml)
 		
 		CurrentContentList.ContentLists = append(CurrentContentList.ContentLists,NewContentList)
-		NewContentListYaml, _ := yaml.Marshal(NewContentList)
+		NewContentListYaml, _ := yaml.Marshal(CurrentContentList)
 		Session.UpdateFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/ContentList.yaml",NewContentListYaml)
 
 	} else {
