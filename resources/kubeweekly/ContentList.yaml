@@ -17,6 +17,6 @@ contentList:
   content: contents/kubeweekly198.yaml
   date: 01/12/2020
   status:
-    delivered: false
+    delivered: true
   tags:
   - '#kubereads'
