@@ -68,3 +68,39 @@ func (s *Github) UpdateFile(Organization, Repository, Path string, Data []byte) 
 		fmt.Println(err)
 	}
 }
+
+func (s *Github) CreateFile(Organization, Repository, Path string, Data []byte) {
+
+	Message := "Update by Bot"
+	Branch := "master"
+
+	Context := context.Background()
+	Client := s.StartSession()
+
+	getOpts := &github.RepositoryContentGetOptions{Ref: "master"}
+
+	res, _, _, _ := Client.Repositories.GetContents(
+		Context,
+		Organization,
+		Repository,
+		Path,
+		getOpts,
+	)
+
+	_, _, err := Client.Repositories.CreateFile(
+		Context,
+		Organization,
+		Repository,
+		Path,
+		&github.RepositoryContentFileOptions{
+			Message: &Message,
+			Content: Data,
+			Branch:  &Branch,
+			SHA: github.String(res.GetSHA()),
+		},
+	)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+}

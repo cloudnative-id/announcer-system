@@ -10,4 +10,5 @@ func main() {
 
 	var Session = Github{User, Password}
 	kubeweekly(Session)
+	// announcement(Session)
 }
