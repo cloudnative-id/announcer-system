@@ -15,22 +15,24 @@ func SendTelegram(Data KubeweeklyContent) {
 
 	var Output bytes.Buffer
 
-	tpl, err := template.ParseFiles("templates/kubeweeklyTelegram.tmpl")
+	Tpl, err := template.ParseFiles("templates/kubeweeklyTelegram.tmpl")
 	if err != nil {
 		panic(err)
 	  }
 	
-	err = tpl.Execute(&Output, Data)
+	err = Tpl.Execute(&Output, Data)
 	if err != nil {
 		panic(err)
 	  }
 	
-	bot, err := tgbotapi.NewBotAPI(TelegramToken)
+	Bot, err := tgbotapi.NewBotAPI(TelegramToken)
 	if err != nil {
 		panic(err)
 	}
 
-	msg := tgbotapi.NewMessage(int64(TelegramChatID), Output.String())
-	msg.ParseMode = "markdown"
-	bot.Send(msg)
+	Msg := tgbotapi.NewMessage(int64(TelegramChatID), Output.String())
+	Msg.ParseMode = "markdown"
+	Msg.DisableWebPagePreview = false
+
+	Bot.Send(Msg)
 }

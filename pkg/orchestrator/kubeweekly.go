@@ -29,6 +29,6 @@ func kubeweekly(Session Github)(){
 
 	if PushRepository {
 		Data, _ := yaml.Marshal(Config)
-		Session.PostFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/ContentList.yaml",Data)
+		Session.UpdateFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/ContentList.yaml",Data)
 	}
 }
