@@ -15,7 +15,7 @@ func main() {
 	ContentListTmpl := Session.GetFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/ContentList.yaml")
 	
 	var CurrentContentList KubeweeklyContentList
-	yaml.Unmarshal(ContentListTmpl, &ContentListTmpl)
+	yaml.Unmarshal(ContentListTmpl, &CurrentContentList)
 
 	var NewKubeweeklyTitle string
 	var UpdateKubeweekly bool
@@ -34,12 +34,17 @@ func main() {
 		
 		var NewContent KubeweeklyContent
 		NewContent = GetContentKubeweekly()
-		fmt.Println(NewContent)
 
 		var NewContentList ContentList
 		NewContentList = GetContentListKubeweekly()
-		fmt.Println(NewContentList)
+
+		NewContentYaml, _ := yaml.Marshal(NewContent)
+		Session.CreateFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/"+NewContentList.Content,NewContentYaml)
 		
+		CurrentContentList.ContentLists = append(CurrentContentList.ContentLists,NewContentList)
+		NewContentListYaml, _ := yaml.Marshal(NewContentList)
+		Session.UpdateFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/ContentList.yaml",NewContentListYaml)
+
 	} else {
 		fmt.Println("Kubeweekly not updated")
 	}

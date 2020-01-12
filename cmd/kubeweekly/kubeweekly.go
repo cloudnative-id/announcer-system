@@ -46,7 +46,7 @@ func GetContentListKubeweekly() ContentList {
 	Data.Title = strings.ReplaceAll(GetNewKubeweeklyTitle(), " #", "")
 	Data.Date = GetDate()
 	Data.Content = "contents/"+Data.Title+".yaml"
-	Data.Status.Delivered = true
+	Data.Status.Delivered = false
 	Data.Tags = append(Data.Tags,"#kubereads")
 
 	return Data
