@@ -2,15 +2,15 @@
 *{{ .Date }}*
 
 *Technical:*
-{{ range .Data }}{{ if eq .Type "technical" }}• [{{ .Title }}]({{ .Link }})
+{{ range .Data }}{{ if eq .Type "The Technical" }}• [{{ .Title }}]({{ .Link }})
 {{ end }}{{ end }}
 
 *Editorial:*
-{{ range .Data }}{{ if eq .Type "editorial" }}• [{{ .Title }}]({{ .Link }})
+{{ range .Data }}{{ if eq .Type "The Editorial" }}• [{{ .Title }}]({{ .Link }})
 {{ end }}{{ end }}
 
 *Headlines:*
-{{ range .Data }}{{ if eq .Type "headlines" }}• [{{ .Title }}]({{ .Link }})
+{{ range .Data }}{{ if eq .Type "The Headlines" }}• [{{ .Title }}]({{ .Link }})
 {{ end }}{{ end }}
 
 This information is gather from kubeweekly.io
