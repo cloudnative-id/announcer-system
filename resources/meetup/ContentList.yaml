@@ -3,6 +3,6 @@ contentList:
   city: Bandung
   number: 4
   status:
-    delivered: false
+    delivered: true
   tags:
   - '#meetup'
