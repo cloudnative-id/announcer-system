@@ -6,7 +6,7 @@ import (
 )
 
 func Meetup(Session Github)(){
-	ConfigTmpl := Session.GetFile("zufardhiyaulhaq","announcer-system","./resources/meetup/ContentList.yaml")
+	ConfigTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/meetup/ContentList.yaml")
 
 	var PushRepository = false
 	var Config MeetupContentList
@@ -16,12 +16,12 @@ func Meetup(Session Github)(){
 	for i, s := range Config.ContentLists {
 		if s.Status.Delivered == false {
 
-			YamlTmpl := Session.GetFile("zufardhiyaulhaq","announcer-system","./resources/meetup/"+s.Content)
+			YamlTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/meetup/"+s.Content)
 
 			var Content MeetupContent
 			yaml.Unmarshal(YamlTmpl, &Content)
 			
-			URL:= Session.GetURLFile("zufardhiyaulhaq","announcer-system","./resources/meetup/contents/"+Content.PicturePath)
+			URL:= Session.GetURLFile("cloudnative-id","announcer-system","./resources/meetup/contents/"+Content.PicturePath)
 
 			fmt.Println("Send message to Telegram")
 			MeetupTelegram(Content, URL)
@@ -36,7 +36,7 @@ func Meetup(Session Github)(){
 
 		Data, _ := yaml.Marshal(Config)
 
-		Session.UpdateFile("zufardhiyaulhaq", "announcer-system", "./resources/meetup/ContentList.yaml", Data)
+		Session.UpdateFile("cloudnative-id", "announcer-system", "./resources/meetup/ContentList.yaml", Data)
 	} else {
 		fmt.Println("No Updated in Meetup")
 	}
