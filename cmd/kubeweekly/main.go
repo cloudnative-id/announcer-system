@@ -12,7 +12,7 @@ func main() {
 	Password := os.Getenv("PASSWORD")
 
 	var Session = Github{User, Password}
-	ContentListTmpl := Session.GetFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/ContentList.yaml")
+	ContentListTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/kubeweekly/ContentList.yaml")
 	
 	var CurrentContentList KubeweeklyContentList
 	yaml.Unmarshal(ContentListTmpl, &CurrentContentList)
