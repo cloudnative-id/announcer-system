@@ -5,7 +5,7 @@ import (
 	"gopkg.in/yaml.v2"
 )
 
-func kubeweekly(Session Github)(){
+func Kubeweekly(Session Github)(){
 	ConfigTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/kubeweekly/ContentList.yaml")
 	
 	var PushRepository = false
@@ -22,7 +22,7 @@ func kubeweekly(Session Github)(){
 			yaml.Unmarshal(YamlTmpl, &Content)
 			
 			fmt.Println("Send message to Telegram")
-			SendTelegram(Content)
+			KubeweeklyTelegram(Content)
 
 			Config.ContentLists[i].Status.Delivered = true
 			PushRepository = true

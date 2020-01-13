@@ -78,7 +78,7 @@ func (s *Github) UpdateFile(Organization, Repository, Path string, Data []byte) 
 
 func (s *Github) CreateFile(Organization, Repository, Path string, Data []byte) {
 
-	Message := "Update by Bot"
+	Message := "Create by Bot"
 	Branch := "master"
 
 	Context := context.Background()

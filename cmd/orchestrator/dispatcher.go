@@ -8,14 +8,14 @@ import (
 	"github.com/go-telegram-bot-api/telegram-bot-api"
 )
 
-func SendTelegram(Data KubeweeklyContent) {
+func KubeweeklyTelegram(Data KubeweeklyContent) {
 
 	TelegramToken := os.Getenv("TELEGRAM_TOKEN")
 	TelegramChatID, _ := strconv.Atoi(os.Getenv("TELEGRAM_CHATID"))
 
 	var Output bytes.Buffer
 
-	Tpl, err := template.ParseFiles("templates/kubeweeklyTelegram.tmpl")
+	Tpl, err := template.ParseFiles("templates/KubeweeklyTelegram.tmpl")
 	if err != nil {
 		panic(err)
 	  }
@@ -35,4 +35,34 @@ func SendTelegram(Data KubeweeklyContent) {
 	Msg.DisableWebPagePreview = false
 
 	Bot.Send(Msg)
+}
+
+func MeetupTelegram(Data MeetupContent, URL string) {
+	TelegramToken := os.Getenv("TELEGRAM_TOKEN")
+	TelegramChatID, _ := strconv.Atoi(os.Getenv("TELEGRAM_CHATID"))
+
+	var Output bytes.Buffer
+
+	Tpl, err := template.ParseFiles("templates/MeetupTelegram.tmpl")
+	if err != nil {
+		panic(err)
+	  }
+	
+	err = Tpl.Execute(&Output, Data)
+	if err != nil {
+		panic(err)
+	  }
+	
+	Bot, err := tgbotapi.NewBotAPI(TelegramToken)
+	if err != nil {
+		panic(err)
+	}
+
+	Msg := tgbotapi.NewMessage(int64(TelegramChatID), Output.String())
+	Msg.ParseMode = "markdown"
+	Msg.DisableWebPagePreview = false
+	Bot.Send(Msg)
+
+	Pic := tgbotapi.NewPhotoShare(int64(TelegramChatID), URL)
+	Bot.Send(Pic)
 }
