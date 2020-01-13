@@ -3,6 +3,7 @@ package main
 import (
 	"os"
 	"fmt"
+	"strings"
 	"gopkg.in/yaml.v2"
 )
 
@@ -20,7 +21,7 @@ func main() {
 	var NewKubeweeklyTitle string
 	var UpdateKubeweekly bool
 
-	NewKubeweeklyTitle = GetNewKubeweeklyTitle()
+	NewKubeweeklyTitle = strings.ReplaceAll(GetNewKubeweeklyTitle(), " #", "")
 	UpdateKubeweekly = true
 
 	for _, List := range CurrentContentList.ContentLists{
