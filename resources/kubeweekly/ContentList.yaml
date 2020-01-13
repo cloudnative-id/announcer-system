@@ -20,3 +20,10 @@ contentList:
     delivered: true
   tags:
   - '#kubereads'
+- title: kubeweekly198
+  content: contents/kubeweekly198.yaml
+  date: 01/13/2020
+  status:
+    delivered: false
+  tags:
+  - '#kubereads'
