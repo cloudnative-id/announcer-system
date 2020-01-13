@@ -46,9 +46,9 @@ type MeetupContent struct {
 	PicturePath string `yaml:"picturePath"`
 	Speakers []struct {
 		Name string `yaml:"name"`
-		Title string `yaml:"position"`
+		Title string `yaml:"title"`
 		Company string `yaml:"company"`
-		Position string `yaml:"title"`
+		Position string `yaml:"position"`
 	} `yaml:"speaker"`
 }
 
