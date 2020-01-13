@@ -32,7 +32,7 @@ func KubeweeklyTelegram(Data KubeweeklyContent) {
 
 	Msg := tgbotapi.NewMessage(int64(TelegramChatID), Output.String())
 	Msg.ParseMode = "markdown"
-	Msg.DisableWebPagePreview = false
+	Msg.DisableWebPagePreview = true
 
 	Bot.Send(Msg)
 }
@@ -60,7 +60,7 @@ func MeetupTelegram(Data MeetupContent, URL string) {
 
 	Msg := tgbotapi.NewMessage(int64(TelegramChatID), Output.String())
 	Msg.ParseMode = "markdown"
-	Msg.DisableWebPagePreview = false
+	Msg.DisableWebPagePreview = true
 	Bot.Send(Msg)
 
 	Pic := tgbotapi.NewPhotoShare(int64(TelegramChatID), URL)
