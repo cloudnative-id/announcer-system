@@ -1,8 +1,8 @@
 contentList:
 - content: contents/bandung4.yaml
-  city: 0
+  city: Bandung
   number: 4
   status:
-    delivered: true
+    delivered: false
   tags:
   - '#meetup'

@@ -26,7 +26,7 @@ type KubeweeklyContent struct {
 type MeetupContentList struct {
 	ContentLists []struct {
 		Content string `yaml:"content"`
-		City int `yaml:"city"`
+		City string `yaml:"city"`
 		Number int `yaml:"number"`
 		Status struct{
 			Delivered bool `yaml:"delivered"`
