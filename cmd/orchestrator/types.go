@@ -1,28 +1,55 @@
 package main
 
+type KubeweeklyContentList struct {
+	ContentLists []struct{
+		Title string `yaml:"title"`
+		Content string `yaml:"content"`
+		Date string `yaml:"date"`
+		Status struct{
+			Delivered bool `yaml:"delivered"`
+		} `yaml:"status"`
+		Tags []string `yaml:"tags"`
+	}`yaml:"contentList"`
+}
+
 type KubeweeklyContent struct {
 	Title string `yaml:"title"`
 	Date string `yaml:"date"`
 	Source string `yaml:"source"`
-	Data []KubeweeklyContentData `yaml:"data"`
+	Data []struct {
+		Title string `yaml:"title"`
+		Link string `yaml:"link"`
+		Type string `yaml:"type"`
+	} `yaml:"data"`
 }
 
-type KubeweeklyContentData struct {
-	Title string `yaml:"title"`
-	Link string `yaml:"link"`
-	Type string `yaml:"type"`
+type MeetupContentList struct {
+	ContentLists []struct {
+		Content string `yaml:"content"`
+		City string `yaml:"city"`
+		Number int `yaml:"number"`
+		Status struct{
+			Delivered bool `yaml:"delivered"`
+		} `yaml:"status"`
+		Tags []string `yaml:"tags"`
+	} `yaml:"contentList"`
 }
 
-type KubeweeklyContentList struct {
-	ContentLists []ContentList `yaml:"contentList"`
-}
-
-type ContentList struct{
-	Title string `yaml:"title"`
-	Content string `yaml:"content"`
+type MeetupContent struct {
+    Name string `yaml:"name"`
 	Date string `yaml:"date"`
-	Status struct{
-		Delivered bool `yaml:"delivered"`
-	} `yaml:"status"`
-	Tags []string `yaml:"tags"`
+	Time string `yaml:"time"`
+	Place string `yaml:"place"`
+	City string `yaml:"city"`
+	Sponsor string `yaml:"sponsor"`
+	RegistrationURL string `yaml:"registrationURL"`
+	PicturePath string `yaml:"picturePath"`
+	Speakers []struct {
+		Name string `yaml:"name"`
+		Title string `yaml:"title"`
+		Company string `yaml:"company"`
+		Position string `yaml:"position"`
+	} `yaml:"speaker"`
 }
+
+

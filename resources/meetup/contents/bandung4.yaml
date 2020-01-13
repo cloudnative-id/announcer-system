@@ -1,0 +1,18 @@
+name: 'Kubernetes and Cloud Native Bandung #4'
+date: 'Thursday, December 19th 2019'
+time: '18.30'
+place: 'Jabar Digital Service office, Jalan. Maulana Yusuf no. 3'
+city: 'Bandung'
+sponsor: 'Jabar Digital Service'
+registrationURL: 'bit.ly/k8scloudnativebdg4'
+picturePath: 'picture/bandung4.jpg'
+speaker:
+- name: 'Aditya Satrya'
+  position: 'Head Of Engineering'
+  company: 'Jabar Digital Service'
+  title: 'Journey in Implementing Cloud-Native Technology in JDS'
+- name: 'Imre Nagi'
+  position: 'CTO & Co-founder'
+  company: 'Schoters.com'
+  title: 'Introduction to Kubernetes RBAC'
+

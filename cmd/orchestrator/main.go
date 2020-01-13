@@ -9,6 +9,7 @@ func main() {
 	Password := os.Getenv("PASSWORD")
 
 	var Session = Github{User, Password}
-	kubeweekly(Session)
-	// announcement(Session)
+
+	Kubeweekly(Session)
+	Meetup(Session)
 }
