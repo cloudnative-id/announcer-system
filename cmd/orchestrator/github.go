@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"log"
 	"io/ioutil"
 	"context"
 	"github.com/google/go-github/github"
@@ -29,8 +30,11 @@ func (s *Github) GetFile(Organization, Repository, Path string) []byte {
 	Context := context.Background()
 	Client := s.StartSession()
 	
-	RawData, _ := Client.Repositories.DownloadContents(Context, Organization, Repository, Path, nil)
-
+	RawData, err := Client.Repositories.DownloadContents(Context, Organization, Repository, Path, nil)
+	if err != nil {
+		log.Fatal(err)
+	}
+	
 	body, _ := ioutil.ReadAll(RawData)
 	return body
 }
@@ -45,7 +49,7 @@ func (s *Github) UpdateFile(Organization, Repository, Path string, Data []byte) 
 
 	getOpts := &github.RepositoryContentGetOptions{Ref: "master"}
 
-	res, _, _, _ := Client.Repositories.GetContents(
+	res, _, _, err := Client.Repositories.GetContents(
 		Context,
 		Organization,
 		Repository,
@@ -53,7 +57,11 @@ func (s *Github) UpdateFile(Organization, Repository, Path string, Data []byte) 
 		getOpts,
 	)
 
-	_, _, err := Client.Repositories.UpdateFile(
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	_, _, err = Client.Repositories.UpdateFile(
 		Context,
 		Organization,
 		Repository,
