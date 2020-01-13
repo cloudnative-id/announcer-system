@@ -22,4 +22,4 @@ COPY . .
 RUN go build -o kubeweekly .
 
 # Command to run the executable
-CMD ["./kubeweekly"]
+ENTRYPOINT ["./kubeweekly"]

@@ -1,10 +1,12 @@
 package main
 
 import (
+	"log"
 	"fmt"
 	"io/ioutil"
 	"context"
 	"github.com/google/go-github/github"
+	"golang.org/x/oauth2"
 )
 
 type Github struct {
@@ -14,12 +16,13 @@ type Github struct {
 
 func (s *Github) StartSession() (*github.Client) {
 
-	tp := github.BasicAuthTransport{
-		Username: s.Username,
-		Password: s.Password,
-	}
+	ctx := context.Background()
+	ts := oauth2.StaticTokenSource(
+		&oauth2.Token{AccessToken: s.Password},
+	)
+	tc := oauth2.NewClient(ctx, ts)
 	
-	Client := github.NewClient(tp.Client())
+	Client := github.NewClient(tc)
 	return Client
 }
 
@@ -27,7 +30,11 @@ func (s *Github) GetFile(Organization, Repository, Path string) []byte {
 	Context := context.Background()
 
 	Client := s.StartSession()
-	RawData, _ := Client.Repositories.DownloadContents(Context, Organization, Repository, Path, nil)
+	RawData, err := Client.Repositories.DownloadContents(Context, Organization, Repository, Path, nil)
+
+	if err != nil {
+		log.Fatal(err)
+	}
 
 	body, _ := ioutil.ReadAll(RawData)
 	return body

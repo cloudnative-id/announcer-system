@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 	"context"
 	"github.com/google/go-github/github"
+	"golang.org/x/oauth2"
 )
 
 type Github struct {
@@ -14,12 +15,13 @@ type Github struct {
 
 func (s *Github) StartSession() (*github.Client) {
 
-	tp := github.BasicAuthTransport{
-		Username: s.Username,
-		Password: s.Password,
-	}
+	ctx := context.Background()
+	ts := oauth2.StaticTokenSource(
+		&oauth2.Token{AccessToken: s.Password},
+	)
+	tc := oauth2.NewClient(ctx, ts)
 	
-	Client := github.NewClient(tp.Client())
+	Client := github.NewClient(tc)
 	return Client
 }
 
