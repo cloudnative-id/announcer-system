@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"gopkg.in/yaml.v2"
 )
 
@@ -20,6 +21,7 @@ func kubeweekly(Session Github)(){
 			var Content KubeweeklyContent
 			yaml.Unmarshal(YamlTmpl, &Content)
 			
+			fmt.Println("Send message to Telegram")
 			SendTelegram(Content)
 
 			Config.ContentLists[i].Status.Delivered = true
@@ -28,7 +30,11 @@ func kubeweekly(Session Github)(){
 	}
 
 	if PushRepository {
+		fmt.Println("Push updated Data")
+
 		Data, _ := yaml.Marshal(Config)
 		Session.UpdateFile("cloudnative-id","announcer-system","./resources/kubeweekly/ContentList.yaml",Data)
+	} else {
+		fmt.Println("No Updated in Kubeweekly")
 	}
 }
