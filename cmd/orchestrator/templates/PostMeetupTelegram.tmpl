@@ -1,15 +1,13 @@
 *Thank you {{ .City }}*!
 
-Terima kasih semua temen-temen yang telah hadir di {{ .Name }}. Berikut adalah slide & video untuk masing-masing pembicara!
+Terima kasih semua temen-temen yang telah hadir di {{ .Name }}. Berikut adalah slide & video untuk masing-masing pembicara:
 
-{{ range .Speakers }}• {{ .Name }}, {{ .Position }}@{{ .Company }} [Slide]({{ .SlideURL }}) [Recording]({{ .VideoURL }})
+{{ range .Speakers }}• {{ .Name }}, {{ .Position }} @ {{ .Company }} [[Slide]({{ .SlideURL }})] [[Recording]({{ .VideoURL }})]
 {{ end }}
-
 *Sponsor:*
 {{ range .Sponsor }}• [{{ .Name }}]({{ .URL }})
 {{ end }}
-
-Jika ada teman-teman yang tertarik untuk speak up di Meetup ataupun membantu host meetup Kubernetes & Cloud Native, langsung saja kontak admin di grup ini.
+Jika ada teman-teman yang tertarik untuk speak up di meetup ataupun membantu host meetup Kubernetes & Cloud Native, langsung saja kontak admin di grup ini.
 
 Thank you!
 

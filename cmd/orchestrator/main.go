@@ -12,4 +12,6 @@ func main() {
 
 	Kubeweekly(Session)
 	PosterMeetup(Session)
+	PostMeetup(Session)
+
 }
