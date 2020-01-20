@@ -52,4 +52,29 @@ type MeetupEvent struct {
 	} `yaml:"speaker"`
 }
 
+type PostMeetupEvent struct {
+	EventLists []PostMeetupEventList `yaml:"eventList"`
+}
+
+type PostMeetupEventList struct {
+	Name string `yaml:"name"`
+	City string `yaml:"city"`
+	Sponsor []struct {
+		Name string `yaml:"name"`
+		URL string `yaml:"URL"`
+	} `yaml:"sponsor"`
+	PicturePath string `yaml:"picturePath"`
+	Status struct{
+		IsDelivered bool `yaml:"delivered"`
+	} `yaml:"status"`
+	Tags []string `yaml:"tags"`
+	Speakers []struct {
+		Name string `yaml:"name"`
+		Title string `yaml:"title"`
+		Company string `yaml:"company"`
+		Position string `yaml:"position"`
+		VideoURL string `yaml:"videoURL"`
+		SlideURL string `yaml:"slideURL"`
+	} `yaml:"speaker"`
+}
 
