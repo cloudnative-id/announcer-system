@@ -6,7 +6,7 @@ type KubeweeklyContentList struct {
 		Content string `yaml:"content"`
 		Date string `yaml:"date"`
 		Status struct{
-			Delivered bool `yaml:"delivered"`
+			IsDelivered bool `yaml:"delivered"`
 		} `yaml:"status"`
 		Tags []string `yaml:"tags"`
 	}`yaml:"contentList"`
@@ -23,19 +23,19 @@ type KubeweeklyContent struct {
 	} `yaml:"data"`
 }
 
-type MeetupContentList struct {
-	ContentLists []struct {
-		Content string `yaml:"content"`
+type MeetupEventList struct {
+	EventLists []struct {
+		Event string `yaml:"event"`
 		City string `yaml:"city"`
 		Number int `yaml:"number"`
 		Status struct{
-			Delivered bool `yaml:"delivered"`
+			IsDelivered bool `yaml:"delivered"`
 		} `yaml:"status"`
 		Tags []string `yaml:"tags"`
-	} `yaml:"contentList"`
+	} `yaml:"eventList"`
 }
 
-type MeetupContent struct {
+type MeetupEvent struct {
     Name string `yaml:"name"`
 	Date string `yaml:"date"`
 	Time string `yaml:"time"`

@@ -11,5 +11,5 @@ func main() {
 	var Session = Github{User, Password}
 
 	Kubeweekly(Session)
-	Meetup(Session)
+	PosterMeetup(Session)
 }

@@ -37,13 +37,13 @@ func KubeweeklyTelegram(Data KubeweeklyContent) {
 	Bot.Send(Msg)
 }
 
-func MeetupTelegram(Data MeetupContent, URL string) {
+func PosterMeetupTelegram(Data MeetupEvent, URL string) {
 	TelegramToken := os.Getenv("TELEGRAM_TOKEN")
 	TelegramChatID, _ := strconv.Atoi(os.Getenv("TELEGRAM_CHATID"))
 
 	var Output bytes.Buffer
 
-	Tpl, err := template.ParseFiles("templates/MeetupTelegram.tmpl")
+	Tpl, err := template.ParseFiles("templates/PosterMeetupTelegram.tmpl")
 	if err != nil {
 		panic(err)
 	  }

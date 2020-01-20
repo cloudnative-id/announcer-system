@@ -6,7 +6,7 @@ import (
 )
 
 func Kubeweekly(Session Github)(){
-	ConfigTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/kubeweekly/ContentList.yaml")
+	ConfigTmpl := Session.GetFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/ContentList.yaml")
 	
 	var PushRepository = false
     var Config KubeweeklyContentList
@@ -14,9 +14,9 @@ func Kubeweekly(Session Github)(){
 	yaml.Unmarshal(ConfigTmpl, &Config)
 
 	for i, s := range Config.ContentLists {
-		if s.Status.Delivered == false {
+		if s.Status.IsDelivered == false {
 
-			YamlTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/kubeweekly/"+s.Content)
+			YamlTmpl := Session.GetFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/"+s.Content)
 
 			var Content KubeweeklyContent
 			yaml.Unmarshal(YamlTmpl, &Content)
@@ -24,7 +24,7 @@ func Kubeweekly(Session Github)(){
 			fmt.Println("Send message to Telegram")
 			KubeweeklyTelegram(Content)
 
-			Config.ContentLists[i].Status.Delivered = true
+			Config.ContentLists[i].Status.IsDelivered = true
 			PushRepository = true
 		}
 	}
@@ -34,7 +34,7 @@ func Kubeweekly(Session Github)(){
 
 		Data, _ := yaml.Marshal(Config)
 		
-		Session.UpdateFile("cloudnative-id","announcer-system","./resources/kubeweekly/ContentList.yaml",Data)
+		Session.UpdateFile("zufardhiyaulhaq","announcer-system","./resources/kubeweekly/ContentList.yaml",Data)
 	} else {
 		fmt.Println("No Updated in Kubeweekly")
 	}
