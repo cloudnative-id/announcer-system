@@ -1,29 +1,47 @@
-contentList:
-- title: kubeweekly196
-  content: contents/kubeweekly196.yaml
-  date: 12/13/2019
-  status:
-    delivered: true
-  tags:
-  - '#kubereads'
-- title: kubeweekly197
-  content: contents/kubeweekly197.yaml
-  date: 12/19/2019
-  status:
-    delivered: true
-  tags:
-  - '#kubereads'
-- title: kubeweekly198
-  content: contents/kubeweekly198.yaml
-  date: 01/12/2020
-  status:
-    delivered: true
-  tags:
-  - '#kubereads'
-- title: kubeweekly199
-  content: contents/kubeweekly199.yaml
-  date: 01/17/2020
-  status:
-    delivered: true
-  tags:
-  - '#kubereads'
+title: 'kubeweekly #199'
+{}
+date: 01/17/2020
+source: kubeweekly
+data:
+- title: Announcing the Kubernetes bug bounty program
+  link: https://kubernetes.io/blog/2020/01/14/kubernetes-bug-bounty-announcement/
+  type: The Headlines
+- title: Getting Serious About Open Source Security
+  link: https://cd.foundation/blog/2020/01/15/getting-serious-about-open-source-security/
+  type: The Headlines
+- title: Tanka
+  link: https://grafana.com/blog/2020/01/09/introducing-tanka-our-way-of-deploying-to-kubernetes/
+  type: The Technical
+- title: Configula
+  link: https://github.com/brendandburns/configula
+  type: The Technical
+- title: OpenShift Authentication Integration with ArgoCD
+  link: https://blog.openshift.com/openshift-authentication-integration-with-argocd/
+  type: The Technical
+- title: Chaos Mesh – Your Chaos Engineering Solution for System Resiliency on Kubernetes
+  link: https://pingcap.com/blog/chaos-mesh-your-chaos-engineering-solution-for-system-resiliency-on-kubernetes/
+  type: The Technical
+- title: Setup and deploy Vitess on Kubernetes (Part 3 of 3)
+  link: https://www.percona.com/blog/2020/01/15/setup-and-deploy-vitess-on-kubernetes-minikube-for-mysql-part-iii-of-iii/
+  type: The Technical
+- title: Key Metrics for Monitoring Istio
+  link: https://www.datadoghq.com/blog/istio-metrics/
+  type: The Editorial
+- title: 6 Requirements of Cloud-Native Software
+  link: https://opensource.com/article/20/1/cloud-native-software
+  type: The Editorial
+- title: OpenFaaS 3rd Birthday Celebrations
+  link: https://www.openfaas.com/blog/birthday-teamserverless/
+  type: The Editorial
+- title: How Useful Is Ansible in a Cloud-Native Kubernetes Environment?
+  link: https://www.ansible.com/blog/how-useful-is-ansible-in-a-cloud-native-kubernetes-environment
+  type: The Editorial
+- title: Manage Thousands of Clusters with GitOps and the Cluster API
+  link: https://www.weave.works/blog/manage-thousands-of-clusters-with-gitops-and-the-cluster-api
+  type: The Editorial
+- title: Invention, IBM and Istio, with Lin Sun
+  link: https://kubernetespodcast.com/episode/086-invention-ibm-istio/
+  type: The Editorial
+- title: My Experience with Krew to Manage kubectl Plugins
+  link: https://gianarb.it/blog/my-experiene-with-krew-to-manage-kubectl-plugins
+  type: The Editorial
