@@ -29,7 +29,7 @@ eventList:
     URL: https://digitalservice.jabarprov.go.id/
   picturePath: picture/bandung4_1.jpg
   status:
-    delivered: false
+    delivered: true
   tags:
   - '#meetup'
   speaker:
