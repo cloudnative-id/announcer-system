@@ -27,7 +27,7 @@ eventList:
   sponsor:
   - name: Jabar Digital Service
     URL: https://digitalservice.jabarprov.go.id/
-  picturePath: picture/bandung4.jpg
+  picturePath: picture/bandung4_1.jpg
   status:
     delivered: false
   tags:
