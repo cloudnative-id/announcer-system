@@ -14,7 +14,7 @@ func Kubeweekly(Session Github)(){
 	yaml.Unmarshal(ConfigTmpl, &Config)
 
 	for i, s := range Config.ContentLists {
-		if s.Status.Delivered == false {
+		if s.Status.IsDelivered == false {
 
 			YamlTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/kubeweekly/"+s.Content)
 
@@ -24,7 +24,7 @@ func Kubeweekly(Session Github)(){
 			fmt.Println("Send message to Telegram")
 			KubeweeklyTelegram(Content)
 
-			Config.ContentLists[i].Status.Delivered = true
+			Config.ContentLists[i].Status.IsDelivered = true
 			PushRepository = true
 		}
 	}

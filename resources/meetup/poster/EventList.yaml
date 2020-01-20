@@ -1,5 +1,5 @@
-contentList:
-- content: contents/bandung4.yaml
+eventList:
+- event: event/bandung4.yaml
   city: Bandung
   number: 4
   status:

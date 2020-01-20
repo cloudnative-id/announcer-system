@@ -1,0 +1,24 @@
+eventList:
+- name: 'Kubernetes and Cloud Native Bandung #4'
+  city: Bandung
+  sponsor:
+  - name: Jabar Digital Service
+    URL: https://digitalservice.jabarprov.go.id/
+  picturePath: picture/bandung4.jpg
+  status:
+    delivered: true
+  tags:
+  - '#meetup'
+  speaker:
+  - name: Aditya Satrya
+    title: Journey in Implementing Cloud-Native Technology in JDS
+    company: Jabar Digital Service
+    position: Head Of Engineering
+    videoURL: https://www.youtube.com/watch?v=u0Miv0Et_s8&feature=youtu.be
+    slideURL: https://docs.google.com/presentation/d/18pMWvKM3m_MCtX_095za4ogG2Oog-c8wfMxkTWImYFc/edit?usp=sharing
+  - name: Imre Nagi
+    title: Introduction to Kubernetes RBAC
+    company: Schoters.com
+    position: CTO & Co-founder
+    videoURL: https://www.youtube.com/watch?v=u0Miv0Et_s8&feature=youtu.be
+    slideURL: https://docs.google.com/presentation/d/1pUgTksN6qn3oDkSp8tmQB5QGzCl1T7R_Uphwulk6daI/edit?usp=sharing

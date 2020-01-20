@@ -22,7 +22,7 @@ type ContentList struct{
 	Content string `yaml:"content"`
 	Date string `yaml:"date"`
 	Status struct{
-		Delivered bool `yaml:"delivered"`
+		IsDelivered bool `yaml:"delivered"`
 	} `yaml:"status"`
 	Tags []string `yaml:"tags"`
 }
