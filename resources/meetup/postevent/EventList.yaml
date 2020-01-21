@@ -36,7 +36,7 @@ eventList:
   - '#meetup'
   speaker:
   - name: Deny Prasetyo
-    title: Cloud and Kubernetes: The introduction
+    title: "Cloud and Kubernetes: The introduction"
     company: Gojek
     position: Gopay System Automation Team Lead
     videoURL: -
