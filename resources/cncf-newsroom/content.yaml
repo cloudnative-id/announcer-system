@@ -1,0 +1,37 @@
+content:
+  - title: "Cloud Native Computing Foundation Announces Schedule for KubeCon + CloudNativeCon San Diego"
+    url: "https://www.cncf.io/announcement/2019/09/05/cloud-native-computing-foundation-announces-schedule-for-kubecon-cloudnativecon-san-diego/"
+    kind: "Announcements"
+    isDelivered: true
+  - title: "Cloud Native Computing Foundation Announces Application Delivery SIG"
+    url: "https://www.cncf.io/announcement/2019/09/12/cloud-native-computing-foundation-announces-application-delivery-sig/"
+    kind: "Announcements"
+    isDelivered: true
+  - title: "Cloud Native Computing Foundation Announces Schedule for Kubernetes Forums in Seoul and Sydney"
+    url: "https://www.cncf.io/announcement/2019/10/17/cloud-native-computing-foundation-announces-schedule-for-kubernetes-forums-in-seoul-and-sydney/"
+    kind: "Announcements"
+    isDelivered: true
+  - title: "Serverless Specification CloudEvents Reaches Version 1.0"
+    url: "https://www.cncf.io/announcement/2019/10/28/serverless-specification-cloudevents-reaches-version-1-0/"
+    kind: "Announcements"
+    isDelivered: true
+  - title: "Cloud Native Computing Foundation Announces Jaeger Graduation"
+    url: "https://www.cncf.io/announcement/2019/10/31/cloud-native-computing-foundation-announces-jaeger-graduation/"
+    kind: "Announcements"
+    isDelivered: true
+  - title: "Cloud Native Computing Foundation Announces Vitess Graduation"
+    url: "https://www.cncf.io/announcement/2019/11/05/cloud-native-computing-foundation-announces-vitess-graduation/"
+    kind: "Announcements"
+    isDelivered: true
+  - title: "Helm Reaches Version 3"
+    url: "https://www.cncf.io/announcement/2019/11/13/helm-reaches-version-3/"
+    kind: "Announcements"
+    isDelivered: true
+  - title: "Cloud Native Computing Foundation Welcomes Palo Alto Networks as Platinum Member"
+    url: "https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-welcomes-palo-alto-networks-as-platinum-member/"
+    kind: "Announcements"
+    isDelivered: true
+  - title: "Cloud Native Computing Foundation Continues Tremendous Growth, Surpassing 500 Members"
+    url: "https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-continues-tremendous-growth-surpassing-500-members/"
+    kind: "Announcements"
+    isDelivered: true
