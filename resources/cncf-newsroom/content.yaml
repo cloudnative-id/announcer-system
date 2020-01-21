@@ -1,37 +1,87 @@
 content:
-- title: "Cloud Native Computing Foundation Announces Schedule for KubeCon + CloudNativeCon San Diego"
-  url: "https://www.cncf.io/announcement/2019/09/05/cloud-native-computing-foundation-announces-schedule-for-kubecon-cloudnativecon-san-diego/"
+- title: Cloud Native Computing Foundation Announces TUF Graduation
+  url: https://www.cncf.io/announcement/2019/12/18/cloud-native-computing-foundation-announces-tuf-graduation/
   kind: Announcements
-  isDelivered: true
-- title: "Cloud Native Computing Foundation Announces Application Delivery SIG"
-  url: "https://www.cncf.io/announcement/2019/09/12/cloud-native-computing-foundation-announces-application-delivery-sig/"
+  isDelivered: false
+- title: Cloud Native Computing Foundation Announces Schedule for Kubernetes Forums
+    in Bengaluru and Delhi, India
+  url: https://www.cncf.io/announcement/2019/12/12/cloud-native-computing-foundation-announces-schedule-for-kubernetes-forums-in-bengaluru-and-delhi-india/
   kind: Announcements
-  isDelivered: true
-- title: "Cloud Native Computing Foundation Announces Schedule for Kubernetes Forums in Seoul and Sydney "
-  url: "https://www.cncf.io/announcement/2019/10/17/cloud-native-computing-foundation-announces-schedule-for-kubernetes-forums-in-seoul-and-sydney/"
+  isDelivered: false
+- title: Cloud Native Computing Foundation Announces 2019 Community Awards Winners
+  url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-2019-community-awards-winners/
   kind: Announcements
-  isDelivered: true
-- title: "Serverless Specification CloudEvents Reaches Version 1.0"
-  url: "https://www.cncf.io/announcement/2019/10/28/serverless-specification-cloudevents-reaches-version-1-0/"
+  isDelivered: false
+- title: Cloud Native Computing Foundation Announces Equinix as Gold Member
+  url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-equinix-as-gold-member/
   kind: Announcements
-  isDelivered: true
-- title: "Cloud Native Computing Foundation Announces Jaeger Graduation"
-  url: "https://www.cncf.io/announcement/2019/10/31/cloud-native-computing-foundation-announces-jaeger-graduation/"
+  isDelivered: false
+- title: Cloud Native Computing Foundation Reaches Over 100 Certified Kubernetes Vendors
+  url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-reaches-over-100-certified-kubernetes-vendors/
   kind: Announcements
-  isDelivered: true
-- title: "Cloud Native Computing Foundation Announces Vitess Graduation"
-  url: "https://www.cncf.io/announcement/2019/11/05/cloud-native-computing-foundation-announces-vitess-graduation/"
+  isDelivered: false
+- title: Cloud Native Computing Foundation Announces NetApp Upgrade to Platinum Membership
+  url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-netapp-upgrade-to-platinum-membership/
   kind: Announcements
-  isDelivered: true
-- title: "Helm Reaches Version 3"
-  url: "https://www.cncf.io/announcement/2019/11/13/helm-reaches-version-3/"
+  isDelivered: false
+- title: Cloud Native Computing Foundation Announces CNCF Job Board
+  url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-cncf-job-board/
   kind: Announcements
-  isDelivered: true
-- title: "Cloud Native Computing Foundation Welcomes Palo Alto Networks as Platinum Member "
-  url: "https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-welcomes-palo-alto-networks-as-platinum-member/"
+  isDelivered: false
+- title: Cloud Native Computing Foundation Announces Kubernetes Community Days
+  url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-kubernetes-community-days/
   kind: Announcements
-  isDelivered: true
-- title: "Cloud Native Computing Foundation Continues Tremendous Growth, Surpassing 500 Members"
-  url: "https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-continues-tremendous-growth-surpassing-500-members/"
+  isDelivered: false
+- title: Cloud Native Computing Foundation Welcomes Fidelity Investments as Gold Member
+  url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-welcomes-fidelity-investments-as-gold-member/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
+- title: Cloud Native Computing Foundation Announces Arm as Platinum Member
+  url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-arm-as-platinum-member/
+  kind: Announcements
+  isDelivered: false
+- title: Cloud Native Computing Foundation Receives $200,000 in Credits from Amazon
+    Web Services (AWS)
+  url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/
+  kind: Announcements
+  isDelivered: false
+- title: Cloud Native Computing Foundation Continues Tremendous Growth, Surpassing
+    500 Members
+  url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-continues-tremendous-growth-surpassing-500-members/
+  kind: Announcements
+  isDelivered: false
+- title: Cloud Native Computing Foundation Welcomes Palo Alto Networks as Platinum
+    Member 
+  url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-welcomes-palo-alto-networks-as-platinum-member/
+  kind: Announcements
+  isDelivered: false
+- title: Helm Reaches Version 3
+  url: https://www.cncf.io/announcement/2019/11/13/helm-reaches-version-3/
+  kind: Announcements
+  isDelivered: false
+- title: Cloud Native Computing Foundation Announces Vitess Graduation
+  url: https://www.cncf.io/announcement/2019/11/05/cloud-native-computing-foundation-announces-vitess-graduation/
+  kind: Announcements
+  isDelivered: false
+- title: Cloud Native Computing Foundation Announces Jaeger Graduation
+  url: https://www.cncf.io/announcement/2019/10/31/cloud-native-computing-foundation-announces-jaeger-graduation/
+  kind: Announcements
+  isDelivered: false
+- title: Serverless Specification CloudEvents Reaches Version 1.0
+  url: https://www.cncf.io/announcement/2019/10/28/serverless-specification-cloudevents-reaches-version-1-0/
+  kind: Announcements
+  isDelivered: false
+- title: Cloud Native Computing Foundation Announces Schedule for Kubernetes Forums
+    in Seoul and Sydney 
+  url: https://www.cncf.io/announcement/2019/10/17/cloud-native-computing-foundation-announces-schedule-for-kubernetes-forums-in-seoul-and-sydney/
+  kind: Announcements
+  isDelivered: false
+- title: Cloud Native Computing Foundation Announces Application Delivery SIG
+  url: https://www.cncf.io/announcement/2019/09/12/cloud-native-computing-foundation-announces-application-delivery-sig/
+  kind: Announcements
+  isDelivered: false
+- title: Cloud Native Computing Foundation Announces Schedule for KubeCon + CloudNativeCon
+    San Diego
+  url: https://www.cncf.io/announcement/2019/09/05/cloud-native-computing-foundation-announces-schedule-for-kubecon-cloudnativecon-san-diego/
+  kind: Announcements
+  isDelivered: false
