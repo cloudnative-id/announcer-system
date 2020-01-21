@@ -1,49 +1,49 @@
 eventList:
 - name: 'Kubernetes and Cloud Native Bandung #4'
-  city: 'Bandung'
+  city: Bandung
   sponsor:
-  - name: 'Jabar Digital Service'
-    URL: 'https://digitalservice.jabarprov.go.id/'
-  picturePath: 'picture/bandung4.jpg'
+  - name: Jabar Digital Service
+    URL: https://digitalservice.jabarprov.go.id/
+  picturePath: picture/bandung4.jpg
   status:
     delivered: true
   tags:
   - '#meetup'
   speaker:
-  - name: 'Aditya Satrya'
-    title: 'Journey in Implementing Cloud-Native Technology in JDS'
-    company: 'Jabar Digital Service'
-    position: 'Head Of Engineering'
-    videoURL: 'https://www.youtube.com/watch?v=u0Miv0Et_s8&feature=youtu.be'
-    slideURL: 'https://docs.google.com/presentation/d/18pMWvKM3m_MCtX_095za4ogG2Oog-c8wfMxkTWImYFc/edit?usp=sharing'
-  - name: 'Imre Nagi'
-    title: 'Introduction to Kubernetes RBAC'
-    company: 'Schoters.com'
-    position: 'CTO & Co-founder'
-    videoURL: 'https://www.youtube.com/watch?v=u0Miv0Et_s8&feature=youtu.be'
-    slideURL: 'https://docs.google.com/presentation/d/1pUgTksN6qn3oDkSp8tmQB5QGzCl1T7R_Uphwulk6daI/edit?usp=sharing'
+  - name: Aditya Satrya
+    title: Journey in Implementing Cloud-Native Technology in JDS
+    company: Jabar Digital Service
+    position: Head Of Engineering
+    videoURL: https://www.youtube.com/watch?v=u0Miv0Et_s8&feature=youtu.be
+    slideURL: https://docs.google.com/presentation/d/18pMWvKM3m_MCtX_095za4ogG2Oog-c8wfMxkTWImYFc/edit?usp=sharing
+  - name: Imre Nagi
+    title: Introduction to Kubernetes RBAC
+    company: Schoters.com
+    position: CTO & Co-founder
+    videoURL: https://www.youtube.com/watch?v=u0Miv0Et_s8&feature=youtu.be
+    slideURL: https://docs.google.com/presentation/d/1pUgTksN6qn3oDkSp8tmQB5QGzCl1T7R_Uphwulk6daI/edit?usp=sharing
 - name: 'Kubernetes and Cloud Native Yogyakarta #1'
-  city: 'Yogyakarta'
+  city: Yogyakarta
   sponsor:
-  - name: 'Block71-Yogyakarta'
-    URL: 'https://yogyakarta.block71.co/'
-  - name: 'Teknoevent'
-    URL: 'http://teknoevent.com/'
-  picturePath: 'picture/jogja1.jpg'
+  - name: Block71-Yogyakarta
+    URL: https://yogyakarta.block71.co/
+  - name: Teknoevent
+    URL: http://teknoevent.com/
+  picturePath: picture/jogja1.jpg
   status:
-    delivered: false
+    delivered: true
   tags:
   - '#meetup'
   speaker:
-  - name: 'Deny Prasetyo'
-    title: "Cloud and Kubernetes: The introduction"
-    company: 'Gojek'
-    position: 'Gopay System Automation Team Lead'
-    videoURL: 'https://youtu.be/kj2uMG5SJqs'
-    slideURL: 'https://gourl.page.link/AuMB'
-  - name: 'Agastyo Satriaji Idam'
-    title: 'My Journey to Kubernetes'
-    company: 'Ruangguru'
-    position: 'Infrastructure Engineer'
-    videoURL: 'https://youtu.be/kj2uMG5SJqs'
-    slideURL: 'https://gourl.page.link/auKP'
+  - name: Deny Prasetyo
+    title: 'Cloud and Kubernetes: The introduction'
+    company: Gojek
+    position: Gopay System Automation Team Lead
+    videoURL: https://youtu.be/kj2uMG5SJqs
+    slideURL: https://gourl.page.link/AuMB
+  - name: Agastyo Satriaji Idam
+    title: My Journey to Kubernetes
+    company: Ruangguru
+    position: Infrastructure Engineer
+    videoURL: https://youtu.be/kj2uMG5SJqs
+    slideURL: https://gourl.page.link/auKP
