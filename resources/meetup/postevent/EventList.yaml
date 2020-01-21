@@ -22,3 +22,28 @@ eventList:
     position: CTO & Co-founder
     videoURL: https://www.youtube.com/watch?v=u0Miv0Et_s8&feature=youtu.be
     slideURL: https://docs.google.com/presentation/d/1pUgTksN6qn3oDkSp8tmQB5QGzCl1T7R_Uphwulk6daI/edit?usp=sharing
+- name: 'Kubernetes and Cloud Native Yogyakarta #1'
+  city: Yogyakarta
+  sponsor:
+  - name: Block71-Yogyakarta
+    URL: https://yogyakarta.block71.co/
+  - name: Teknoevent
+    URL: http://teknoevent.com/
+  picturePath: picture/jogja1.jpg
+  status:
+    delivered: false
+  tags:
+  - '#meetup'
+  speaker:
+  - name: Deny Prasetyo
+    title: Cloud and Kubernetes: The introduction
+    company: Gojek
+    position: Gopay System Automation Team Lead
+    videoURL: -
+    slideURL: https://gourl.page.link/AuMB
+  - name: Agastyo Satriaji Idam
+    title: My Journey to Kubernetes
+    company: Ruangguru
+    position: Infrastructure Engineer
+    videoURL: https://youtu.be/kj2uMG5SJqs
+    slideURL: https://gourl.page.link/auKP
