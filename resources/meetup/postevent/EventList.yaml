@@ -31,7 +31,7 @@ eventList:
     URL: http://teknoevent.com/
   picturePath: picture/jogja1.jpg
   status:
-    delivered: False
+    delivered: false
   tags:
   - '#meetup'
   speaker:
