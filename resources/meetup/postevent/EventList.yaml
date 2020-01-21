@@ -39,7 +39,7 @@ eventList:
     title: "Cloud and Kubernetes: The introduction"
     company: 'Gojek'
     position: 'Gopay System Automation Team Lead'
-    videoURL: '-'
+    videoURL: "-"
     slideURL: 'https://gourl.page.link/AuMB'
   - name: 'Agastyo Satriaji Idam'
     title: 'My Journey to Kubernetes'
