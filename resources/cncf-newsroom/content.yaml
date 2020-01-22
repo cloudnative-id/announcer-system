@@ -2,16 +2,16 @@ content:
 - title: Cloud Native Computing Foundation Announces TUF Graduation
   url: https://www.cncf.io/announcement/2019/12/18/cloud-native-computing-foundation-announces-tuf-graduation/
   kind: Announcements
-  isDelivered: false
+  isDelivered: true
 - title: Cloud Native Computing Foundation Announces Schedule for Kubernetes Forums
     in Bengaluru and Delhi, India
   url: https://www.cncf.io/announcement/2019/12/12/cloud-native-computing-foundation-announces-schedule-for-kubernetes-forums-in-bengaluru-and-delhi-india/
   kind: Announcements
-  isDelivered: false
+  isDelivered: true
 - title: Cloud Native Computing Foundation Announces 2019 Community Awards Winners
   url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-2019-community-awards-winners/
   kind: Announcements
-  isDelivered: false
+  isDelivered: true
 - title: Cloud Native Computing Foundation Announces Equinix as Gold Member
   url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-equinix-as-gold-member/
   kind: Announcements
@@ -88,41 +88,41 @@ content:
 - title: 'SiliconANGLE: “CNCF launches Kubernetes bug bounty program”'
   url: https://www.cncf.io/news/2020/01/15/siliconangle-cncf-launches-kubernetes-bug-bounty-program/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'VentureBeat: “CNCF, Google, and HackerOne launch Kubernetes bug bounty program”'
   url: https://www.cncf.io/news/2020/01/15/venturebeatcncf-google-and-hackerone-launch-kubernetes-bug-bounty-program/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'TechCrunch: “Kubernetes gets a bug bounty program”'
   url: https://www.cncf.io/news/2020/01/15/techcrunch-kubernetes-gets-a-bug-bounty-program/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'Business Insider: “Developers can now get paid for finding bugs in Kubernetes,
     the popular open source cloud project started at Google”'
   url: https://www.cncf.io/news/2020/01/15/business-insider-developers-can-now-get-paid-for-finding-bugs-in-kubernetes-the-popular-open-source-cloud-project-started-at-google/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'Container Journal: “CNCF Moves Falco Kubernetes Security Platform Forward”'
   url: https://www.cncf.io/news/2020/01/08/container-journal-cncf-moves-falco-kubernetes-security-platform-forward/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'SiliconAngle: “CNCF upgrades Falco runtime security tool to incubator status”'
   url: https://www.cncf.io/news/2020/01/08/siliconangle-cncf-upgrades-falco-runtime-security-tool-to-incubator-status/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'Heise Online: “Cloud Native Computing Foundation elevates Falco security
     project to Incubator”'
   url: https://www.cncf.io/news/2020/01/08/heise-online-cloud-native-computing-foundation-elevates-falco-security-project-to-incubator/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'SiliconANGLE: “CNCF upgrades Falco runtime security tool to incubator status”'
   url: https://www.cncf.io/news/2020/01/08/siliconangle-cncf-upgrades-falco-runtime-security-tool-to-incubator-status-2/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'SDxCentral: “Falco Soars From CNCF Sandbox to Incubation”'
   url: https://www.cncf.io/news/2020/01/08/sdxcentral-falco-soars-from-cncf-sandbox-to-incubation/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'CRN: ” The 10 Hottest Kubernetes Tools And Technologies Of 2019″'
   url: https://www.cncf.io/news/2019/12/20/crn-the-10-hottest-kubernetes-tools-and-technologies-of-2019/
   kind: In The News
@@ -175,46 +175,46 @@ content:
 - title: Linkerd 2019 year in review
   url: https://www.cncf.io/blog/2020/01/20/linkerd-2019-year-in-review/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Webinars: Fresh Insights for the Cloud Native Community'
   url: https://www.cncf.io/blog/2020/01/17/cncf-webinars-fresh-insights-for-the-cloud-native-community/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Kubernetes Message Queue
   url: https://www.cncf.io/blog/2020/01/16/kubernetes-message-queue/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Introducing the Kubernetes Bug Bounty Program
   url: https://www.cncf.io/blog/2020/01/14/introducing-the-kubernetes-bug-bounty-program/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Zendesk: ‘Kubernetes Seemed Like It Was Designed to Solve the Problems We
     Were Having’'
   url: https://www.cncf.io/blog/2020/01/13/zendesk-kubernetes-seemed-like-it-was-designed-to-solve-the-problems-we-were-having/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Keeping Cloud Native Well
   url: https://www.cncf.io/blog/2020/01/10/keeping-cloud-native-well/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'KubeCon + CloudNativeCon North America 2019 Conference Transparency Report:
     The Biggest KubeCon + CloudNativeCon to Date'
   url: https://www.cncf.io/blog/2020/01/09/kubecon-cloudnativecon-north-america-2019-conference-transparency-report-the-biggest-kubecon-cloudnativecon-to-date/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Certified Kubernetes Application Developer (CKAD) Certification is Now Valid
     for 3 Years
   url: https://www.cncf.io/blog/2020/01/09/certified-kubernetes-application-developer-ckad-certification-is-now-valid-for-3-years/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: TOC Votes to Move Falco into CNCF Incubator
   url: https://www.cncf.io/blog/2020/01/08/toc-votes-to-move-falco-into-cncf-incubator/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: A Look Back at KubeCon + CloudNativeCon San Diego 2019
   url: https://www.cncf.io/blog/2020/01/07/a-look-back-at-kubecon-cloudnativecon-san-diego-2019/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Kubernetes Knights at KubeCon + CloudNativeCon NA ’19
   url: https://www.cncf.io/blog/2019/12/17/kubernetes-knights-at-kubecon-19/
   kind: Blog
@@ -262,8 +262,8 @@ content:
 - title: 2019 CNCF Annual Report 
   url: https://www.cncf.io/blog/2020/01/21/2019-cncf-annual-report/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Using Containers and Kubernetes to Increase the Efficacy of Anomaly Detection 
   url: https://www.cncf.io/blog/2020/01/21/using-containers-and-kubernetes-to-increase-the-efficacy-of-anomaly-detection/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
