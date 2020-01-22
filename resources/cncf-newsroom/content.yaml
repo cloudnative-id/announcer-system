@@ -259,3 +259,11 @@ content:
   url: https://www.cncf.io/blog/2019/12/04/how-kubernetes-has-been-transformational-to-productivity-and-culture-at-uswitch/
   kind: Blog
   isDelivered: true
+- title: 2019 CNCF Annual Report 
+  url: https://www.cncf.io/blog/2020/01/21/2019-cncf-annual-report/
+  kind: Blog
+  isDelivered: false
+- title: Using Containers and Kubernetes to Increase the Efficacy of Anomaly Detection 
+  url: https://www.cncf.io/blog/2020/01/21/using-containers-and-kubernetes-to-increase-the-efficacy-of-anomaly-detection/
+  kind: Blog
+  isDelivered: false
