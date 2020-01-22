@@ -2,260 +2,260 @@ content:
 - title: Cloud Native Computing Foundation Announces TUF Graduation
   url: https://www.cncf.io/announcement/2019/12/18/cloud-native-computing-foundation-announces-tuf-graduation/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Announces Schedule for Kubernetes Forums
     in Bengaluru and Delhi, India
   url: https://www.cncf.io/announcement/2019/12/12/cloud-native-computing-foundation-announces-schedule-for-kubernetes-forums-in-bengaluru-and-delhi-india/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Announces 2019 Community Awards Winners
   url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-2019-community-awards-winners/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Announces Equinix as Gold Member
   url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-equinix-as-gold-member/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Reaches Over 100 Certified Kubernetes Vendors
   url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-reaches-over-100-certified-kubernetes-vendors/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Announces NetApp Upgrade to Platinum Membership
   url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-netapp-upgrade-to-platinum-membership/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Announces CNCF Job Board
   url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-cncf-job-board/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Announces Kubernetes Community Days
   url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-kubernetes-community-days/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Welcomes Fidelity Investments as Gold Member
   url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-welcomes-fidelity-investments-as-gold-member/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Announces Arm as Platinum Member
   url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-announces-arm-as-platinum-member/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Receives $200,000 in Credits from Amazon
     Web Services (AWS)
   url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Continues Tremendous Growth, Surpassing
     500 Members
   url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-continues-tremendous-growth-surpassing-500-members/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Welcomes Palo Alto Networks as Platinum
     Member 
   url: https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-welcomes-palo-alto-networks-as-platinum-member/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Helm Reaches Version 3
   url: https://www.cncf.io/announcement/2019/11/13/helm-reaches-version-3/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Announces Vitess Graduation
   url: https://www.cncf.io/announcement/2019/11/05/cloud-native-computing-foundation-announces-vitess-graduation/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Announces Jaeger Graduation
   url: https://www.cncf.io/announcement/2019/10/31/cloud-native-computing-foundation-announces-jaeger-graduation/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Serverless Specification CloudEvents Reaches Version 1.0
   url: https://www.cncf.io/announcement/2019/10/28/serverless-specification-cloudevents-reaches-version-1-0/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Announces Schedule for Kubernetes Forums
     in Seoul and Sydney 
   url: https://www.cncf.io/announcement/2019/10/17/cloud-native-computing-foundation-announces-schedule-for-kubernetes-forums-in-seoul-and-sydney/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Announces Application Delivery SIG
   url: https://www.cncf.io/announcement/2019/09/12/cloud-native-computing-foundation-announces-application-delivery-sig/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: Cloud Native Computing Foundation Announces Schedule for KubeCon + CloudNativeCon
     San Diego
   url: https://www.cncf.io/announcement/2019/09/05/cloud-native-computing-foundation-announces-schedule-for-kubecon-cloudnativecon-san-diego/
   kind: Announcements
-  isDelivered: true
+  isDelivered: false
 - title: 'SiliconANGLE: “CNCF launches Kubernetes bug bounty program”'
   url: https://www.cncf.io/news/2020/01/15/siliconangle-cncf-launches-kubernetes-bug-bounty-program/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'VentureBeat: “CNCF, Google, and HackerOne launch Kubernetes bug bounty program”'
   url: https://www.cncf.io/news/2020/01/15/venturebeatcncf-google-and-hackerone-launch-kubernetes-bug-bounty-program/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'TechCrunch: “Kubernetes gets a bug bounty program”'
   url: https://www.cncf.io/news/2020/01/15/techcrunch-kubernetes-gets-a-bug-bounty-program/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'Business Insider: “Developers can now get paid for finding bugs in Kubernetes,
     the popular open source cloud project started at Google”'
   url: https://www.cncf.io/news/2020/01/15/business-insider-developers-can-now-get-paid-for-finding-bugs-in-kubernetes-the-popular-open-source-cloud-project-started-at-google/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'Container Journal: “CNCF Moves Falco Kubernetes Security Platform Forward”'
   url: https://www.cncf.io/news/2020/01/08/container-journal-cncf-moves-falco-kubernetes-security-platform-forward/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'SiliconAngle: “CNCF upgrades Falco runtime security tool to incubator status”'
   url: https://www.cncf.io/news/2020/01/08/siliconangle-cncf-upgrades-falco-runtime-security-tool-to-incubator-status/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'Heise Online: “Cloud Native Computing Foundation elevates Falco security
     project to Incubator”'
   url: https://www.cncf.io/news/2020/01/08/heise-online-cloud-native-computing-foundation-elevates-falco-security-project-to-incubator/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'SiliconANGLE: “CNCF upgrades Falco runtime security tool to incubator status”'
   url: https://www.cncf.io/news/2020/01/08/siliconangle-cncf-upgrades-falco-runtime-security-tool-to-incubator-status-2/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'SDxCentral: “Falco Soars From CNCF Sandbox to Incubation”'
   url: https://www.cncf.io/news/2020/01/08/sdxcentral-falco-soars-from-cncf-sandbox-to-incubation/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'CRN: ” The 10 Hottest Kubernetes Tools And Technologies Of 2019″'
   url: https://www.cncf.io/news/2019/12/20/crn-the-10-hottest-kubernetes-tools-and-technologies-of-2019/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'DevOps.com: “CNCF Graduates TUF Project to Secure Software Updates”'
   url: https://www.cncf.io/news/2019/12/18/devops-com-cncf-graduates-tuf-project-to-secure-software-updates/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'SiliconANGLE: “Cloud-native project The Update Framework hits top-level
     CNCF status”'
   url: https://www.cncf.io/news/2019/12/18/siliconangle-cloud-native-project-the-update-framework-hits-top-level-cncf-status/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'Forbes: “How Kubernetes Has Changed The Face Of Hybrid Cloud”'
   url: https://www.cncf.io/news/2019/12/16/forbes-how-kubernetes-has-changed-the-face-of-hybrid-cloud/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'Barron’s: “‘Kubernetes’ Is the Future of Computing. An Insider Explains
     Why.”'
   url: https://www.cncf.io/news/2019/12/05/barrons-kubernetes-is-the-future-of-computing-an-insider-explains-why/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'Container Journal: “Helm Package Manager for Kubernetes Moves Forward”'
   url: https://www.cncf.io/news/2019/12/02/container-journal-helm-package-manager-for-kubernetes-moves-forward/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'The New Stack: “Party Circuit: Waves of Excitement Wash over KubeCon + CloudNativeCon
     North America 2019”'
   url: https://www.cncf.io/news/2019/11/30/the-new-stack-party-circuit-waves-of-excitement-wash-over-kubecon-cloudnativecon-north-america-2019/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'SDxCentral: “KubeCon Showed Kubernetes Is Big, but Is It a Unicorn?”'
   url: https://www.cncf.io/news/2019/11/29/sdxcentral-kubecon-showed-kubernetes-is-big-but-is-it-a-unicorn/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'InfoQ: “Q&A with Matt Fisher of Microsoft about Helm 3.0 Release for Kubernetes”'
   url: https://www.cncf.io/news/2019/11/27/infoq-qa-with-matt-fisher-of-microsoft-about-helm-3-0-release-for-kubernetes/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'Barron’s: “‘Kubernetes’ Is the Future of Computing. What You Should Know
     About the New Trend”'
   url: https://www.cncf.io/news/2019/11/27/barrons-kubernetes-is-the-future-of-computing-what-you-should-know-about-the-new-trend/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: 'Channel Futures: “Analysts Say Kubernetes Is a Services-Building Opportunity
     for the Channel”'
   url: https://www.cncf.io/news/2019/11/25/channel-futures-analysts-say-kubernetes-is-a-services-building-opportunity-for-the-channel/
   kind: In The News
-  isDelivered: true
+  isDelivered: false
 - title: Linkerd 2019 year in review
   url: https://www.cncf.io/blog/2020/01/20/linkerd-2019-year-in-review/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: 'CNCF Webinars: Fresh Insights for the Cloud Native Community'
   url: https://www.cncf.io/blog/2020/01/17/cncf-webinars-fresh-insights-for-the-cloud-native-community/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: Kubernetes Message Queue
   url: https://www.cncf.io/blog/2020/01/16/kubernetes-message-queue/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: Introducing the Kubernetes Bug Bounty Program
   url: https://www.cncf.io/blog/2020/01/14/introducing-the-kubernetes-bug-bounty-program/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: 'Zendesk: ‘Kubernetes Seemed Like It Was Designed to Solve the Problems We
     Were Having’'
   url: https://www.cncf.io/blog/2020/01/13/zendesk-kubernetes-seemed-like-it-was-designed-to-solve-the-problems-we-were-having/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: Keeping Cloud Native Well
   url: https://www.cncf.io/blog/2020/01/10/keeping-cloud-native-well/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: 'KubeCon + CloudNativeCon North America 2019 Conference Transparency Report:
     The Biggest KubeCon + CloudNativeCon to Date'
   url: https://www.cncf.io/blog/2020/01/09/kubecon-cloudnativecon-north-america-2019-conference-transparency-report-the-biggest-kubecon-cloudnativecon-to-date/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: Certified Kubernetes Application Developer (CKAD) Certification is Now Valid
     for 3 Years
   url: https://www.cncf.io/blog/2020/01/09/certified-kubernetes-application-developer-ckad-certification-is-now-valid-for-3-years/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: TOC Votes to Move Falco into CNCF Incubator
   url: https://www.cncf.io/blog/2020/01/08/toc-votes-to-move-falco-into-cncf-incubator/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: A Look Back at KubeCon + CloudNativeCon San Diego 2019
   url: https://www.cncf.io/blog/2020/01/07/a-look-back-at-kubecon-cloudnativecon-san-diego-2019/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: Kubernetes Knights at KubeCon + CloudNativeCon NA ’19
   url: https://www.cncf.io/blog/2019/12/17/kubernetes-knights-at-kubecon-19/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: Kubernetes 101
   url: https://www.cncf.io/blog/2019/12/16/kubernetes-101/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: FAQ for December 2019 TOC Nominations
   url: https://www.cncf.io/blog/2019/12/13/faq-for-december-2019-toc-nominations/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: Does Testing Kubernetes Conformance Leave You in the Dark? Get Progress Updates
     as Tests Run
   url: https://www.cncf.io/blog/2019/12/13/does-testing-kubernetes-conformance-leave-you-in-the-dark-get-progress-updates-as-tests-run/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: Demystifying Kubernetes as a Service – How Alibaba Cloud Manages 10,000s
     of Kubernetes Clusters
   url: https://www.cncf.io/blog/2019/12/12/demystifying-kubernetes-as-a-service-how-does-alibaba-cloud-manage-10000s-of-kubernetes-clusters/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: How Jaeger Helped Grafana Labs Improve Query Performance and Root Out Tough
     Bugs
   url: https://www.cncf.io/blog/2019/12/11/how-jaeger-helped-grafana-labs-improve-query-performance-and-root-out-tough-bugs/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: 'AutoTiKV: TiKV Tuning Made Easy by AI and Machine Learning'
   url: https://www.cncf.io/blog/2019/12/10/autotikv-tikv-tuning-made-easy-by-ai-and-machine-learning/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: CNCF TOC Governance Structure + Elections 2020
   url: https://www.cncf.io/blog/2019/12/06/cncf-toc-governance-structure-elections-2020/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: CNCF to Participate Again in the Community Bridge Mentorship Program
   url: https://www.cncf.io/blog/2019/12/05/cncf-to-participate-in-the-community-bridge-mentorship-program/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
 - title: How Kubernetes Has Been ‘Transformational’ to Productivity and Culture at
     uSwitch
   url: https://www.cncf.io/blog/2019/12/04/how-kubernetes-has-been-transformational-to-productivity-and-culture-at-uswitch/
   kind: Blog
-  isDelivered: true
+  isDelivered: false
