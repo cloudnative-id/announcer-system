@@ -1,0 +1,18 @@
+*CNCF Newsroom Update*
+
+*Announcements:*
+{{ range .Content }}{{ if eq .Kind "Announcements" }}• [{{ .Title }}]({{ .Url }})
+{{ end }}{{ end }}
+
+*In The News:*
+{{ range .Content }}{{ if eq .Kind "In The News" }}• [{{ .Title }}]({{ .Url }})
+{{ end }}{{ end }}
+
+*Blog:*
+{{ range .Content }}{{ if eq .Kind "Blog" }}• [{{ .Title }}]({{ .Url }})
+{{ end }}{{ end }}
+
+Tags: #cncfnews
+This information is gather from cncf.io
+Cloud Native Indonesia Community
+

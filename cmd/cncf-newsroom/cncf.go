@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
     "github.com/PuerkitoBio/goquery"
 	"log"
 	"net/http"
@@ -24,20 +23,26 @@ func GetContentCNCF(url, kind string, currentContent ContentCNCF) ContentCNCF {
 	doc.Find(".post-list-article").Each(func(i int, s0 *goquery.Selection) {
 		s0.Find("h2").ChildrenFiltered("a").Each(func(i int, s1 *goquery.Selection) {
 
+			var doAppend bool
+			doAppend = true
+
 			title := s1.Text()
+			url, _ := s1.Attr("href")
 
-			for _,v := range currentContent.content {
-				if v.title == title {
-					url, _ := s1.Attr("href")
-
-					singleContent := ContentCNCFList{title: title, url: url, kind: kind, isDelivered: false}
-					newContent.content = append(newContent.content,singleContent)
+			for _, v := range currentContent.Content {
+				if v.Url == url{
+					doAppend = false
 				}
 			}
+
+			if doAppend {
+				singleContent := ContentCNCFList{Title: title, Url: url, Kind: kind, IsDelivered: false}
+				newContent.Content = append(newContent.Content,singleContent)
+			}
+
 		})
 	})
 
-	fmt.Println(newContent)
 	return newContent
 }
 

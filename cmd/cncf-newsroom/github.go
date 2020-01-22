@@ -39,7 +39,7 @@ func (s *Github) GetFile(organization, repository, path string) []byte {
 	if err != nil {
 		log.Fatal(err)
 	}
-
+	
 	return body
 }
 

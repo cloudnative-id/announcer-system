@@ -1,6 +1,10 @@
 # Announcer System
 Repository for Announcer System to help Cloud Native Indonesia community announce something (meetup, kubeweekly, etc.) directly into community member.
 
+```
+make deps
+```
+
 ## Kubeweekly 
 ```
 export USERNAME=""
@@ -8,6 +12,14 @@ export PASSWORD=""
 
 make kubeweekly-build
 make kubeweekly-run
+```
+## CNCF Newsroom
+```
+export USERNAME=""
+export PASSWORD=""
+
+make cncf-newsroom-build
+make cncf-newsroom-run
 ```
 ## Orchestrator
 ```

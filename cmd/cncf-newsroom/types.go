@@ -1,12 +1,12 @@
 package main
 
 type ContentCNCF struct {
-	content []ContentCNCFList `yaml:"content"`
+	Content []ContentCNCFList `yaml:"content"`
 }
 
 type ContentCNCFList struct {
-	title string `yaml:"title"`
-	url string `yaml:"url"`
-	kind string `yaml:"kind"`
-	isDelivered bool `yaml:"isdelivered"`
+	Title string `yaml:"title"`
+	Url string `yaml:"url"`
+	Kind string `yaml:"kind"`
+	IsDelivered bool `yaml:"isDelivered"`
 }
