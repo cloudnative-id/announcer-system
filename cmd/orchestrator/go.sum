@@ -1,5 +1,6 @@
 cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
-github.com/cloudnative-id/announcer-system v0.0.0-20200123043438-d8289c0c931b h1:zeh2tRK3tm93d7OKUchItjEMimviugD6JMbjsT7QF0I=
+github.com/cloudnative-id/announcer-system v0.0.0-20200123075115-213166d0398d h1:t2CugXXIed9P6PbEdo7PdnNpRVDvTKJY1Vvipky0ZFM=
+github.com/cloudnative-id/announcer-system v0.0.0-20200123075115-213166d0398d/go.mod h1:inoWFAC/93/BMki4J8kZdgxupOH3MYckvmdXfyENNNE=
 github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible h1:2cauKuaELYAEARXRkq2LrJ0yDDv1rW7+wrTEdVL3uaU=
 github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible/go.mod h1:qf9acutJ8cwBUhm1bqgz6Bei9/C/c93FPDljKWwsOgM=
 github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
@@ -9,8 +10,6 @@ github.com/google/go-querystring v1.0.0 h1:Xkwi/a1rcvNg1PPYe5vI8GbeBY/jrVuDX5ASu
 github.com/google/go-querystring v1.0.0/go.mod h1:odCYkC5MyYFN7vkCjXpyrEuKhc/BUO6wN/zVPAxq5ck=
 github.com/technoweenie/multipartstreamer v1.0.1 h1:XRztA5MXiR1TIRHxH2uNxXxaIkKQDeX7m2XsSOlQEnM=
 github.com/technoweenie/multipartstreamer v1.0.1/go.mod h1:jNVxdtShOxzAsukZwTSw6MDx5eUJoiEBsSvzDU9uzog=
-github.com/zufardhiyaulhaq/announcer-system v0.0.0-20200123071733-6f084d843c88 h1:Bo5bZlAtFg7av1XRRxIdh6kBQ5e6zzMNMdHddyUKP60=
-github.com/zufardhiyaulhaq/announcer-system v0.0.0-20200123071733-6f084d843c88/go.mod h1:6WaSoMmIE0nZWHHNB50dsw/BPQjoH/nsCweWJ4BZSSc=
 golang.org/x/net v0.0.0-20180724234803-3673e40ba225/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/net v0.0.0-20190108225652-1e06a53dbb7e h1:bRhVy7zSSasaqNksaRZiA5EEI+Ei4I1nO5Jh72wfHlg=
 golang.org/x/net v0.0.0-20190108225652-1e06a53dbb7e/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
