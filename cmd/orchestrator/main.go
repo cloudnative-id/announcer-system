@@ -7,11 +7,14 @@ import (
 func main() {
 	User := os.Getenv("USERNAME")
 	Password := os.Getenv("PASSWORD")
+	var session = Github{User, Password}
 
-	var Session = Github{User, Password}
+	var telegramBot TelegramDispatcher
+	telegramBot.StartBot()
 
-	Kubeweekly(Session)
-	PosterMeetup(Session)
-	PostMeetup(Session)
+	Kubeweekly(session, telegramBot)
+	CNCFNewsRoom(session, telegramBot)
+	NewMeetup(session, telegramBot)
+	PostMeetup(session, telegramBot)
 
 }

@@ -5,8 +5,8 @@ import (
 	"gopkg.in/yaml.v2"
 )
 
-func PosterMeetup(Session Github)(){
-	ConfigTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/meetup/poster/EventList.yaml")
+func NewMeetup(session Github, telegramBot TelegramDispatcher)(){
+	ConfigTmpl := session.GetFile("cloudnative-id","announcer-system","./resources/meetup/poster/EventList.yaml")
 
 	var PushRepository = false
 	var Config MeetupEventList
@@ -15,16 +15,16 @@ func PosterMeetup(Session Github)(){
 
 	for i, s := range Config.EventLists {
 		if s.Status.IsDelivered == false {
-
-			YamlTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/meetup/poster/"+s.Event)
+			YamlTmpl := session.GetFile("cloudnative-id","announcer-system","./resources/meetup/poster/"+s.Event)
 
 			var Event MeetupEvent
 			yaml.Unmarshal(YamlTmpl, &Event)
 			
-			URL:= Session.GetURLFile("cloudnative-id","announcer-system","./resources/meetup/poster/event/"+Event.PicturePath)
+			URL:= session.GetURLFile("cloudnative-id","announcer-system","./resources/meetup/poster/event/"+Event.PicturePath)
 
 			fmt.Println("Send message to Telegram")
-			PosterMeetupTelegram(Event, URL)
+			telegramBot.SendMsgTelegram(Event)
+			telegramBot.SendPicTelegram(URL)
 
 			Config.EventLists[i].Status.IsDelivered = true
 			PushRepository = true
@@ -35,15 +35,14 @@ func PosterMeetup(Session Github)(){
 		fmt.Println("Push updated Data")
 
 		Data, _ := yaml.Marshal(Config)
-
-		Session.UpdateFile("cloudnative-id", "announcer-system", "./resources/meetup/poster/EventList.yaml", Data)
+		session.UpdateFile("cloudnative-id", "announcer-system", "./resources/meetup/poster/EventList.yaml", Data)
 	} else {
 		fmt.Println("No Updated in Meetup")
 	}
 }
 
-func PostMeetup(Session Github)(){
-	ConfigTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/meetup/postevent/EventList.yaml")
+func PostMeetup(session Github, telegramBot TelegramDispatcher)(){
+	ConfigTmpl := session.GetFile("cloudnative-id","announcer-system","./resources/meetup/postevent/EventList.yaml")
 
 	var PushRepository = false
 	var Config PostMeetupEvent
@@ -52,11 +51,11 @@ func PostMeetup(Session Github)(){
 
 	for i, s := range Config.EventLists {
 		if s.Status.IsDelivered == false {
-
-			URL:= Session.GetURLFile("cloudnative-id","announcer-system","./resources/meetup/postevent/"+s.PicturePath)
+			URL:= session.GetURLFile("cloudnative-id","announcer-system","./resources/meetup/postevent/"+s.PicturePath)
 
 			fmt.Println("Send message to Telegram")
-			PostMeetupTelegram(s, URL)
+			telegramBot.SendMsgTelegram(s)
+			telegramBot.SendPicTelegram(URL)
 
 			Config.EventLists[i].Status.IsDelivered = true
 			PushRepository = true
@@ -67,8 +66,7 @@ func PostMeetup(Session Github)(){
 		fmt.Println("Push updated Data")
 
 		Data, _ := yaml.Marshal(Config)
-
-		Session.UpdateFile("cloudnative-id", "announcer-system", "./resources/meetup/postevent/EventList.yaml", Data)
+		session.UpdateFile("cloudnative-id", "announcer-system", "./resources/meetup/postevent/EventList.yaml", Data)
 	} else {
 		fmt.Println("No Updated in Meetup")
 	}

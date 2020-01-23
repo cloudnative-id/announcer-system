@@ -8,91 +8,77 @@ import (
 	"github.com/go-telegram-bot-api/telegram-bot-api"
 )
 
-func KubeweeklyTelegram(Data KubeweeklyContent) {
-
-	TelegramToken := os.Getenv("TELEGRAM_TOKEN")
-	TelegramChatID, _ := strconv.Atoi(os.Getenv("TELEGRAM_CHATID"))
-
-	var Output bytes.Buffer
-
-	Tpl, err := template.ParseFiles("templates/KubeweeklyTelegram.tmpl")
-	if err != nil {
-		panic(err)
-	  }
-	
-	err = Tpl.Execute(&Output, Data)
-	if err != nil {
-		panic(err)
-	  }
-	
-	Bot, err := tgbotapi.NewBotAPI(TelegramToken)
-	if err != nil {
-		panic(err)
-	}
-
-	Msg := tgbotapi.NewMessage(int64(TelegramChatID), Output.String())
-	Msg.ParseMode = "markdown"
-	Msg.DisableWebPagePreview = true
-
-	Bot.Send(Msg)
+type TelegramDispatcher struct {
+	Token string
+	ChatID int
+	Bot *tgbotapi.BotAPI
+	Msg tgbotapi.MessageConfig
+	Pic tgbotapi.PhotoConfig
 }
 
-func PosterMeetupTelegram(Data MeetupEvent, URL string) {
-	TelegramToken := os.Getenv("TELEGRAM_TOKEN")
-	TelegramChatID, _ := strconv.Atoi(os.Getenv("TELEGRAM_CHATID"))
+func (t *TelegramDispatcher) GetCredential() {
+	var err error
 
-	var Output bytes.Buffer
-
-	Tpl, err := template.ParseFiles("templates/PosterMeetupTelegram.tmpl")
+	t.Token = os.Getenv("TELEGRAM_TOKEN")
+	t.ChatID, err = strconv.Atoi(os.Getenv("TELEGRAM_CHATID"))
 	if err != nil {
 		panic(err)
 	  }
-	
-	err = Tpl.Execute(&Output, Data)
-	if err != nil {
-		panic(err)
-	  }
-	
-	Bot, err := tgbotapi.NewBotAPI(TelegramToken)
-	if err != nil {
-		panic(err)
-	}
-
-	Msg := tgbotapi.NewMessage(int64(TelegramChatID), Output.String())
-	Msg.ParseMode = "markdown"
-	Msg.DisableWebPagePreview = true
-	Bot.Send(Msg)
-
-	Pic := tgbotapi.NewPhotoShare(int64(TelegramChatID), URL)
-	Bot.Send(Pic)
 }
 
-func PostMeetupTelegram(Data PostMeetupEventList, URL string) {
-	TelegramToken := os.Getenv("TELEGRAM_TOKEN")
-	TelegramChatID, _ := strconv.Atoi(os.Getenv("TELEGRAM_CHATID"))
+func (t *TelegramDispatcher) StartBot() {
+	var err error
 
-	var Output bytes.Buffer
-
-	Tpl, err := template.ParseFiles("templates/PostMeetupTelegram.tmpl")
+	t.GetCredential()
+	t.Bot, err = tgbotapi.NewBotAPI(t.Token)
 	if err != nil {
 		panic(err)
 	  }
-	
-	err = Tpl.Execute(&Output, Data)
-	if err != nil {
-		panic(err)
-	  }
-	
-	Bot, err := tgbotapi.NewBotAPI(TelegramToken)
-	if err != nil {
-		panic(err)
-	}
-
-	Msg := tgbotapi.NewMessage(int64(TelegramChatID), Output.String())
-	Msg.ParseMode = "markdown"
-	Msg.DisableWebPagePreview = true
-	Bot.Send(Msg)
-
-	Pic := tgbotapi.NewPhotoShare(int64(TelegramChatID), URL)
-	Bot.Send(Pic)
 }
+
+func (t *TelegramDispatcher) MessageBot(output bytes.Buffer) {
+	t.Msg = tgbotapi.NewMessage(int64(t.ChatID), output.String())
+	t.Msg.ParseMode = "markdown"
+	t.Msg.DisableWebPagePreview = true
+}
+
+func (t *TelegramDispatcher) PictureBot(url string) {
+	t.Pic = tgbotapi.NewPhotoShare(int64(t.ChatID), url)
+}
+
+func (t *TelegramDispatcher) SendMsgTelegram(arg interface{}) {
+	var tmplFile string
+	var output bytes.Buffer
+
+	switch arg.(type) {
+    case KubeweeklyContent:
+        tmplFile = "templates/KubeweeklyTelegram.tmpl"
+    case ContentCNCF:
+		tmplFile = "templates/CNCFTelegram.tmpl"
+	case MeetupEvent:
+		tmplFile = "templates/NewMeetupTelegram.tmpl"
+	case PostMeetupEventList:
+        tmplFile = "templates/PostMeetupTelegram.tmpl"
+	}
+	
+	tpl, err := template.ParseFiles(tmplFile)
+	if err != nil {
+		panic(err)
+	  }
+	
+	err = tpl.Execute(&output, arg)
+	if err != nil {
+		panic(err)
+	  }
+	
+	t.MessageBot(output)
+	t.Bot.Send(t.Msg)
+}
+
+
+func (t *TelegramDispatcher) SendPicTelegram(url string) {
+	t.PictureBot(url)
+	t.Bot.Send(t.Pic)
+}
+
+
