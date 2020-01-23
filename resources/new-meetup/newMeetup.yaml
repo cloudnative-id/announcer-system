@@ -1,5 +1,5 @@
-eventList:
-- event: event/bandung4.yaml
+newMeetup:
+- contentFile: meetup/bandung4.yaml
   city: Bandung
   number: 4
   status:

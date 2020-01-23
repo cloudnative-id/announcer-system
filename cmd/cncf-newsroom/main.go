@@ -4,16 +4,18 @@ import (
 	"os"
 	"fmt"
 	"gopkg.in/yaml.v2"
+	"github.com/cloudnative-id/announcer-system/models"
+	"github.com/cloudnative-id/announcer-system/handlers"
 )
 
 func main() {
 	username := os.Getenv("USERNAME")
 	password := os.Getenv("PASSWORD")
 
-	var session = Github{username: username, password: password}
+	var session = handlers.Github{Username: username, Password: password}
 	
-	var currentContent ContentCNCF
-	currentContentTmpl := session.GetFile("zufardhiyaulhaq","announcer-system","./resources/cncf-newsroom/content.yaml")
+	var currentContent models.NewsroomCNCFList
+	currentContentTmpl := session.GetFile("cloudnative-id","announcer-system","./resources/cncf-newsroom/content.yaml")
 	
 	err := yaml.Unmarshal(currentContentTmpl, &currentContent)
 	if err != nil {
@@ -22,7 +24,7 @@ func main() {
 
 	currentLen := len(currentContent.Content)
 
-	var newContent ContentCNCF
+	var newContent models.NewsroomCNCFList
 
 	announcementsURL := "https://www.cncf.io/newsroom/announcements/"
 	announcementKind := "Announcements"
@@ -55,7 +57,7 @@ func main() {
 
 	if newLen != currentLen {
 		Data, _ := yaml.Marshal(currentContent)
-		session.UpdateFile("zufardhiyaulhaq","announcer-system","./resources/cncf-newsroom/content.yaml",Data)
+		session.UpdateFile("cloudnative-id","announcer-system","./resources/cncf-newsroom/content.yaml",Data)
 	} else {
 		fmt.Println("No update in CNCF Newsroom")
 	}

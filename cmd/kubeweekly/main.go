@@ -5,6 +5,8 @@ import (
 	"fmt"
 	"strings"
 	"gopkg.in/yaml.v2"
+	"github.com/cloudnative-id/announcer-system/models"
+	"github.com/cloudnative-id/announcer-system/handlers"
 )
 
 func main() {
@@ -12,10 +14,10 @@ func main() {
 	User := os.Getenv("USERNAME")
 	Password := os.Getenv("PASSWORD")
 
-	var Session = Github{Username: User, Password: Password}
-	ContentListTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/kubeweekly/ContentList.yaml")
+	var Session = handlers.Github{Username: User, Password: Password}
+	ContentListTmpl := Session.GetFile("cloudnative-id","announcer-system","./resources/kubeweekly/kubeweekly.yaml")
 	
-	var CurrentContentList KubeweeklyContentList
+	var CurrentContentList models.KubeweeklyList
 	yaml.Unmarshal(ContentListTmpl, &CurrentContentList)
 
 	var NewKubeweeklyTitle string
@@ -24,7 +26,7 @@ func main() {
 	NewKubeweeklyTitle = strings.ReplaceAll(GetNewKubeweeklyTitle(), " #", "")
 	UpdateKubeweekly = true
 
-	for _, List := range CurrentContentList.ContentLists{
+	for _, List := range CurrentContentList.Data{
 		if List.Title == NewKubeweeklyTitle{
 			UpdateKubeweekly = false
 		}
@@ -33,18 +35,18 @@ func main() {
 	if UpdateKubeweekly {
 		fmt.Println("Start getting content for New Kubeweekly")
 		
-		var NewContent KubeweeklyContent
+		var NewContent models.KubeweeklyContent
 		NewContent = GetContentKubeweekly()
 
-		var NewContentList ContentList
+		var NewContentList models.KubeweeklyData
 		NewContentList = GetContentListKubeweekly()
 
 		NewContentYaml, _ := yaml.Marshal(NewContent)
-		Session.CreateFile("cloudnative-id","announcer-system","./resources/kubeweekly/"+NewContentList.Content,NewContentYaml)
+		Session.CreateFile("cloudnative-id","announcer-system","./resources/kubeweekly/"+NewContentList.ContentFile,NewContentYaml)
 		
-		CurrentContentList.ContentLists = append(CurrentContentList.ContentLists,NewContentList)
+		CurrentContentList.Data = append(CurrentContentList.Data,NewContentList)
 		NewContentListYaml, _ := yaml.Marshal(CurrentContentList)
-		Session.UpdateFile("cloudnative-id","announcer-system","./resources/kubeweekly/ContentList.yaml",NewContentListYaml)
+		Session.UpdateFile("cloudnative-id","announcer-system","./resources/kubeweekly/kubeweekly.yaml",NewContentListYaml)
 
 	} else {
 		fmt.Println("Kubeweekly not updated")

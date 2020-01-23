@@ -1,10 +1,10 @@
-eventList:
+postMeetup:
 - name: 'Kubernetes and Cloud Native Bandung #4'
   city: Bandung
   sponsor:
   - name: Jabar Digital Service
     URL: https://digitalservice.jabarprov.go.id/
-  picturePath: picture/bandung4.jpg
+  pictureFile: picture/bandung4.jpg
   status:
     delivered: true
   tags:
@@ -29,7 +29,7 @@ eventList:
     URL: https://yogyakarta.block71.co/
   - name: Teknoevent
     URL: http://teknoevent.com/
-  picturePath: picture/jogja1.jpg
+  pictureFile: picture/jogja1.jpg
   status:
     delivered: true
   tags:

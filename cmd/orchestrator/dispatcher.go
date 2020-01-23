@@ -6,6 +6,7 @@ import (
 	"strconv"
 	"text/template"
 	"github.com/go-telegram-bot-api/telegram-bot-api"
+	"github.com/cloudnative-id/announcer-system/models"
 )
 
 type TelegramDispatcher struct {
@@ -51,13 +52,13 @@ func (t *TelegramDispatcher) SendMsgTelegram(arg interface{}) {
 	var output bytes.Buffer
 
 	switch arg.(type) {
-    case KubeweeklyContent:
+    case models.KubeweeklyContent:
         tmplFile = "templates/KubeweeklyTelegram.tmpl"
-    case ContentCNCF:
+    case models.NewsroomCNCFList:
 		tmplFile = "templates/CNCFTelegram.tmpl"
-	case MeetupEvent:
+	case models.NewMeetupContent:
 		tmplFile = "templates/NewMeetupTelegram.tmpl"
-	case PostMeetupEventList:
+	case models.PostMeetupContent:
         tmplFile = "templates/PostMeetupTelegram.tmpl"
 	}
 	

@@ -7,6 +7,7 @@ import (
     "github.com/PuerkitoBio/goquery"
 	"log"
 	"net/http"
+	"github.com/cloudnative-id/announcer-system/models"
 )
 
 func GetDate() string {
@@ -40,21 +41,21 @@ func GetNewKubeweeklyTitle() string {
 	return Title
 
 }
-func GetContentListKubeweekly() ContentList {
-	var Data ContentList
+func GetContentListKubeweekly() models.KubeweeklyData {
+	var Data models.KubeweeklyData
 
 	Data.Title = strings.ReplaceAll(GetNewKubeweeklyTitle(), " #", "")
 	Data.Date = GetDate()
-	Data.Content = "contents/"+Data.Title+".yaml"
+	Data.ContentFile = "contents/"+Data.Title+".yaml"
 	Data.Status.IsDelivered = false
 	Data.Tags = append(Data.Tags,"#kubereads")
 
 	return Data
 }
 
-func GetContentKubeweekly() KubeweeklyContent{
+func GetContentKubeweekly() models.KubeweeklyContent{
 
-	var Content KubeweeklyContent
+	var Content models.KubeweeklyContent
 
 	Content.Title = GetNewKubeweeklyTitle()
 	Content.Source = "kubeweekly"
@@ -82,7 +83,7 @@ func GetContentKubeweekly() KubeweeklyContent{
 			Title = s1.Text()
 			Link, _ = s1.Attr("href")
 
-			ContentData := KubeweeklyContentData{Title: Title, Type: Type, Link: Link}
+			ContentData := models.KubeweeklyContentData{Title: Title, Type: Type, Link: Link}
 			Content.Data = append(Content.Data,ContentData)
 		})
 	})

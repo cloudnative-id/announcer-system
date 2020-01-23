@@ -1,8 +1,4 @@
 content:
-- title: Cloud Native Computing Foundation Announces TUF Graduation
-  url: https://www.cncf.io/announcement/2019/12/18/cloud-native-computing-foundation-announces-tuf-graduation/
-  kind: Announcements
-  isDelivered: true
 - title: Cloud Native Computing Foundation Announces Schedule for Kubernetes Forums
     in Bengaluru and Delhi, India
   url: https://www.cncf.io/announcement/2019/12/12/cloud-native-computing-foundation-announces-schedule-for-kubernetes-forums-in-bengaluru-and-delhi-india/
@@ -84,10 +80,6 @@ content:
     San Diego
   url: https://www.cncf.io/announcement/2019/09/05/cloud-native-computing-foundation-announces-schedule-for-kubecon-cloudnativecon-san-diego/
   kind: Announcements
-  isDelivered: true
-- title: 'SiliconANGLE: “CNCF launches Kubernetes bug bounty program”'
-  url: https://www.cncf.io/news/2020/01/15/siliconangle-cncf-launches-kubernetes-bug-bounty-program/
-  kind: In The News
   isDelivered: true
 - title: 'VentureBeat: “CNCF, Google, and HackerOne launch Kubernetes bug bounty program”'
   url: https://www.cncf.io/news/2020/01/15/venturebeatcncf-google-and-hackerone-launch-kubernetes-bug-bounty-program/
@@ -171,10 +163,6 @@ content:
     for the Channel”'
   url: https://www.cncf.io/news/2019/11/25/channel-futures-analysts-say-kubernetes-is-a-services-building-opportunity-for-the-channel/
   kind: In The News
-  isDelivered: true
-- title: Linkerd 2019 year in review
-  url: https://www.cncf.io/blog/2020/01/20/linkerd-2019-year-in-review/
-  kind: Blog
   isDelivered: true
 - title: 'CNCF Webinars: Fresh Insights for the Cloud Native Community'
   url: https://www.cncf.io/blog/2020/01/17/cncf-webinars-fresh-insights-for-the-cloud-native-community/
@@ -265,5 +253,21 @@ content:
   isDelivered: true
 - title: Using Containers and Kubernetes to Increase the Efficacy of Anomaly Detection 
   url: https://www.cncf.io/blog/2020/01/21/using-containers-and-kubernetes-to-increase-the-efficacy-of-anomaly-detection/
+  kind: Blog
+  isDelivered: true
+- title: Cloud Native Computing Foundation Announces TUF Graduation
+  url: https://www.cncf.io/announcement/2019/12/18/cloud-native-computing-foundation-announces-tuf-graduation/
+  kind: Announcements
+  isDelivered: true
+- title: 'Container Journal: “CNCF Annual Report Shows Kubernetes Growth”'
+  url: https://www.cncf.io/news/2020/01/21/container-journal-cncf-annual-report-shows-kubernetes-growth/
+  kind: In The News
+  isDelivered: true
+- title: 'SiliconANGLE: “CNCF launches Kubernetes bug bounty program”'
+  url: https://www.cncf.io/news/2020/01/15/siliconangle-cncf-launches-kubernetes-bug-bounty-program/
+  kind: In The News
+  isDelivered: true
+- title: Linkerd 2019 year in review
+  url: https://www.cncf.io/blog/2020/01/20/linkerd-2019-year-in-review/
   kind: Blog
   isDelivered: true

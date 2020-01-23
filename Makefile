@@ -29,4 +29,6 @@ deps:
 		$(GOGET) github.com/google/go-github/github
 		$(GOGET) github.com/go-telegram-bot-api/telegram-bot-api
 		$(GOGET) github.com/PuerkitoBio/goquery
-		$(GOGET) golang.org/x/oauth2		
+		$(GOGET) golang.org/x/oauth2	
+		$(GOGET) github.com/cloudnative-id/announcer-system/models
+		$(GOGET) github.com/cloudnative-id/announcer-system/handlers

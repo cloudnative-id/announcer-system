@@ -4,11 +4,12 @@ import (
     "github.com/PuerkitoBio/goquery"
 	"log"
 	"net/http"
+	"github.com/cloudnative-id/announcer-system/models"
 )
 
-func GetContentCNCF(url, kind string, currentContent ContentCNCF) ContentCNCF {
+func GetContentCNCF(url, kind string, currentContent models.NewsroomCNCFList) models.NewsroomCNCFList {
 	
-	var newContent ContentCNCF
+	var newContent models.NewsroomCNCFList
 	res, err := http.Get(url)
 	if err != nil {
 		log.Fatal(err)
@@ -36,7 +37,7 @@ func GetContentCNCF(url, kind string, currentContent ContentCNCF) ContentCNCF {
 			}
 
 			if doAppend {
-				singleContent := ContentCNCFList{Title: title, Url: url, Kind: kind, IsDelivered: false}
+				singleContent := models.NewsroomCNCFContent{Title: title, Url: url, Kind: kind, IsDelivered: false}
 				newContent.Content = append(newContent.Content,singleContent)
 			}
 
