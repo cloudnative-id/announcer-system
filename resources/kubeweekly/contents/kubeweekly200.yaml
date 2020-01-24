@@ -1,0 +1,47 @@
+title: 'kubeweekly #200'
+date: 01/24/2020
+source: kubeweekly
+data:
+- title: 2019 CNCF Annual Report
+  link: https://www.cncf.io/blog/2020/01/21/2019-cncf-annual-report/
+  type: The Headlines
+- title: Istio as an example of when not to do microservices
+  link: https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/
+  type: The Headlines
+- title: An Ultimate Kubernetes Hands-on Lab
+  link: https://collabnix.github.io/kubelabs/
+  type: The Technical
+- title: CSI Ephemeral Inline Volumes
+  link: https://kubernetes.io/blog/2020/01/21/csi-ephemeral-inline-volumes/
+  type: The Technical
+- title: 'Threat Alert: Exploiting Open Docker Daemons for DDoS Attacks'
+  link: https://blog.aquasec.com/threat-alert-ddos-attack-docker-daemons
+  type: The Technical
+- title: How we approached integration testing in Kubernetes, and why we stopped using
+    Helm tests
+  link: https://kyma-project.io/blog/2020/1/16/integration-testing-in-k8s/
+  type: The Technical
+- title: Guide to Kubernetes egress network policies
+  link: https://www.stackrox.com/post/2020/01/kubernetes-egress-network-policies/
+  type: The Technical
+- title: Kubernetes on MIPS
+  link: https://kubernetes.io/blog/2020/01/15/kubernetes-on-mips/
+  type: The Technical
+- title: Applying GitOps to OpenFaaS with Flux Helm Operator
+  link: https://www.openfaas.com/blog/openfaas-flux/
+  type: The Editorial
+- title: 4 things cloud-native Java must provide
+  link: https://opensource.com/article/20/1/cloud-native-java
+  type: The Editorial
+- title: Multitenancy at Cruise, with Karl Isenberg
+  link: https://kubernetespodcast.com/episode/087-multitenancy-at-cruise/
+  type: The Editorial
+- title: Reviewing 2019 in Docs
+  link: https://kubernetes.io/blog/2020/01/21/reviewing-2019-in-docs/
+  type: The Editorial
+- title: Linkerd 2019 year in review
+  link: https://www.cncf.io/blog/2020/01/20/linkerd-2019-year-in-review/
+  type: The Editorial
+- title: Fedora CoreOS out of preview
+  link: https://fedoramagazine.org/fedora-coreos-out-of-preview/
+  type: The Editorial
