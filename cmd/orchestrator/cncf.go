@@ -14,6 +14,34 @@ func CNCFNewsRoom(session handlers.Github, telegramBot TelegramDispatcher)(){
 	var contentList models.NewsroomCNCFList
 	var telegramContentList models.NewsroomCNCFList
 
+	yaml.Unmarshal(contentTmpl, &contentList)
+
+	for i, s := range contentList.Content {
+		if s.IsDelivered == false {
+			telegramContentList.Content = append(telegramContentList.Content,s)
+			contentList.Content[i].IsDelivered = true
+			pushRepository = true
+		}
+	}
+
+	if pushRepository {
+		fmt.Println("Send CNCF Newsroom message to Telegram")
+		telegramBot.SendMsgTelegram(telegramContentList)
+
+		fmt.Println("Push updated Data CNCF Newsroom")
+		Data, _ := yaml.Marshal(contentList)
+		session.UpdateFile("cloudnative-id","announcer-system","./resources/cncf-newsroom/content.yaml",Data)
+	} else {
+		fmt.Println("No Updated in CNCF Newsroom")
+	}
+}
+
+func CNCFWebinar(session handlers.Github, telegramBot TelegramDispatcher)(){
+	contentTmpl := session.GetFile("cloudnative-id","announcer-system","./resources/cncf-webinar/content.yaml")
+	
+	var pushRepository = false
+	var contentList models.WebinarCNCFList
+	var telegramContentList models.WebinarCNCFList
 
 	yaml.Unmarshal(contentTmpl, &contentList)
 
@@ -25,16 +53,14 @@ func CNCFNewsRoom(session handlers.Github, telegramBot TelegramDispatcher)(){
 		}
 	}
 
-	
-
 	if pushRepository {
-		fmt.Println("Send CNCF Newsroom message to Telegram")
+		fmt.Println("Send CNCF Webinar message to Telegram")
 		telegramBot.SendMsgTelegram(telegramContentList)
 
-		fmt.Println("Push updated Data CNCF Newsroom")
+		fmt.Println("Push updated Data CNCF Webinar")
 		Data, _ := yaml.Marshal(contentList)
-		session.UpdateFile("cloudnative-id","announcer-system","./resources/cncf-newsroom/content.yaml",Data)
+		session.UpdateFile("cloudnative-id","announcer-system","./resources/cncf-webinar/content.yaml",Data)
 	} else {
-		fmt.Println("No Updated in CNCF Newsroom")
+		fmt.Println("No Updated in CNCF Webinar")
 	}
 }

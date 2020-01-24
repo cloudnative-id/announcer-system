@@ -15,6 +15,7 @@ func main() {
 
 	Kubeweekly(session, telegramBot)
 	CNCFNewsRoom(session, telegramBot)
+	CNCFWebinar(session, telegramBot)
 	NewMeetup(session, telegramBot)
 	PostMeetup(session, telegramBot)
 

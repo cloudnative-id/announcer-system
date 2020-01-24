@@ -55,7 +55,9 @@ func (t *TelegramDispatcher) SendMsgTelegram(arg interface{}) {
     case models.KubeweeklyContent:
         tmplFile = "templates/KubeweeklyTelegram.tmpl"
     case models.NewsroomCNCFList:
-		tmplFile = "templates/CNCFTelegram.tmpl"
+		tmplFile = "templates/CNCFNewsroomTelegram.tmpl"
+	case models.WebinarCNCFList:
+		tmplFile = "templates/CNCFWebinarTelegram.tmpl"
 	case models.NewMeetupContent:
 		tmplFile = "templates/NewMeetupTelegram.tmpl"
 	case models.PostMeetupContent:
@@ -75,7 +77,6 @@ func (t *TelegramDispatcher) SendMsgTelegram(arg interface{}) {
 	t.MessageBot(output)
 	t.Bot.Send(t.Msg)
 }
-
 
 func (t *TelegramDispatcher) SendPicTelegram(url string) {
 	t.PictureBot(url)

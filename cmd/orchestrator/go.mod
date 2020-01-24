@@ -3,7 +3,7 @@ module github.com/cloudnative-id/announcer-system/cmd/orchestrator
 go 1.13
 
 require (
-	github.com/cloudnative-id/announcer-system v0.0.0-20200123075115-213166d0398d
+	github.com/cloudnative-id/announcer-system v0.0.0-20200124045520-8180b39a9e5c
 	github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible
 	github.com/google/go-github v17.0.0+incompatible // indirect
 	github.com/google/go-querystring v1.0.0 // indirect
