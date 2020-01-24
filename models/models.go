@@ -98,3 +98,16 @@ type NewsroomCNCFContent struct {
 	Kind string `yaml:"kind"`
 	IsDelivered bool `yaml:"isDelivered"`
 }
+
+// CNCF Webinar Models
+type WebinarCNCFList struct {
+	Content []WebinarCNCFContent `yaml:"content"`
+}
+
+type WebinarCNCFContent struct {
+	Title string `yaml:"title"`
+	Date string `yaml:"date"`
+	Time string `yaml:"time"`
+	Url string `yaml:"url"`
+	IsDelivered bool `yaml:"isDelivered"`
+}
