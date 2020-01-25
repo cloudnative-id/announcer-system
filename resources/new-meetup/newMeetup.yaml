@@ -10,6 +10,6 @@ newMeetup:
   city: Bandung
   number: 5
   status:
-    delivered: false
+    delivered: true
   tags:
   - '#meetup'
