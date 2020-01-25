@@ -5,7 +5,7 @@ place: 'NextSPACE Bandung, jl. Trunojoyo No.11'
 city: 'Bandung'
 sponsor: 'Jabar Digital Service'
 registrationURL: 'bit.ly/k8scloudnativebdg5'
-pictureFile: 'picture/bandung5.jpg'
+pictureFile: 'picture/bandung5.ppg'
 speaker:
 - name: 'Aldira Putra Raharja'
   position: 'Platform Engineer (DevOps)'
