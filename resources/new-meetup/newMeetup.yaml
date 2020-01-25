@@ -6,3 +6,10 @@ newMeetup:
     delivered: true
   tags:
   - '#meetup'
+- contentFile: meetup/bandung5.yaml
+  city: Bandung
+  number: 5
+  status:
+    delivered: false
+  tags:
+  - '#meetup'

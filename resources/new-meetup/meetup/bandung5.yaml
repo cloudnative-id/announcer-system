@@ -1,0 +1,18 @@
+name: 'Kubernetes and Cloud Native Bandung #5'
+date: 'Thursday, January 30th 2020'
+time: '15.00'
+place: 'NextSPACE Bandung, jl. Trunojoyo No.11'
+city: 'Bandung'
+sponsor: 'Jabar Digital Service'
+registrationURL: 'bit.ly/k8scloudnativebdg5'
+pictureFile: 'picture/bandung5.jpg'
+speaker:
+- name: 'Aldira Putra Raharja'
+  position: 'Platform Engineer (DevOps)'
+  company: 'Sorabel'
+  title: 'Experience on using k8s in production, and how to scale it'
+- name: 'Akhmad Fakhoni Listiyan Dede'
+  position: 'System Engineer'
+  company: 'Catapa'
+  title: 'Short demo about how to create high availability cluster using Rancher'
+
