@@ -5,6 +5,7 @@ GOGET=$(GOCMD) get
 ORCHESTRATOR_BINARY_NAME=orchestrator
 KUBEWEEKLY_BINARY_NAME=kubeweekly
 CNCF_NEWSROOM_BINARY_NAME=cncf-newsroom
+CNCF_WEBINAR_BINARY_NAME=cncf-webinar
 
 orchestrator-build: 
 		$(GOBUILD) -o $(ORCHESTRATOR_BINARY_NAME) -v ./cmd/orchestrator/
@@ -23,6 +24,12 @@ cncf-newsroom-build:
 
 cncf-newsroom-run:
 		./$(CNCF_NEWSROOM_BINARY_NAME)
+
+cncf-webinar-build: 
+		$(GOBUILD) -o $(CNCF_WEBINAR_BINARY_NAME) -v ./cmd/cncf-webinar/
+
+cncf-webinar-run:
+		./$(CNCF_WEBINAR_BINARY_NAME)
 
 deps:
 		$(GOGET) gopkg.in/yaml.v2

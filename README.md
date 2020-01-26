@@ -21,6 +21,14 @@ export PASSWORD=""
 make cncf-newsroom-build
 make cncf-newsroom-run
 ```
+## CNCF Webinar
+```
+export USERNAME=""
+export PASSWORD=""
+
+make cncf-webinar-build
+make cncf-webinar-run
+```
 ## Orchestrator
 ```
 export USERNAME=""
