@@ -51,3 +51,13 @@ content:
   time: 10:00 - 11:00 AM PT (UTC-8)
   url: https://www.cncf.io/webinars/achieving-true-reliabilitiy-disaster-recovery/
   isDelivered: true
+- title: CNCF Member Webinar – Introduction of Kubernetes SIG-Cloud-Provider-Alibaba
+  date: Feb 12 2020
+  time: 10:00 - 11:00 AM CST (UTC+8)
+  url: https://www.cncf.io/webinars/introduction-of-kubernetes-sig-cloud-provider-alibaba/
+  isDelivered: false
+- title: CNCF Member Webinar – From Notebook to Kubeflow Pipelines with MiniKF & Kale
+  date: Feb 27 2020
+  time: 9:00 - 10:00 AM PT (UTC-8)
+  url: https://www.cncf.io/webinars/from-notebook-to-kubeflow-pipelines-with-minikf-kale/
+  isDelivered: false
