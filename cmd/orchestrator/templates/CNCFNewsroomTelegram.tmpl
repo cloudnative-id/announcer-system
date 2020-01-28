@@ -1,17 +1,14 @@
 *CNCF Newsroom Update*
-
-*Announcements:*
+{{ $announcements := false }}{{ $inthenews := false }}{{ $blog := false }}{{ range .Content }}{{ if eq .Kind "Announcements" }}{{$announcements = true}}{{ end }}{{ end }}{{ range .Content }}{{ if eq .Kind "In The News" }}{{$inthenews = true}}{{ end }}{{ end }}{{ range .Content }}{{ if eq .Kind "Blog" }}{{$blog = true}}{{ end }}{{ end }}
+{{ if $announcements }}*Announcements:*
 {{ range .Content }}{{ if eq .Kind "Announcements" }}• [{{ .Title }}]({{ .Url }})
-{{ end }}{{ end }}
-
-*In The News:*
+{{ end }}{{ end }}{{ end }}
+{{ if $inthenews }}*In The News:*
 {{ range .Content }}{{ if eq .Kind "In The News" }}• [{{ .Title }}]({{ .Url }})
-{{ end }}{{ end }}
-
-*Blog:*
+{{ end }}{{ end }}{{ end }}
+{{ if $blog }}*Blog:*
 {{ range .Content }}{{ if eq .Kind "Blog" }}• [{{ .Title }}]({{ .Url }})
-{{ end }}{{ end }}
-
+{{ end }}{{ end }}{{ end }}
 Tags: #cncfnews
 This information is gather from cncf.io
 Cloud Native Indonesia Community
