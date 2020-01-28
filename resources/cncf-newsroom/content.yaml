@@ -276,3 +276,7 @@ content:
   url: https://www.cncf.io/blog/2020/01/23/with-kubernetes-china-minsheng-bank-transformed-its-legacy-applications-and-moved-into-ai-blockchain-and-big-data/
   kind: Blog
   isDelivered: true
+- title: Fun Times at The Kubernetes Forum Seoul and Sydney 2019
+  url: https://www.cncf.io/blog/2020/01/27/fun-times-at-the-kubernetes-forum-seoul-and-sydney-2019/
+  kind: Blog
+  isDelivered: false
