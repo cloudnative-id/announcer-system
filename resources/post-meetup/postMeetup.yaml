@@ -47,3 +47,26 @@ postMeetup:
     position: Infrastructure Engineer
     videoURL: https://youtu.be/kj2uMG5SJqs
     slideURL: https://gourl.page.link/auKP
+- name: 'Kubernetes and Cloud Native Bandung #5'
+  city: Bandung
+  sponsor:
+  - name: Jabar Digital Service
+    URL: https://digitalservice.jabarprov.go.id/
+  pictureFile: picture/bandung5.jpg
+  status:
+    delivered: false
+  tags:
+  - '#meetup'
+  speaker:
+  - name: Aldira Putra Raharja
+    title: Experience on using k8s in production, and how to scale it
+    company: Sorabel
+    position: Platform Engineer (DevOps)
+    videoURL: https://www.youtube.com/watch?v=1Zu9yn3Ss98
+    slideURL: https://docs.google.com/presentation/d/1nEouXCHgqmsfZ2YeRHJ-FvCohgQ3-lgwbj9xz5KLL8I/edit?usp=sharing
+  - name: Akhmad Fakhoni Listiyan Dede
+    title: Short demo about how to create high availability cluster using Rancher
+    company: Catapa
+    position: System Engineer
+    videoURL: https://www.youtube.com/watch?v=1Zu9yn3Ss98
+    slideURL: https://docs.google.com/presentation/d/1RfL5Y8y_UkQo2QGknn_Ddt1gjCVm-auRGM1xRMLg1p0/edit?usp=sharing
