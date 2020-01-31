@@ -54,7 +54,7 @@ postMeetup:
     URL: https://digitalservice.jabarprov.go.id/
   pictureFile: picture/bandung5.jpg
   status:
-    delivered: false
+    delivered: true
   tags:
   - '#meetup'
   speaker:
