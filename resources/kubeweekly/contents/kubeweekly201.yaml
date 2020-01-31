@@ -1,0 +1,65 @@
+title: 'kubeweekly #201'
+date: 01/31/2020
+source: kubeweekly
+data:
+- title: Community Collaboration on Notary2
+  link: https://www.docker.com/blog/community-collaboration-on-notary-v2/
+  type: The Headlines
+- title: Cloud Native Computing Foundation Announces ‘Introduction to Kubernetes’
+    Course Surpasses 100,000 Registrations
+  link: https://www.cncf.io/announcement/2020/01/28/cloud-native-computing-foundation-announces-introduction-to-kubernetes-course-surpasses-100000-registrations/
+  type: The Headlines
+- title: AWS Container Security Survey 2019 | Questions and results
+  link: https://mhausenblas.info/aws-container-security-survey-2019/
+  type: The Technical
+- title: 'kubenav: navigator for your Kubernetes clusters right in your pocket'
+  link: https://github.com/kubenav/kubenav
+  type: The Technical
+- title: Kubernetes Common Configuration Scoring System (KCCSS) and kube-scan
+  link: https://techcrunch.com/2020/01/22/octarine-releases-open-source-security-scanning-tool-for-kubernetes/
+  type: The Technical
+- title: 'VMware Fusion Tech Preview 20H1: Introducing Project Nautilus'
+  link: https://blogs.vmware.com/teamfusion/2020/01/fusion-tp20h1-introducing-nautilus.html
+  type: The Technical
+- title: Building containers without Docker
+  link: https://blog.alexellis.io/building-containers-without-docker/
+  type: The Technical
+- title: Scheduled PostgreSQL Backups and Retention Policies with Kubernetes
+  link: https://info.crunchydata.com/blog/schedule-postgresql-backups-and-retention-with-kubernetes
+  type: The Technical
+- title: 'Permission Manager: Kubernetes RBAC and Users management with a Web UI'
+  link: https://github.com/sighupio/permission-manager
+  type: The Technical
+- title: 'GitOps and Cluster API: Master-of-Masters'
+  link: https://www.weave.works/blog/gitops-and-cluster-api-master-of-masters
+  type: The Editorial
+- title: 2020 CNCF TOC Election Guide
+  link: https://codeengineered.com/blog/2020/cncf-toc-election-guide/
+  type: The Editorial
+- title: 4 trends that will shape the cloud-native world in 2020
+  link: https://venturebeat.com/2020/01/26/4-trends-that-will-shape-the-cloud-native-world-in-2020/
+  type: The Editorial
+- title: 'Kubernetes Networking Demystified: A Brief Guide'
+  link: https://www.cncf.io/blog/2020/01/30/kubernetes-networking-demystified-a-brief-guide/
+  type: The Editorial
+- title: Fun Times at The Kubernetes Forum Seoul and Sydney 2019
+  link: https://www.cncf.io/blog/2020/01/27/fun-times-at-the-kubernetes-forum-seoul-and-sydney-2019/
+  type: The Editorial
+- title: After Kubernetes’ Victory, Its Former Rivals Change Tack
+  link: https://www.datacenterknowledge.com/business/after-kubernetes-victory-its-former-rivals-change-tack
+  type: The Editorial
+- title: Cisco Unveils Kubernetes Platform
+  link: https://containerjournal.com/topics/container-ecosystems/cisco-unveils-kubernetes-platform/
+  type: The Editorial
+- title: Why Kubernetes job searches grew by 2,125% in 4 years
+  link: https://www.techrepublic.com/article/why-kubernetes-job-searches-grew-by-more-than-2000-in-4-years/
+  type: The Editorial
+- title: Astro Project Ties Kubernetes to Datadog
+  link: https://containerjournal.com/topics/container-management/astro-project-ties-kubernetes-to-datadog/
+  type: The Editorial
+- title: Kasten klimbs Kubernetes kontainer protection mountain with K10
+  link: https://blocksandfiles.com/2020/01/30/kasten-klimbs-the-kubernetes-kontainer-protection-mountain-with-k10/
+  type: The Editorial
+- title: 'CNCF Webinars: Fresh Insights for the Cloud Native Community'
+  link: https://www.cncf.io/blog/2020/01/17/cncf-webinars-fresh-insights-for-the-cloud-native-community/
+  type: The Editorial
