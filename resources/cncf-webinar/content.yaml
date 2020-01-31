@@ -61,3 +61,13 @@ content:
   time: 9:00 - 10:00 AM PT (UTC-8)
   url: https://www.cncf.io/webinars/from-notebook-to-kubeflow-pipelines-with-minikf-kale/
   isDelivered: true
+- title: CNCF Member Webinar – Getting Started with Containers and Kubernetes
+  date: Feb 5 2020
+  time: 10:00 - 11:00 AM PT (UTC-8)
+  url: https://www.cncf.io/webinars/getting-started-with-containers-and-kubernetes/
+  isDelivered: false
+- title: CNCF Member Webinar – Pivoting Your Pipeline from Legacy to Cloud Native
+  date: Jun 30 2020
+  time: 10:00 - 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/pivoting-pipeline-from-legacy-to-cloud-native/
+  isDelivered: false
