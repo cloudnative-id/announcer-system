@@ -284,31 +284,31 @@ content:
     Europe 2020
   url: https://www.cncf.io/announcement/2020/01/29/cloud-native-computing-foundation-announces-schedule-for-kubecon-cloudnativecon-europe-2020/
   kind: Announcements
-  isDelivered: false
+  isDelivered: true
 - title: Cloud Native Computing Foundation Announces ‘Introduction to Kubernetes’
     Course Surpasses 100,000 Registrations
   url: https://www.cncf.io/announcement/2020/01/28/cloud-native-computing-foundation-announces-introduction-to-kubernetes-course-surpasses-100000-registrations/
   kind: Announcements
-  isDelivered: false
+  isDelivered: true
 - title: 'Business Insider: “The top 8 technologies that companies are using to modernize
     their IT in the age of cloud computing and AI, according to experts”'
   url: https://www.cncf.io/news/2020/01/31/business-insider-the-top-8-technologies-that-companies-are-using-to-modernize-their-it-in-the-age-of-cloud-computing-and-ai-according-to-experts/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'SDxCentral: “If You’ve Got It, Flaunt It — Kubernetes Experience, That Is”'
   url: https://www.cncf.io/news/2020/01/30/sdxcentral-if-youve-got-it-flaunt-it-kubernetes-experience-that-is/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'The New Stack: “Q&A: CNCF App Delivery SIG Chairs Talk Developer Experience
     and Kubernetes”'
   url: https://www.cncf.io/news/2020/01/29/the-new-stack-qa-cncf-app-delivery-sig-chairs-talk-developer-experience-and-kubernetes/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Speaker’s Bureau: A Great Resource'
   url: https://www.cncf.io/blog/2020/01/31/cncf-speakers-bureau-a-great-resource/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Kubernetes Networking Demystified: A Brief Guide'
   url: https://www.cncf.io/blog/2020/01/30/kubernetes-networking-demystified-a-brief-guide/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
