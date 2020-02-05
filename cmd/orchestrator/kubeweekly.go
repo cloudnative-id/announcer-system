@@ -2,12 +2,14 @@ package main
 
 import (
 	"fmt"
+	"sync"
 	"gopkg.in/yaml.v2"
 	"github.com/cloudnative-id/announcer-system/models"
 	"github.com/cloudnative-id/announcer-system/handlers"
 )
 
-func Kubeweekly(session handlers.Github, telegramBot TelegramDispatcher)(){
+func Kubeweekly(session handlers.Github, telegramBot TelegramDispatcher, wg *sync.WaitGroup)(){
+	defer wg.Done()
 	ConfigTmpl := session.GetFile("cloudnative-id","announcer-system","./resources/kubeweekly/kubeweekly.yaml")
 	
 	var PushRepository = false

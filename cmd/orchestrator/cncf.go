@@ -2,12 +2,14 @@ package main
 
 import (
 	"fmt"
+	"sync"
 	"gopkg.in/yaml.v2"
 	"github.com/cloudnative-id/announcer-system/models"
 	"github.com/cloudnative-id/announcer-system/handlers"
 )
 
-func CNCFNewsRoom(session handlers.Github, telegramBot TelegramDispatcher)(){
+func CNCFNewsRoom(session handlers.Github, telegramBot TelegramDispatcher, wg *sync.WaitGroup)(){
+	defer wg.Done()
 	contentTmpl := session.GetFile("cloudnative-id","announcer-system","./resources/cncf-newsroom/content.yaml")
 	
 	var pushRepository = false
@@ -36,7 +38,8 @@ func CNCFNewsRoom(session handlers.Github, telegramBot TelegramDispatcher)(){
 	}
 }
 
-func CNCFWebinar(session handlers.Github, telegramBot TelegramDispatcher)(){
+func CNCFWebinar(session handlers.Github, telegramBot TelegramDispatcher, wg *sync.WaitGroup)(){
+	defer wg.Done()
 	contentTmpl := session.GetFile("cloudnative-id","announcer-system","./resources/cncf-webinar/content.yaml")
 	
 	var pushRepository = false
