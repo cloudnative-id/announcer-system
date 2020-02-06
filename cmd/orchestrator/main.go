@@ -2,6 +2,7 @@ package main
 
 import (
 	"os"
+	"sync"
 	"github.com/cloudnative-id/announcer-system/handlers"
 )
 
@@ -13,10 +14,15 @@ func main() {
 	var telegramBot TelegramDispatcher
 	telegramBot.StartBot()
 
-	Kubeweekly(session, telegramBot)
-	CNCFNewsRoom(session, telegramBot)
-	CNCFWebinar(session, telegramBot)
+	total := 3
+    var wg sync.WaitGroup
+    wg.Add(total)
+
+	go Kubeweekly(session, telegramBot, &wg)
+	go CNCFNewsRoom(session, telegramBot, &wg)
+	go CNCFWebinar(session, telegramBot, &wg)
+	wg.Wait()
+
 	NewMeetup(session, telegramBot)
 	PostMeetup(session, telegramBot)
-
 }
