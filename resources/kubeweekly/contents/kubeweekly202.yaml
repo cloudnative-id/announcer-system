@@ -1,0 +1,67 @@
+title: 'kubeweekly #202'
+date: 02/07/2020
+source: kubeweekly
+data:
+- title: C
+  link: https://twitter.com/michellenoorali/status/1224440020104142849
+  type: The Headlines
+- title: ongratulations to the newest TOC members! 
+  link: https://twitter.com/michellenoorali/status/1224440020104142849
+  type: The Headlines
+- title: Announcing the containerd Project Journey Report
+  link: https://www.cncf.io/blog/2020/02/05/announcing-the-containerd-project-journey-report/
+  type: The Headlines
+- title: How to Develop and Debug Python Applications in Kubernetes with Okteto
+  link: https://okteto.com/blog/how-to-develop-python-apps-in-kubernetes/
+  type: The Technical
+- title: DNS Lookups in Kubernetes
+  link: https://mrkaran.dev/posts/ndots-kubernetes/
+  type: The Technical
+- title: Continuous Profiling Go applications running in Kubernetes
+  link: https://gianarb.it/blog/continuous-profiling-go-apps-in-kubernetes
+  type: The Technical
+- title: A bit of Istio before tea-time
+  link: https://blog.alexellis.io/a-bit-of-istio-before-tea-time/
+  type: The Technical
+- title: Latest Jepsen Results against etcd 3.4.3
+  link: https://etcd.io/blog/jepsen-343-results/
+  type: The Technical
+- title: 'Konveyor: Open Source, Migration Assistance for Kubernetes'
+  link: https://konveyor.github.io/
+  type: The Technical
+- title: Troubleshoot Kubernetes with the power of tmux and kubectl
+  link: https://opensource.com/article/20/2/kubernetes-tmux-kubectl
+  type: The Technical
+- title: Load balancing and scaling long-lived connections in Kubernetes
+  link: https://learnk8s.io/kubernetes-long-lived-connections
+  type: The Technical
+- title: Emit Datadog monitors based on Kubernetes state
+  link: https://github.com/fairwindsops/astro
+  type: The Technical
+- title: GitLab, with Marin Jankovski
+  link: https://kubernetespodcast.com/episode/089-gitlab/
+  type: The Editorial
+- title: HPE acquires zero-trust networking, security firm Scytale
+  link: https://www.zdnet.com/article/hpe-acquires-zero-trust-networking-security-firm-scytale/
+  type: The Editorial
+- title: Run Windows Server Containers on GKE
+  link: https://www.theregister.co.uk/2020/02/03/google_cloud_adds_windows_containers_to_kubernetes_engine/
+  type: The Editorial
+- title: Kubestone – Kubernetes & OpenShift performance benchmarking
+  link: https://kubestone.io/
+  type: The Editorial
+- title: Kubernetes’ Inevitable Takeover of the Data Center
+  link: https://www.datacenterknowledge.com/open-source/kubernetes-inevitable-takeover-data-center
+  type: The Editorial
+- title: If You’ve Got It, Flaunt It — Kubernetes Experience, That Is
+  link: https://www.sdxcentral.com/articles/news/if-youve-got-it-flaunt-it-kubernetes-experience-that-is/2020/01/
+  type: The Editorial
+- title: 'Kubernetes Operators: 4 facts to know'
+  link: https://enterprisersproject.com/article/2020/2/kubernetes-operators-4-things-know
+  type: The Editorial
+- title: 'Register Now: KubeCon + CloudNativeCon EU Day Zero Events'
+  link: https://www.cncf.io/blog/2020/02/03/register-now-kubecon-cloudnativecon-eu-day-zero-events/
+  type: The Editorial
+- title: How Frame.io Built a Full Security Program Around Its Video Cloud with Falco
+  link: https://www.cncf.io/blog/2020/02/06/how-frame-io-built-a-full-security-program-around-its-video-cloud-with-falco/
+  type: The Editorial
