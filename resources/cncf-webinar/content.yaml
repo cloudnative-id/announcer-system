@@ -82,3 +82,25 @@ content:
   time: 10:00 - 11:00 AM PT (UTC-8)
   url: https://www.cncf.io/webinars/managing-observability-modern-apps-microservices/
   isDelivered: true
+- title: 'CNCF Member Webinar: Simplifying App Migration to Kubernetes with an App-centric
+    Abstraction'
+  date: Feb 13 2020
+  time: 9:00 - 10:00 AM PT (UTC-8)
+  url: https://www.cncf.io/webinars/simplifying-app-migration-k8s-with-app-centric-abstraction/
+  isDelivered: false
+- title: 'CNCF Member Webinar: kube-scan & the K8s Common Configuration Scoring System
+    (KCCSS)'
+  date: Feb 19 2020
+  time: 10:00 - 11:00 AM PT (UTC-8)
+  url: https://www.cncf.io/webinars/cncf-member-webinar-kube-scan-the-k8s-common-configuration-scoring-system-kccss/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Kubernetes Security Best Practices for DevOps'
+  date: Mar 11 2020
+  time: 10:00 - 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/k8s-security-best-practices-for-devops/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Argo CD, Flux CD and the GitOps Revolution'
+  date: Mar 24 2020
+  time: 10:00 - 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/argo-cd-flux-cd-gitops-revolution/
+  isDelivered: false
