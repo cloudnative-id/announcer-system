@@ -8,10 +8,7 @@ CNCF_NEWSROOM_BINARY_NAME=cncf-newsroom
 CNCF_WEBINAR_BINARY_NAME=cncf-webinar
 
 orchestrator-build: 
-		$(GOBUILD) -o $(ORCHESTRATOR_BINARY_NAME) -v ./cmd/orchestrator/
-
-orchestrator-run:
-		./$(ORCHESTRATOR_BINARY_NAME)
+		$(GOBUILD) -o cmd/orchestrator/$(ORCHESTRATOR_BINARY_NAME) -v ./cmd/orchestrator/
 
 kubeweekly-build: 
 		$(GOBUILD) -o $(KUBEWEEKLY_BINARY_NAME) -v ./cmd/kubeweekly/

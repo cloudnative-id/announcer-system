@@ -37,6 +37,7 @@ export TELEGRAM_TOKEN=""
 export TELEGRAM_CHATID=""
 
 make orchestrator-build
-make orchestrator-run
+cd cmd/orchestrator
+./orchestrator
 ```
 
