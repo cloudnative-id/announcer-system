@@ -315,12 +315,12 @@ content:
 - title: How Frame.io Built a Full Security Program Around Its Video Cloud with Falco
   url: https://www.cncf.io/blog/2020/02/06/how-frame-io-built-a-full-security-program-around-its-video-cloud-with-falco/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Announcing the containerd Project Journey Report
   url: https://www.cncf.io/blog/2020/02/05/announcing-the-containerd-project-journey-report/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Register Now: KubeCon + CloudNativeCon EU Day Zero Events'
   url: https://www.cncf.io/blog/2020/02/03/register-now-kubecon-cloudnativecon-eu-day-zero-events/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
