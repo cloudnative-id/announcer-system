@@ -1,0 +1,72 @@
+title: 'kubeweekly #203'
+date: 02/14/2020
+source: kubeweekly
+data:
+- title: Novel Coronavirus Update
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/
+  type: The Headlines
+- title: KubeCon + CloudNativeCon Europe
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/
+  type: The Headlines
+- title: 'Childcare: It’s Good for Everyone'
+  link: https://www.cncf.io/blog/2020/02/11/childcare-its-good-for-everyone/
+  type: The Headlines
+- title: RSVP form
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/child-care/
+  type: The Headlines
+- title: Config Sync for GKE
+  link: https://cloud.google.com/kubernetes-engine/docs/add-on/config-sync/overview
+  type: The Technical
+- title: 'Calico for Kubernetes networking: the basics & examples'
+  link: https://medium.com/flant-com/calico-for-kubernetes-networking-792b41e19d69
+  type: The Technical
+- title: Use Kubeflow, Rook and Istio to build an AI integrated development and delivery
+    platform
+  link: https://medium.com/@jimsonghu/use-kubeflow-rook-and-istio-to-build-an-ai-integrated-development-and-delivery-platform-7e5c2ff3c914
+  type: The Technical
+- title: Docker Donates the cnab-to-oci Library to cnab.io
+  link: https://www.docker.com/blog/docker-donates-cnab-to-oci-library/
+  type: The Technical
+- title: Azure Kubernetes (AKS) Security Best Practices Part 2 of 4
+  link: https://www.stackrox.com/post/2020/02/azure-kubernetes-aks-security-best-practices-part-2-of-4/
+  type: The Technical
+- title: Rolling Updates and Blue-Green Deployments with Kubernetes and HAProxy
+  link: https://www.haproxy.com/blog/rolling-updates-and-blue-green-deployments-with-kubernetes-and-haproxy/
+  type: The Technical
+- title: 'Unit 42 CTR: Leaked Code from Docker Registries'
+  link: https://unit42.paloaltonetworks.com/leaked-docker-code/
+  type: The Technical
+- title: Understanding Kubernetes Storage – Stateful, Stateless, POSIX + REST
+  link: https://blog.min.io/kubernetes-storage-patterns/
+  type: The Technical
+- title: Load balancing and scaling long-lived connections in Kubernetes
+  link: https://learnk8s.io/kubernetes-long-lived-connections
+  type: The Technical
+- title: End-of-life announcement for CoreOS Container Linux
+  link: https://coreos.com/os/eol/
+  type: The Editorial
+- title: EKS vs GKE vs AKS – Evaluating Kubernetes in the Cloud
+  link: https://www.stackrox.com/post/2020/02/eks-vs-gke-vs-aks/
+  type: The Editorial
+- title: 'Demystifying DevOps: Essential Building Blocks of a DevOps Approach'
+  link: https://thenewstack.io/demystifying-devops-essential-building-blocks-of-a-devops-approach/
+  type: The Editorial
+- title: 'Kubernetes: 6 secrets of successful teams'
+  link: https://enterprisersproject.com/article/2020/2/kubernetes-6-secrets-success
+  type: The Editorial
+- title: Kubernetes Container Management Is Not Application Management
+  link: https://containerjournal.com/topics/container-management/kubernetes-container-management-is-not-application-management/
+  type: The Editorial
+- title: 'Announcing Linkerd 2.7: External PKI support, better gitops workflows, streamlined
+    cert rotation, and more'
+  link: https://linkerd.io/2020/02/10/announcing-linkerd-2.7/
+  type: The Editorial
+- title: Istio security bug found, quickly squashed
+  link: https://www.sdxcentral.com/articles/news/istio-security-bug-found-quickly-squashed/2020/02/
+  type: The Editorial
+- title: 'Supporting developers as they scale: a free Kubernetes eBook'
+  link: https://blog.digitalocean.com/supporting-kubernetes-developers/
+  type: The Editorial
+- title: 3 tips to keep Kubernetes safe at scale
+  link: https://www.techrepublic.com/article/3-tips-to-keep-kubernetes-safe-at-scale/
+  type: The Editorial
