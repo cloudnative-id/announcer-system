@@ -327,21 +327,21 @@ content:
 - title: 'How-to Guide: Debugging a Kubernetes Application'
   url: https://www.cncf.io/blog/2020/02/14/how-to-guide-debugging-a-kubernetes-application/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Service Mess to Service Mesh
   url: https://www.cncf.io/blog/2020/02/14/service-mess-to-service-mesh/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: After Learning the Ropes with a Kubernetes Distribution, Booking.com Built
     a Platform of Its Own
   url: https://www.cncf.io/blog/2020/02/13/after-learning-the-ropes-with-a-kubernetes-distribution-booking-com-built-a-platform-of-its-own/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Childcare: It’s Good for Everyone'
   url: https://www.cncf.io/blog/2020/02/11/childcare-its-good-for-everyone/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Guide to Kubernetes Egress Network Policies
   url: https://www.cncf.io/blog/2020/02/10/guide-to-kubernetes-egress-network-policies/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
