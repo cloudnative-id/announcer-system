@@ -132,3 +132,8 @@ content:
   time: 10:00 - 11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/welcome-to-cloudland-an-illustrated-intro-to-the-cloud-native-landscape/
   isDelivered: true
+- title: 'CNCF Project Webinar: How to Migrate a MySQL Database to Vitess'
+  date: Mar 20 2020
+  time: 10:00 - 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/how-to-migrate-a-mysql-database-to-vitess/
+  isDelivered: false
