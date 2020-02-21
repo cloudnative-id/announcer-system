@@ -1,0 +1,50 @@
+title: 'kubeweekly #204'
+date: 02/21/2020
+source: kubeweekly
+data:
+- title: Why I Contribute to the Open Source Community—and You Should Too
+  link: https://upshotstories.com/stories/why-i-contribute-to-the-open-source-community-and-you-should-too
+  type: The Headlines
+- title: 'Roaring Elephant podcast: KubeCon + Cloud NativeCon EU preview'
+  link: https://roaringelephant.org/2020/02/18/episode-180-kubecon-cloudnativecon-preview/
+  type: The Headlines
+- title: 'Open Policy Agent: Microservices Authorization Simplified'
+  link: https://www.infracloud.io/opa-microservices-authorization-simplified/
+  type: The Technical
+- title: Deploying Envoy and Kafka to collect broker-level metrics
+  link: https://medium.com/@adam.kotwasinski/deploying-envoy-and-kafka-8aa7513ec0a0
+  type: The Technical
+- title: Introduction to SPIFFE and SPIRE Projects (Lightboard)
+  link: https://youtu.be/Q2SiGeebRKY
+  type: The Technical
+- title: Find an optimal set of nodes for a Kubernetes cluster
+  link: http://blog.kubecost.com/blog/cluster-right-sizing/
+  type: The Technical
+- title: GKE Node Pool Location
+  link: https://cloud.google.com/sdk/gcloud/reference/container/clusters/create#--node-locations
+  type: The Technical
+- title: Surge upgrades GA
+  link: https://cloud.google.com/kubernetes-engine/docs/concepts/cluster-upgrades#surge
+  type: The Technical
+- title: Architecting for Multicluster Kubernetes
+  link: https://linkerd.io/2020/02/17/architecting-for-multicluster-kubernetes/
+  type: The Editorial
+- title: Five Surprising Ways Enterprises Are Putting Kubernetes To Work
+  link: https://www.forbes.com/sites/forbestechcouncil/2020/02/20/five-surprising-ways-enterprises-are-putting-kubernetes-to-work/#d5d576842d57
+  type: The Editorial
+- title: eBPF and Falco, with Leonardo Di Donato
+  link: https://kubernetespodcast.com/episode/091-ebpf-and-falco/
+  type: The Editorial
+- title: Security concerns hampering the adoption of containers and Kubernetes
+  link: https://www.techrepublic.com/article/security-concerns-hampering-adoption-of-containers-and-kubernetes/
+  type: The Editorial
+- title: Google Identifies Kubernetes-Ready Storage for Anthos
+  link: https://thenewstack.io/google-identifies-kubernetes-ready-storage-for-anthos/
+  type: The Editorial
+- title: Managed Kubernetes Services Make K8s Simple for Platform Teams and App Developers
+  link: https://thenewstack.io/managed-kubernetes-services-make-k8s-simple-for-platform-teams-and-app-developers/
+  type: The Editorial
+- title: Linux Foundation study throws the open-source sustainability debate into
+    question
+  link: https://www.techrepublic.com/article/new-study-throws-the-open-source-sustainability-debate-into-question/
+  type: The Editorial
