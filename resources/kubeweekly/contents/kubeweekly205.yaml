@@ -1,0 +1,80 @@
+title: 'kubeweekly #205'
+date: 02/28/2020
+source: kubeweekly
+data:
+- title: KubeCon + CloudNativeCon Europe
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/?gclid=EAIaIQobChMIovni96fy5wIVC77ACh1YLA5XEAAYASAAEgIVffD_BwE
+  type: The Headlines
+- title: Schedules Announced for Cloud Native Security Day, Serverless Practitioners
+    Summit, ServiceMeshCon 
+  link: https://www.cncf.io/blog/2020/02/24/schedules-announced-for-cloud-native-security-day-serverless-practitioners-summit-servicemeshcon/
+  type: The Headlines
+- title: Contributor Summit Amsterdam Schedule Announced 
+  link: https://kubernetes.io/blog/2020/02/18/contributor-summit-amsterdam-schedule-announced/
+  type: The Headlines
+- title: New Application Manager brings GitOps to Google Kubernetes Engine
+  link: https://cloud.google.com/blog/products/containers-kubernetes/announcing-application-manager-for-google-kubernetes-engine
+  type: The Technical
+- title: Kafka disaster recovery on Kubernetes with CSI
+  link: https://banzaicloud.com/blog/kafka-disaster-recovery-csi/
+  type: The Technical
+- title: 'Pangolin: an experimental Kubernetes autoscaler'
+  link: https://github.com/dpeckett/pangolin
+  type: The Technical
+- title: 'CNCF Tools Overview: Fluentd – Unified Logging Layer'
+  link: https://www.cncf.io/blog/2020/02/26/cncf-tools-overview-fluentd-unified-logging-layer/
+  type: The Technical
+- title: 'Weathervane 2.0: An Application-Level Performance Benchmark for Kubernetes'
+  link: https://blogs.vmware.com/performance/2020/02/weathervane2-kubernetes.html
+  type: The Technical
+- title: How to Optimize I/O Intensive Containers on Kubernetes
+  link: https://neuvector.com/container-security/optimize-i-o-intensive-containers/
+  type: The Technical
+- title: What are Open Source Security Approaches? With Examples
+  link: https://www.sdxcentral.com/open-source/definitions/what-are-open-source-security-approaches-with-examples/
+  type: The Technical
+- title: Different Approaches for Building Stateful Kubernetes Applications
+  link: https://thenewstack.io/different-approaches-for-building-stateful-kubernetes-applications/
+  type: The Technical
+- title: 'CNCF Member Webinar: Managing Observability in Modern Applications '
+  link: https://www.cncf.io/webinars/managing-observability-modern-applications/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Helm Security – A Look Below Deck'
+  link: https://www.cncf.io/webinars/helm-security-a-look-below-deck/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: From Notebook to Kubeflow Pipelines with MiniKF & Kale'
+  link: https://www.cncf.io/webinars/from-notebook-to-kubeflow-pipelines-with-minikf-kale/
+  type: 'ICYMI: CNCF Webinars '
+- title: 5 predictions for Kubernetes in 2020
+  link: https://opensource.com/article/20/1/kubernetes-2020
+  type: The Editorial
+- title: Distributions were for Linux, not for Kubernetes
+  link: https://www.forbes.com/sites/forbestechcouncil/2020/02/26/distributions-were-for-linux-not-for-kubernetes/
+  type: The Editorial
+- title: State of Container and Kubernetes Security Report, Winter 2020
+  link: https://www.stackrox.com/press-releases/2020/02/stackrox-report-reveals-that-container-and-kubernetes-security-concerns-are-inhibiting-business-innovation/
+  type: The Editorial
+- title: Enterprise Kubernetes with OpenShift (Part one)
+  link: https://blog.openshift.com/enterprise-kubernetes-with-openshift-part-one/
+  type: The Editorial
+- title: Accelerators and GPUs at NVIDIA, with Pramod Ramarao
+  link: https://kubernetespodcast.com/episode/092-nvidia/
+  type: The Editorial
+- title: 'Q&A: Kubernetes Storage SIG Chair on the State of State in Kubernetes'
+  link: https://thenewstack.io/qa-kubernetes-storage-sig-chair-on-the-state-of-state-in-k8s/
+  type: The Editorial
+- title: 'Summing Up: Container Image Building'
+  link: https://blog.giantswarm.io/summing-up-container-image-building/
+  type: The Editorial
+- title: Why Those Gaps in Kubernetes Are Really a Good Thing
+  link: https://thenewstack.io/why-those-gaps-in-kubernetes-are-really-a-good-thing/
+  type: The Editorial
+- title: 'Docker Images : Part II – Details Specific To Different Languages'
+  link: https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html
+  type: The Editorial
+- title: On-Demand Container Scanning API
+  link: https://jerrygamblin.com/2020/02/23/on-demand-container-scanning-api/
+  type: The Editorial
+- title: Catch the CNCF next week at SCaLE 18x
+  link: https://www.cncf.io/blog/2020/02/27/catch-us-next-week-at-scale-18x/
+  type: The Editorial
