@@ -142,3 +142,24 @@ content:
   time: 10:00 - 11:00 AM PT (UTC-8)
   url: https://www.cncf.io/webinars/managing-observability-modern-applications/
   isDelivered: true
+- title: 'CNCF Member Webinar: Service Mess to #ServiceMesh'
+  date: Mar 4 2020
+  time: 10:00 - 11:00 AM PT (UTC-8)
+  url: https://www.cncf.io/webinars/service-mess-to-servicemesh/
+  isDelivered: false
+- title: 'CNCF Project Webinar: What’s New in Linkerd 2.7'
+  date: Mar 6 2020
+  time: 10:00 - 11:00 AM PT (UTC-8)
+  url: https://www.cncf.io/webinars/whats-new-in-linkerd-2-7/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Best Practices for Deploying a Service Mesh in Production:
+    From Technology to Teams'
+  date: Apr 8 2020
+  time: 10:00 - 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/best-practices-deploying-service-mesh-in-prod-from-technology-to-teams/
+  isDelivered: false
+- title: 'CNCF Project Webinar: What’s New in Kubernetes 1.18'
+  date: Apr 23 2020
+  time: 9:00 - 10:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/kubernetes-1-18/
+  isDelivered: false
