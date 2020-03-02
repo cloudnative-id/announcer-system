@@ -365,35 +365,35 @@ content:
     in K8s”'
   url: https://www.cncf.io/news/2020/02/25/the-new-stack-qa-kubernetes-storage-sig-chair-on-the-state-of-state-in-k8s/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'SDxCentral: “What are Open Source Security Approaches? With Examples”'
   url: https://www.cncf.io/news/2020/02/25/sdxcentral-what-are-open-source-security-approaches-with-examples/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'SiliconANGLE: “Kubernetes is popular, complex, a security risk – and destined
     for invisibility”'
   url: https://www.cncf.io/news/2020/02/24/siliconangle-kubernetes-is-popular-complex-a-security-risk-and-destined-for-invisibility/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'SearchITOperations: “Massive DoD DevSecOps standards push may aid enterprise
     IT”'
   url: https://www.cncf.io/news/2020/02/21/searchitoperations-massive-dod-devsecops-standards-push-may-aid-enterprise-it/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: Logging FOMO is real and it hurts. Here’s how to overcome it
   url: https://www.cncf.io/blog/2020/02/28/logging-fomo-is-real-and-it-hurts-heres-how-to-overcome-it/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Catch us next week at SCaLE 18x
   url: https://www.cncf.io/blog/2020/02/27/catch-us-next-week-at-scale-18x/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Tools Overview: Fluentd – Unified Logging Layer'
   url: https://www.cncf.io/blog/2020/02/26/cncf-tools-overview-fluentd-unified-logging-layer/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Schedules Announced for Cloud Native Security Day, Serverless Practitioners
     Summit, ServiceMeshCon
   url: https://www.cncf.io/blog/2020/02/24/schedules-announced-for-cloud-native-security-day-serverless-practitioners-summit-servicemeshcon/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
