@@ -1,0 +1,78 @@
+title: 'kubeweekly #206'
+date: 03/06/2020
+source: kubeweekly
+data:
+- title: KubeCon + CloudNativeCon Europe postponed
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/
+  type: The Headlines
+- title: Contributor Summit Amsterdam Postponed
+  link: https://kubernetes.io/blog/2020/03/04/contributor-summit-delayed/
+  type: The Headlines
+- title: Bring your ideas to the world with kubectl plugins
+  link: https://kubernetes.io/blog/2020/02/28/bring-your-ideas-to-the-world-with-kubectl-plugins/
+  type: The Technical
+- title: What is circuit breaking?
+  link: https://www.learncloudnative.com/blog/2020-02-28-circuit_breakers_in_istio_explained/
+  type: The Technical
+- title: Everyone might be a cluster-admin in your Kubernetes cluster
+  link: https://www.jeffgeerling.com/blog/2020/everyone-might-be-cluster-admin-your-kubernetes-cluster
+  type: The Technical
+- title: Kubernetes & Kublr Architecture Infographic
+  link: https://kublr.com/blog/kubernetes-architecture-kublr-interactive/
+  type: The Technical
+- title: Kubeflow goes 1.0
+  link: https://medium.com/kubeflow/kubeflow-1-0-cloud-native-ml-for-everyone-a3950202751
+  type: The Technical
+- title: Implementing FaaS in Kubernetes Using Kubeless
+  link: https://www.magalix.com/blog/implementing-faas-in-kubernetes-using-kubeless
+  type: The Technical
+- title: Spotify Open-Sources Terraform Module for Kubeflow ML Pipelines
+  link: https://www.infoq.com/news/2020/03/spotify-terraform-kubeflow/
+  type: The Technical
+- title: Kubernetes Namespaces Explained in 15 mins (YouTube)
+  link: https://youtu.be/K3jNo4z5Jx8
+  type: The Technical
+- title: 'Advanced Persistent Threats: The Future of Kubernetes Attacks (YouTube)'
+  link: https://youtu.be/CH7S5rE3j8w
+  type: The Technical
+- title: Part 1
+  link: https://medium.com/kudos-engineering/our-migration-journey-from-aws-to-google-cloud-part-1-542b6e40b730
+  type: The Technical
+- title: Part 2
+  link: https://medium.com/kudos-engineering/our-migration-journey-from-aws-to-google-cloud-part-2-e66bd53b5d9a
+  type: The Technical
+- title: Multicluster Kubernetes with Service Mirroring
+  link: https://linkerd.io/2020/02/25/multicluster-kubernetes-with-service-mirroring/
+  type: The Technical
+- title: 'CNCF Member Webinar: Getting Started with Containers and Kubernetes'
+  link: https://www.cncf.io/webinars/getting-started-with-containers-and-kubernetes/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Service Mess to Service Mesh'
+  link: https://www.cncf.io/webinars/service-mess-to-service-mesh/
+  type: 'ICYMI: CNCF Webinars '
+- title: Kubeflow 1.0, with Jeremy Lewi
+  link: https://kubernetespodcast.com/episode/093-kubeflow-1.0/
+  type: The Editorial
+- title: Starting work on an Operator Working Group
+  link: https://lists.cncf.io/g/cncf-sig-app-delivery/topic/71453445#151
+  type: The Editorial
+- title: Helm and Operators on OpenShift Part 2
+  link: https://blog.openshift.com/helm-and-operators-on-openshift-part-2/
+  type: The Editorial
+- title: Google Cloud goes after the telco business with Anthos for Telecom and its
+    Global Mobile Edge Cloud
+  link: https://techcrunch.com/2020/03/05/google-cloud-goes-after-the-telco-business-with-anthos-for-telecom-and-its-global-mobile-edge-cloud/
+  type: The Editorial
+- title: 'Kubernetes operators: Embedding operational expertise side by side with
+    containerized applications'
+  link: https://www.redhat.com/sysadmin/kubernetes-operators
+  type: The Editorial
+- title: '7 best practices: Building applications for containers and Kubernetes'
+  link: https://enterprisersproject.com/article/2020/3/kubernetes-best-practices-building-applications-containers
+  type: The Editorial
+- title: 'Migrating applications to containers and Kubernetes: 5 best practices'
+  link: https://enterprisersproject.com/article/2020/3/kubernetes-migrating-applications-containers-5-best-practices
+  type: The Editorial
+- title: Kubernetes wallpapers
+  link: https://learnk8s.io/kubernetes-wallpapers
+  type: The Editorial
