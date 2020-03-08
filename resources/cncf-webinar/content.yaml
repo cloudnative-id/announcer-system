@@ -163,3 +163,32 @@ content:
   time: 9:00 - 10:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/kubernetes-1-18/
   isDelivered: true
+- title: 'CNCF Member Webinar: Use Open Source, Bare Metal, & 5G to Achieve Autonomous
+    Drone Delivery!'
+  date: Mar 10 2020
+  time: 10:00 - 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/use-os-bare-metal-5g-to-achieve-autonomous-drone-delivery/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Immutable Infrastructure For Your Kubernetes Host Environment'
+  date: Mar 12 2020
+  time: 9:00 - 10:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/immutable-infrastructure-for-your-k8s-host-environment/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Democratizing Analytics with Cloud Native Data Warehouses
+    on Kubernetes'
+  date: Mar 18 2020
+  time: 10:00 - 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/democratizing-analytics-cloud-native-data-warehouses-on-k8s/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Small Is Not Always Beautiful – Moving Enterprise Applications
+    to the Cloud'
+  date: Mar 19 2020
+  time: 9:00 - 10:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/small-is-not-always-beautiful-moving-enterprise-apps-to-the-cloud/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Lowering the Barrier to Kubernetes Proficiency – Navigating
+    the Stormy Seas of Information Overload'
+  date: Mar 25 2020
+  time: 10:00 - 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/lowering-the-barrier-to-k8s-proficiency-navigating-the-stormy-seas-of-information-overload/
+  isDelivered: false
