@@ -397,3 +397,38 @@ content:
   url: https://www.cncf.io/blog/2020/02/24/schedules-announced-for-cloud-native-security-day-serverless-practitioners-summit-servicemeshcon/
   kind: Blog
   isDelivered: true
+- title: 'InfoWorld: “The secret to Kubernetes’ success”'
+  url: https://www.cncf.io/news/2020/03/06/infoworld-the-secret-to-kubernetes-success/
+  kind: In The News
+  isDelivered: false
+- title: 'DevClass: “Running containers and Kubernetes? You’re completely normal,
+    CNCF figures show”'
+  url: https://www.cncf.io/news/2020/03/05/devclass-running-containers-and-kubernetes-youre-completely-normal-cncf-figures-show/
+  kind: In The News
+  isDelivered: false
+- title: 'Forbes: “15 Most Interesting Cloud Native Trends From The CNCF Survey”'
+  url: https://www.cncf.io/news/2020/03/04/forbes-15-most-interesting-cloud-native-trends-from-the-cncf-survey/
+  kind: In The News
+  isDelivered: false
+- title: 'SDxCentral: “CNCF Survey Underscores Cloud Native Popularity”'
+  url: https://www.cncf.io/news/2020/03/04/sdxcentral-cncf-survey-underscores-cloud-native-popularity/
+  kind: In The News
+  isDelivered: false
+- title: 'ComputerWeekly: “Rook 101: Building software-defined containerised storage
+    in Kubernetes”'
+  url: https://www.cncf.io/news/2020/03/02/computerweekly-rook-101-building-software-defined-containerised-storage-in-kubernetes/
+  kind: In The News
+  isDelivered: false
+- title: The Difference Between API Gateways and Service Mesh
+  url: https://www.cncf.io/blog/2020/03/06/the-difference-between-api-gateways-and-service-mesh/
+  kind: Blog
+  isDelivered: false
+- title: How Ericsson Is Leveraging Cloud Native to Enable 5G Transformation
+  url: https://www.cncf.io/blog/2020/03/05/how-ericsson-is-leveraging-cloud-native-to-enable-5g-transformation/
+  kind: Blog
+  isDelivered: false
+- title: '2019 CNCF Survey results are here: Deployments are growing in size and speed
+    as cloud native adoption becomes mainstream'
+  url: https://www.cncf.io/blog/2020/03/04/2019-cncf-survey-results-are-here-deployments-are-growing-in-size-and-speed-as-cloud-native-adoption-becomes-mainstream/
+  kind: Blog
+  isDelivered: false
