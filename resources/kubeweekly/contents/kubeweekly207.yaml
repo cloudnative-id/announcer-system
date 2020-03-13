@@ -1,0 +1,75 @@
+title: 'kubeweekly #207'
+date: 03/13/2020
+source: kubeweekly
+data:
+- title: Redefining extensibility in proxies – introducing WebAssembly to Envoy and
+    Istio
+  link: https://istio.io/blog/2020/wasm-announce/
+  type: The Headlines
+- title: 'CNCF Member Webinar: Immutable Infrastructure in the Age of Kubernetes'
+  link: https://www.cncf.io/webinars/immutable-infrastructure-age-of-kubernetes/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Kubernetes Security Best Practices for DevOps'
+  link: https://www.cncf.io/webinars/k8s-security-best-practices-for-devops/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Use Open Source, Bare Metal, & 5G to Achieve Autonomous
+    Drone Delivery!'
+  link: https://www.cncf.io/webinars/use-os-bare-metal-5g-to-achieve-autonomous-drone-delivery/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Project Webinar: What’s New in Linkerd 2.7'
+  link: https://www.cncf.io/webinars/whats-new-in-linkerd-2-7/
+  type: 'ICYMI: CNCF Webinars '
+- title: What is a Service Mesh?
+  link: https://www.magalix.com/blog/what-is-a-service-mesh
+  type: The Technical
+- title: Managing service meshes with Meshery
+  link: https://www.learncloudnative.com/blog/2020-03-12-meshery-service-mesh-management-plane/
+  type: The Technical
+- title: The Complete Guide to Kubernetes Monitoring
+  link: https://sematext.com/guides/kubernetes-monitoring/
+  type: The Technical
+- title: 'statusbay: Kubernetes deployment visibility'
+  link: https://github.com/similarweb/statusbay
+  type: The Technical
+- title: What makes a good Operator?
+  link: https://blog.openshift.com/what-makes-a-good-operator/
+  type: The Technical
+- title: Connecting AWS managed services to your Argo CD pipeline with open source
+    Crossplane
+  link: https://aws.amazon.com/blogs/opensource/connecting-aws-managed-services-to-your-argo-cd-pipeline-with-open-source-crossplane/
+  type: The Technical
+- title: NTP in a Kubernetes cluster
+  link: https://tech.goglides.com/2020/03/09/manage-ntp-using-kubernetes/
+  type: The Technical
+- title: 'Docker announces new roadmap for developer experience: “Helping You and
+    Your Development Team Build and Ship Faster”'
+  link: https://www.docker.com/blog/docker-strategy-helping-devs-build-and-ship-faster/
+  type: The Editorial
+- title: Announcing Istio 1.5
+  link: https://istio.io/news/releases/1.5.x/announcing-1.5/
+  type: The Editorial
+- title: VMware Tanzu now Generally Available
+  link: https://blogs.vmware.com/cloudnative/2020/03/10/become-a-modern-software-organization-with-vmware-tanzu/
+  type: The Editorial
+- title: gRPC, with Richard Belleville
+  link: https://kubernetespodcast.com/episode/094-grpc/
+  type: The Editorial
+- title: How does Monzo keep 1,600 microservices spinning? Go, clean code, and a strong
+    team
+  link: https://www.theregister.co.uk/2020/03/09/monzo_microservices/
+  type: The Editorial
+- title: Open Policy Agent’s Mission to Secure the Cloud
+  link: https://thenewstack.io/open-policy-agents-mission-to-secure-the-cloud/
+  type: The Editorial
+- title: How Visa built its own container security solution
+  link: https://www.csoonline.com/article/3529974/how-visa-built-its-own-container-security-solution.html
+  type: The Editorial
+- title: 'Containers and Kubernetes: 3 transformational success stories'
+  link: https://www.cio.com/article/3530277/containers-and-kubernetes-3-transformational-success-stories.html
+  type: The Editorial
+- title: Top Six Open Source Tools for Monitoring Kubernetes and Docker
+  link: https://devops.com/top-six-open-source-tools-for-monitoring-kubernetes-and-docker/
+  type: The Editorial
+- title: Essential things to know about container networking
+  link: https://www.networkworld.com/article/3529384/essential-things-to-know-about-container-networking.html
+  type: The Editorial
