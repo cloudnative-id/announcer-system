@@ -196,4 +196,4 @@ content:
   date: Mar 12 2020
   time: 9:00 - 10:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/immutable-infrastructure-age-of-kubernetes/
-  isDelivered: false
+  isDelivered: true
