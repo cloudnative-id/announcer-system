@@ -201,4 +201,4 @@ content:
   date: Mar 17 2020
   time: 10:00 - 11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/calico-networking-with-ebpf/
-  isDelivered: false
+  isDelivered: true
