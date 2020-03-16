@@ -435,42 +435,42 @@ content:
 - title: Cloud Native Computing Foundation Announces Splunk as Gold Member
   url: https://www.cncf.io/announcement/2020/03/12/cloud-native-computing-foundation-announces-splunk-gold-member/
   kind: Announcements
-  isDelivered: false
+  isDelivered: true
 - title: 'Computing: What’s happening with serverless cloud?'
   url: https://www.cncf.io/news/2020/03/12/computing-whats-happening-with-serverless-cloud/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'Jaxenter: “CNCF survey reveals 78% use Kubernetes in production”'
   url: https://www.cncf.io/news/2020/03/09/jaxenter-cncf-survey-reveals-78-use-kubernetes-in-production/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'The New Stack: “Open Policy Agent’s Mission to Secure the Cloud”'
   url: https://www.cncf.io/news/2020/03/06/the-new-stack-open-policy-agents-mission-to-secure-the-cloud/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'ZDNet: “Kubernetes jumps in popularity”'
   url: https://www.cncf.io/news/2020/03/06/zdnet-kubernetes-jumps-in-popularity/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'The New Stack: “CNCF Survey Snapshot: Tech Adoption in the Cloud Native
     World”'
   url: https://www.cncf.io/news/2020/03/05/the-new-stack-cncf-survey-snapshot-tech-adoption-in-the-cloud-native-world/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'ITOpsTimes: “Report: Cloud-native projects now the norm in production”'
   url: https://www.cncf.io/news/2020/03/04/itopstimes-report-cloud-native-projects-now-the-norm-in-production/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: Is IT suffocating your organization? Here’s how to get your contextual data
     pipelines right
   url: https://www.cncf.io/blog/2020/03/13/is-it-suffocating-your-organization-heres-how-to-get-your-contextual-data-pipelines-right/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'LifeMiles: Building an Agile Loyalty Program with Kubernetes'
   url: https://www.cncf.io/blog/2020/03/12/lifemiles-building-an-agile-loyalty-program-with-kubernetes/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: CNCF Joins Google Summer of Code 2020!
   url: https://www.cncf.io/blog/2020/03/09/cncf-joins-google-summer-of-code-2020/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
