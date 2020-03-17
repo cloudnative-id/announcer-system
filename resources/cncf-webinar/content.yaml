@@ -202,3 +202,9 @@ content:
   time: 10:00 - 11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/calico-networking-with-ebpf/
   isDelivered: true
+- title: 'CNCF Ambassador Webinar: Continuous Profiling Go Application Running in
+    Kubernetes'
+  date: Mar 27 2020
+  time: 10:00 - 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/continuous-profiling-go-application-running-in-k8s/
+  isDelivered: false
