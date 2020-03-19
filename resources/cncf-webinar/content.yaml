@@ -213,9 +213,9 @@ content:
   date: Apr 2 2020
   time: 9:00 - 10:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/taming-ai-ml-workloads-with-kubeflow-journey-to-v1/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Declarative Host Upgrades From Within Kubernetes'
   date: Apr 14 2020
   time: 10:00 - 11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/declarative-host-upgrades-from-within-k8s/
-  isDelivered: false
+  isDelivered: true
