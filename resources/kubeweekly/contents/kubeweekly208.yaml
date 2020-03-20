@@ -1,0 +1,81 @@
+title: 'kubeweekly #208'
+date: 03/20/2020
+source: kubeweekly
+data:
+- title: Join SIG Scalability and Learn Kubernetes the Hard Way
+  link: https://kubernetes.io/blog/2020/03/19/join-sig-scalability/
+  type: The Headlines
+- title: 'Kong Ingress Controller and Service Mesh: Setting up Ingress to Istio on
+    Kubernetes'
+  link: https://kubernetes.io/blog/2020/03/18/kong-ingress-controller-and-istio-service-mesh/
+  type: The Headlines
+- title: 'CNCF Member Webinar: Small Is Not Always Beautiful – Moving Enterprise Applications
+    to the Cloud'
+  link: https://www.cncf.io/webinars/small-is-not-always-beautiful-moving-enterprise-apps-to-the-cloud/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Democratizing Analytics with Cloud Native Data Warehouses
+    on Kubernetes'
+  link: https://www.cncf.io/webinars/democratizing-analytics-cloud-native-data-warehouses-on-k8s/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Calico Networking with eBPF'
+  link: https://www.cncf.io/webinars/calico-networking-with-ebpf/
+  type: 'ICYMI: CNCF Webinars '
+- title: On the state of Envoy Proxy control planes
+  link: https://mattklein123.dev/2020/03/15/on-the-state-of-envoy-proxy-control-planes/
+  type: The Technical
+- title: 'Introducing istiod: simplifying the mesh control plane'
+  link: https://istio.io/blog/2020/istiod/
+  type: The Technical
+- title: Introducing the Calico eBPF dataplane
+  link: https://www.projectcalico.org/introducing-the-calico-ebpf-dataplane/
+  type: The Technical
+- title: Directing Kubernetes traffic with Traefik
+  link: https://opensource.com/article/20/3/kubernetes-traefik
+  type: The Technical
+- title: Your own Kubernetes controller – Laying out the work
+  link: https://blog.frankel.ch/your-own-kubernetes-controller/1/
+  type: The Technical
+- title: Migrating from Helm v2 to v3
+  link: https://geeksocket.in/posts/helm-2-3-migration/
+  type: The Technical
+- title: 'Show Me Your Code with Walter Dal Mut: Extend Kubernetes in NodeJS'
+  link: https://gianarb.it/blog/show-me-your-code-walter-dal-mut-kubernetes-nodejs-informers
+  type: The Technical
+- title: 5 tips for troubleshooting apps on Kubernetes
+  link: https://medium.com/@alexellisuk/5-tips-for-troubleshooting-apps-on-kubernetes-835b6b539c24
+  type: The Technical
+- title: Our failure story with Redis operator for K8s (+ a brief look at Redis data
+    analysis tools)
+  link: https://medium.com/flant-com/redis-kubernetes-operator-and-data-analysis-tools-afce55b02123
+  type: The Technical
+- title: Introduction to Security Contexts and SCCs
+  link: https://blog.openshift.com/introduction-to-security-contexts-and-sccs/
+  type: The Technical
+- title: Creating Workspaces with the HashiCorp Terraform Operator for Kubernetes
+  link: https://www.hashicorp.com/blog/creating-workspaces-with-the-hashicorp-terraform-operator-for-kubernetes/
+  type: The Technical
+- title: Recommended Steps to Secure a DigitalOcean Kubernetes Cluster
+  link: https://www.digitalocean.com/community/tutorials/recommended-steps-to-secure-a-digitalocean-kubernetes-cluster
+  type: The Technical
+- title: 13 Kubernetes tutorials in Spanish, 20 Kubernetes tutorials in Portuguese,
+    and 14 Kubernetes tutorials in Russian  
+  link: https://www.digitalocean.com/community/tutorials?language=es&q=kubernetes
+  type: The Technical
+- title: etcd, with Xiang Li
+  link: https://kubernetespodcast.com/episode/095-etcd/
+  type: The Editorial
+- title: 'Managing Harbor at cloud scale : The story behind Harbor Kubernetes Operator'
+  link: https://www.ovh.com/blog/managing-harbor-at-cloud-scale-the-story-behind-harbor-kubernetes-operator/
+  type: The Editorial
+- title: Securing Kubernetes Networking with Nicole Hubbard, Hashicorp
+  link: https://soundcloud.com/thenewstackmakers/nicole-hubbard-securing-kubernetes-networking
+  type: The Editorial
+- title: Day 2 for the Operator Ecosystem
+  link: https://devops.com/day-2-for-the-operator-ecosystem/
+  type: The Editorial
+- title: 4 ways to manage Kubernetes resources
+  link: https://cloudowski.com/articles/4-ways-to-manage-kubernetes-resources/
+  type: The Editorial
+- title: 'Interoperability of open-source tools: the emergence of interfaces'
+  link: https://medium.com/@kgamanji/interoperability-of-open-source-tools-the-emergence-of-interfaces-f3b7a90891e4
+  type: The Editorial
