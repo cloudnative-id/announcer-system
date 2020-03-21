@@ -224,3 +224,9 @@ content:
   time: 10:00 - 11:00 AM CST (UTC+7)
   url: https://www.cncf.io/webinars/%e5%a6%82%e4%bd%95%e8%ae%a9%e4%bd%a0%e7%9a%84windows%e5%ba%94%e7%94%a8%e8%bf%90%e8%a1%8c%e5%9c%a8kubernetes%e5%b9%b3%e5%8f%b0/
   isDelivered: true
+- title: 'CNCF Member Webinar: Container Security at Scale: Lessons Learned from the
+    Front Lines with ABN AMRO and Palo Alto Networks'
+  date: Apr 1 2020
+  time: 10:00 AM- 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/container-security-at-scale-lessons-learned-from-the-front-lines-with-abn-amro-and-palo-alto-networks/
+  isDelivered: false
