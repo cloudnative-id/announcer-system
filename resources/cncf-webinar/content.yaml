@@ -229,4 +229,4 @@ content:
   date: Apr 1 2020
   time: 10:00 AM- 11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/container-security-at-scale-lessons-learned-from-the-front-lines-with-abn-amro-and-palo-alto-networks/
-  isDelivered: false
+  isDelivered: true
