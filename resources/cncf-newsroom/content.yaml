@@ -474,3 +474,11 @@ content:
   url: https://www.cncf.io/blog/2020/03/09/cncf-joins-google-summer-of-code-2020/
   kind: Blog
   isDelivered: true
+- title: 'My Internship with Thanos: A CNCF Project'
+  url: https://www.cncf.io/blog/2020/03/20/my-internship-with-thanos-a-cncf-project/
+  kind: Blog
+  isDelivered: false
+- title: How to setup Role based access to Kubernetes Cluster
+  url: https://www.cncf.io/blog/2020/03/17/how-to-setup-role-based-access-to-kubernetes-cluster/
+  kind: Blog
+  isDelivered: false
