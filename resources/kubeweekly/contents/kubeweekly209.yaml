@@ -1,0 +1,60 @@
+title: 'kubeweekly #209'
+date: 03/27/2020
+source: kubeweekly
+data:
+- title: Kubernetes 1.18
+  link: https://kubernetes.io/blog/2020/03/25/kubernetes-1-18-release-announcement/
+  type: The Headlines
+- title: Kubernetes 1.18, with release team manager Jorge Alarcon
+  link: https://kubernetespodcast.com/episode/096-kubernetes-1.18/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Project Webinar: How to Migrate a MySQL Database to Vitess'
+  link: https://www.cncf.io/webinars/how-to-migrate-a-mysql-database-to-vitess/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Lowering the Barrier to Kubernetes Proficiency – Navigating
+    the Stormy Seas of Information Overload'
+  link: https://www.cncf.io/webinars/lowering-the-barrier-to-k8s-proficiency-navigating-the-stormy-seas-of-information-overload/
+  type: 'ICYMI: CNCF Webinars '
+- title: Anatomy of my Kubernetes Cluster
+  link: https://ttt.io/anatomy-of-my-kubernetes-cluster
+  type: The Technical
+- title: Writing Kubernetes network policies with Inspektor Gadget’s Network Policy
+    Advisor
+  link: https://kinvolk.io/blog/2020/03/writing-kubernetes-network-policies-with-inspektor-gadgets-network-policy-advisor/
+  type: The Technical
+- title: Okteto Push – Your Code to Kubernetes in Seconds
+  link: https://okteto.com/blog/okteto-push-code-to-kubernetes-in-seconds/
+  type: The Technical
+- title: Converting an Old MacBook Into an Always-On Personal Kubernetes Cluster
+  link: https://devopsdirective.com/posts/2020/03/always-on-minikube/
+  type: The Technical
+- title: Quality of Service and OOM in Kubernetes
+  link: https://ops.tips/notes/kubelet-qos-and-oom/
+  type: The Technical
+- title: Kubernetes secrets
+  link: https://ops.tips/notes/kuberntes-secrets/
+  type: The Technical
+- title: Setting up a ProxySQL Sidecar Container
+  link: https://www.percona.com/blog/2020/03/23/setting-up-a-proxysql-sidecar-container/
+  type: The Technical
+- title: OpenShift 4.4 OKD Bare Metal Install on VMWare Home Lab
+  link: https://medium.com/@craig_robinson/openshift-4-4-okd-bare-metal-install-on-vmware-home-lab-6841ce2d37eb
+  type: The Technical
+- title: Building a TODO API in Golang with Kubernetes
+  link: https://medium.com/@alexellisuk/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029
+  type: The Technical
+- title: A Guide On The Installation Of Spinnaker in Kubernetes Cluster
+  link: https://www.magalix.com/blog/a-guide-on-the-installation-of-spinnaker-in-your-production-kubernetes-cluster
+  type: The Technical
+- title: 'A Primer: Continuous Integration and Continuous Delivery (CI/CD)'
+  link: https://thenewstack.io/a-primer-continuous-integration-and-continuous-delivery-ci-cd/
+  type: The Technical
+- title: Threading the Needle on Kubernetes Complexity with AI-Powered Observability
+  link: https://devops.com/threading-the-needle-on-kubernetes-complexity-with-ai-powered-observability/
+  type: The Editorial
+- title: A ‘No-BS’ Checklist for Kubernetes
+  link: https://thenewstack.io/a-no-bs-checklist-for-kubernetes/
+  type: The Editorial
