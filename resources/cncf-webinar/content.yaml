@@ -230,3 +230,14 @@ content:
   time: 10:00 AM- 11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/container-security-at-scale-lessons-learned-from-the-front-lines-with-abn-amro-and-palo-alto-networks/
   isDelivered: true
+- title: 'CNCF Member Webinar: Pravega: Rethinking storage for streams'
+  date: Apr 7 2020
+  time: 10:00 - 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/cncf-member-webinar-pravega-rethinking-storage-for-streams/
+  isDelivered: false
+- title: 'CNCF Member Webinar: New thoughts on distributed file system in the cloud
+    native era'
+  date: Apr 9 2020
+  time: 10:00 AM- 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/new-thoughts-on-distributed-file-system-in-the-cloud-native-era/
+  isDelivered: false
