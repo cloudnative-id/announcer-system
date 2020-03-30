@@ -482,3 +482,33 @@ content:
   url: https://www.cncf.io/blog/2020/03/17/how-to-setup-role-based-access-to-kubernetes-cluster/
   kind: Blog
   isDelivered: true
+- title: 'TechGenix: CNCF Tools: 5 Hot Open-Source Cloud Solutions for your Application
+    Stack'
+  url: https://www.cncf.io/news/2020/03/27/techgenix-cncf-tools-5-hot-open-source-cloud-solutions-for-your-application-stack/
+  kind: In The News
+  isDelivered: false
+- title: 'DevClass: “Kubernetes 1.18 gets “a bit quarky”, advances debugging efforts”'
+  url: https://www.cncf.io/news/2020/03/26/devclass-kubernetes-1-18-gets-a-bit-quarky-advances-debugging-efforts/
+  kind: In The News
+  isDelivered: false
+- title: 'ZDNet: “Kubernetes 1.18: Buffing up the leading container orchestrator”'
+  url: https://www.cncf.io/news/2020/03/26/zdnet-kubernetes-1-18-buffing-up-the-leading-container-orchestrator/
+  kind: In The News
+  isDelivered: false
+- title: 'The New Stack: “Kubernetes 1.18 Brings Kubectl Debugging, Ingress Improvements”'
+  url: https://www.cncf.io/news/2020/03/25/the-new-stack-kubernetes-1-18-brings-kubectl-debugging-ingress-improvements/
+  kind: In The News
+  isDelivered: false
+- title: 'TechRepublic: “Kubernetes version 1.18 has 38 enhancements”'
+  url: https://www.cncf.io/news/2020/03/25/techrepublic-kubernetes-version-1-18-has-38-enhancements/
+  kind: In The News
+  isDelivered: false
+- title: 'Security Boulevard: “What’s New in Kubernetes 1.18? Enhancements and Feature
+    Updates”'
+  url: https://www.cncf.io/news/2020/03/23/security-boulevard-whats-new-in-kubernetes-1-18-enhancements-and-feature-updates/
+  kind: In The News
+  isDelivered: false
+- title: Deployment Bottlenecks and how to tame them
+  url: https://www.cncf.io/blog/2020/03/23/deployment-bottlenecks-and-how-to-tame-them/
+  kind: Blog
+  isDelivered: false
