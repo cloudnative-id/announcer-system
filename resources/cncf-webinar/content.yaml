@@ -246,3 +246,8 @@ content:
   time: 10:00- 11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-kubecarrier-the-operator-of-operators/
   isDelivered: true
+- title: 'CNCF Member Webinar: Enabling Cloud Native Storage for the Enterprise'
+  date: Apr 16 2020
+  time: 10:00- 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/cncf-member-webinar-enabling-cloud-native-storage-for-the-enterprise/
+  isDelivered: false
