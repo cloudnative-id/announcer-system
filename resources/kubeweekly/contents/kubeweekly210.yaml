@@ -1,0 +1,92 @@
+title: 'kubeweekly #210'
+date: 04/03/2020
+source: kubeweekly
+data:
+- title: Join us for Cloud Native Summit Online!
+  link: https://cloudnativesummit.online/
+  type: The Headlines
+- title: KubeCon + CloudNativeCon EU,
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+  type: The Headlines
+- title: Cloud Native Summit Online
+  link: https://cloudnativesummit.online/
+  type: The Headlines
+- title: next week
+  link: https://www.cncf.io/blog/2020/04/01/join-us-for-the-cloud-native-summit-online-on-april-7/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/blog/2020/03/31/cncf-projects-surpass-one-billion-lines-of-code-a-qa-with-devstats-creator-lukasz-gryglicki/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Ambassador Webinar: Continuous Profiling Go Application Running in
+    Kubernetes'
+  link: https://www.cncf.io/webinars/continuous-profiling-go-application-running-in-k8s/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: MindSpore and Cloud Native Ecosystem'
+  link: https://www.cncf.io/webinars/cncf-member-webinar-mindspore-and-cloud-native-ecosystem/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Container Security at Scale: Lessons Learned from the
+    Front Lines with ABN AMRO and Palo Alto Networks'
+  link: https://www.cncf.io/webinars/container-security-at-scale-lessons-learned-from-the-front-lines-with-abn-amro-and-palo-alto-networks/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Taming Your AI/ML Workloads with Kubeflow – The Journey
+    to Version 1.0'
+  link: https://www.cncf.io/webinars/taming-ai-ml-workloads-with-kubeflow-journey-to-v1/
+  type: 'ICYMI: CNCF Webinars '
+- title: How to detect outdated Kubernetes APIs
+  link: https://opensource.com/article/20/3/deprek8
+  type: The Technical
+- title: GitOps for Kubernetes
+  link: https://caylent.com/gitops-for-kubernetes
+  type: The Technical
+- title: Evaluating Predictive Autoscaling in Kubernetes
+  link: https://jamiethompson.me/posts/Evaluating-Predictive-Autoscaling-Kubernetes/
+  type: The Technical
+- title: How to Secure Your Kubernetes Cluster on GKE
+  link: https://devops.com/how-to-secure-your-kubernetes-cluster-on-gke/
+  type: The Technical
+- title: With Kubernetes Operators comes great responsibility
+  link: https://www.redhat.com/en/blog/kubernetes-operators-comes-great-responsibility
+  type: The Technical
+- title: Using UBI images to minimize container vulnerabilities
+  link: https://snyk.io/blog/ubi-to-minimize-container-vulnerabilities/
+  type: The Technical
+- title: Build a Kubernetes Operator in 10 minutes with Operator SDK
+  link: https://opensource.com/article/20/3/kubernetes-operator-sdk
+  type: The Technical
+- title: 'Kpt: Packaging up your Kubernetes configuration with git and YAML since
+    2014'
+  link: https://opensource.googleblog.com/2020/03/kpt-packaging-up-your-kubernetes.html
+  type: The Technical
+- title: Provisioning cloud resources (AWS, GCP, Azure) in Kubernetes
+  link: https://learnk8s.io/cloud-resources-kubernetes
+  type: The Technical
+- title: Edge Computing Requires Cloud Native Thinking Today 
+  link: https://www.tfir.io/edge-computing-requires-cloud-native-thinking-today/
+  type: The Editorial
+- title: Optimising UE4 Project Builds With Cloud Native Infrastructure And Containers
+  link: https://www.gamasutra.com/blogs/JoseMoreira/20200327/360277/Optimising_UE4_Project_Builds_With_Cloud_Native_Infrastructure_And_Containers.php
+  type: The Editorial
+- title: Migrating to Kubernetes
+  link: https://blog.sensu.io/migrating-to-kubernetes
+  type: The Editorial
+- title: '14 Kubernetes interview questions: For hiring managers and job seekers'
+  link: https://enterprisersproject.com/article/2020/3/14-kubernetes-interview-questions
+  type: The Editorial
+- title: Service Mesh Adds Security, Observability and Traffic Control to Kubernetes
+  link: https://thenewstack.io/service-mesh-adds-security-observability-and-traffic-control-to-kubernetes/
+  type: The Editorial
+- title: BotKube
+  link: https://www.botkube.io/
+  type: The Editorial
+- title: MKIT – Managed Kubernetes Inspection Tool
+  link: https://darkbit.io/blog/mkit-managed-kubernetes-inspection-tool
+  type: The Editorial
+- title: HashiCorp Joins the CNCF
+  link: https://www.hashicorp.com/blog/hashicorp-joins-the-cncf/
+  type: The Editorial
+- title: Ansible for Kubernetes by Jeff Geerling Free until end of April
+  link: https://www.jeffgeerling.com/blog/2020/my-devops-books-are-free-april-thanks-device42
+  type: The Editorial
