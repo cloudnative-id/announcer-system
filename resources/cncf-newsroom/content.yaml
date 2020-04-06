@@ -515,37 +515,37 @@ content:
 - title: The Cloud Native Computing Foundation Adds 81 Members to Reach New Heights 
   url: https://www.cncf.io/announcement/2020/03/31/the-cloud-native-computing-foundation-adds-81-members-to-reach-new-heights/
   kind: Announcements
-  isDelivered: false
+  isDelivered: true
 - title: 'SiliconANGLE: “All things Kubernetes: What you’re missing at KubeCon this
     week”'
   url: https://www.cncf.io/news/2020/03/29/siliconangle-all-things-kubernetes-what-youre-missing-at-kubecon-this-week/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'Enterprise Networking Planet: “Kubernetes 1.18 Improves Networking and Security
     for Cloud Native”'
   url: https://www.cncf.io/news/2020/03/28/enterprise-networking-planet-kubernetes-1-18-improves-networking-and-security-for-cloud-native/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'We’re all in this Together: A Wellness Guide from the CNCF Well-Being Working
     Group'
   url: https://www.cncf.io/blog/2020/04/03/were-all-in-this-together-a-wellness-guide-from-the-cncf-well-being-working-group/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Introducing A New Tool to Make Finding Your Favorite CNCF Videos Easier
   url: https://www.cncf.io/blog/2020/04/03/introducing-a-new-tool-to-make-finding-your-favorite-cncf-videos-easier/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Join us for the Cloud Native Summit Online on April 7!
   url: https://www.cncf.io/blog/2020/04/01/join-us-for-the-cloud-native-summit-online-on-april-7/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF projects surpass one billion lines of code: A Q&A with DevStats creator
     Łukasz Gryglicki'
   url: https://www.cncf.io/blog/2020/03/31/cncf-projects-surpass-one-billion-lines-of-code-a-qa-with-devstats-creator-lukasz-gryglicki/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: How Vodafone Leverages Kubernetes to Meet Its Digital Strategy Goals Across
     25 Countries
   url: https://www.cncf.io/blog/2020/03/30/how-vodafone-leverages-kubernetes-to-meet-its-digital-strategy-goals-across-25-countries/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
