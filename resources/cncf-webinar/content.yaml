@@ -251,3 +251,14 @@ content:
   time: 10:00- 11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-enabling-cloud-native-storage-for-the-enterprise/
   isDelivered: true
+- title: 'CNCF Ambassador Webinar: Introduction to Service Mesh Interface'
+  date: Apr 10 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/introduction-to-service-mesh-interface/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Best Practices In Implementing Container Image Promotion
+    Pipelines'
+  date: Apr 30 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/best-practices-in-implementing-container-image-promotion-pipelines/
+  isDelivered: false
