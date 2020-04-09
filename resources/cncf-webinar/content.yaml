@@ -267,4 +267,4 @@ content:
   date: May 7 2020
   time: 10:00-11:00 AM CST (UTC+7)
   url: https://www.cncf.io/webinars/how-aws-uses-firecracker-and-fargate-to-run-serverless-kubernetes-pods-in-amazon-eks/
-  isDelivered: false
+  isDelivered: true
