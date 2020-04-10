@@ -1,0 +1,100 @@
+title: 'kubeweekly #211'
+date: 04/10/2020
+source: kubeweekly
+data:
+- title: API Priority and Fairness Alpha
+  link: https://kubernetes.io/blog/2020/04/06/kubernetes-1-18-feature-api-priority-and-fairness-alpha/
+  type: The Headlines
+- title: recent blog
+  link: http://https://kubernetes.io/blog/2020/04/06/kubernetes-1-18-feature-api-priority-and-fairness-alpha/
+  type: The Headlines
+- title: Argo CD – Declarative GitOps CD for Kubernetes
+  link: https://www.cncf.io/blog/2020/04/07/toc-welcomes-argo-into-the-cncf-incubator/
+  type: The Headlines
+- title: here
+  link: https://argoproj.github.io/argo-cd/security_considerations/
+  type: The Headlines
+- title: TOC Votes to Move Dragonfly into CNCF Incubator
+  link: https://www.cncf.io/blog/2020/04/09/toc-votes-to-move-dragonfly-into-cncf-incubator/
+  type: The Headlines
+- title: CNCF blog
+  link: https://www.cncf.io/blog/2020/04/09/toc-votes-to-move-dragonfly-into-cncf-incubator/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Ambassador Webinar: Welcome to CloudLand! An Illustrated Intro to the
+    Cloud Native Landscape'
+  link: https://www.cncf.io/webinars/welcome-to-cloudland-an-illustrated-intro-to-the-cloud-native-landscape/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Pravega: Rethinking storage for streams'
+  link: https://www.cncf.io/webinars/pravega-rethinking-storage-for-streams/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Best Practices for Deploying a Service Mesh in Production:
+    From Technology to Teams'
+  link: https://www.cncf.io/webinars/best-practices-deploying-service-mesh-in-prod-from-technology-to-teams/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: New Thoughts on Distributed File System in the Cloud
+    Native Era'
+  link: https://www.cncf.io/webinars/new-thoughts-on-distributed-file-system-in-the-cloud-native-era/
+  type: 'ICYMI: CNCF Webinars '
+- title: Provisioning cloud resources (AWS, GCP, Azure) in Kubernetes
+  link: https://learnk8s.io/cloud-resources-kubernetes
+  type: The Technical
+- title: Agile Stacks- Docs
+  link: https://docs.agilestacks.com/article/4b2q2dcof9-development-workflow-on-kubernetes-with-skaffold
+  type: The Technical
+- title: Controlling outbound traffic from Kubernetes
+  link: https://monzo.com/blog/controlling-outbound-traffic-from-kubernetes
+  type: The Technical
+- title: Extending Kubernetes with Operators
+  link: https://medium.com/ingeniouslysimple/extending-kubernetes-with-operators-d99c4a02af72
+  type: The Technical
+- title: Your own Kubernetes controller – Improving and deploying
+  link: https://blog.frankel.ch/your-own-kubernetes-controller/3/
+  type: The Technical
+- title: Multi-tenant Kubernetes Clusters with the HAProxy Kubernetes Ingress Controller
+  link: https://www.haproxy.com/blog/multi-tenant-kubernetes-clusters-with-the-haproxy-kubernetes-ingress-controller/
+  type: The Technical
+- title: 'Working With Istio: Track Your Services With Kiali'
+  link: https://www.magalix.com/blog/working-with-istio-track-your-services-with-kiali
+  type: The Technical
+- title: Be Careful When Pulling Images by Short Name
+  link: https://www.redhat.com/en/blog/be-careful-when-pulling-images-short-name
+  type: The Technical
+- title: Bottlerocket with Fork, Clone, Run! – A Container Optimized OS with a GitOps
+    model
+  link: https://www.weave.works/blog/bottlerocket-with-fork-clone-run
+  type: The Technical
+- title: 'Embrace and Replace: Migrating ZooKeeper into Kubernetes'
+  link: https://product.hubspot.com/blog/zookeeper-to-kubernetes-migration
+  type: The Technical
+- title: Useful Interactive Terminal and Graphical UI Tools for Kubernetes
+  link: https://www.virtuallyghetto.com/2020/04/useful-interactive-terminal-and-graphical-ui-tools-for-kubernetes.html
+  type: The Technical
+- title: Introducing Krustlet, the WebAssembly Kubelet
+  link: https://deislabs.io/posts/introducing-krustlet/
+  type: The Technical
+- title: Jaeger, with Yuri Shkuro
+  link: https://kubernetespodcast.com/episode/097-jaeger/
+  type: The Editorial
+- title: Kubevious 
+  link: https://github.com/kubevious/kubevious
+  type: The Editorial
+- title: |-
+    Reliable, Self-Healing Kubernetes Explained
+    Plus, the role of self-healing nodes and infrastructure management
+  link: https://kublr.com/blog/reliable-self-healing-kubernetes-explained/
+  type: The Editorial
+- title: Five years of Raspberry Pi clusters
+  link: https://www.raspberrypi.org/blog/five-years-of-raspberry-pi-clusters/
+  type: The Editorial
+- title: Kubernetes v1.18 advances Windows container support
+  link: https://cloudblogs.microsoft.com/opensource/2020/04/03/kubernetes-v1-18-advances-windows-container-support/
+  type: The Editorial
+- title: Is there a Helm and Operators showdown?
+  link: https://cloudblogs.microsoft.com/opensource/2020/04/02/when-to-use-helm-operators-kubernetes-ops/
+  type: The Editorial
+- title: Why Linux containers are a CIO’s best friend
+  link: https://www.ciodive.com/news/linux-containers-kubernetes/575506/
+  type: The Editorial
