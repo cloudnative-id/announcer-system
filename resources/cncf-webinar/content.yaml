@@ -273,4 +273,4 @@ content:
   date: Apr 15 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-helping-app-developers-adopt-kubernetes-with-tekton-and-argo-automation/
-  isDelivered: false
+  isDelivered: true
