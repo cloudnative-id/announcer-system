@@ -549,3 +549,41 @@ content:
   url: https://www.cncf.io/blog/2020/03/30/how-vodafone-leverages-kubernetes-to-meet-its-digital-strategy-goals-across-25-countries/
   kind: Blog
   isDelivered: true
+- title: 'SiliconANGLE: “CNCF to host Dragonfly, a cloud-native file distribution
+    system for Kubernetes”'
+  url: https://www.cncf.io/news/2020/04/09/siliconangle-cncf-to-host-dragonfly-a-cloud-native-file-distribution-system-for-kubernetes/
+  kind: In The News
+  isDelivered: false
+- title: 'DevClass: “Dragonfly and Argo sail into CNCF incubator”'
+  url: https://www.cncf.io/news/2020/04/09/devclass-dragonfly-and-argo-sail-into-cncf-incubator/
+  kind: In The News
+  isDelivered: false
+- title: 'SiliconANGLE: “CNCF to host the Argo Project, to manage apps built on Kubernetes,
+    at incubation level”'
+  url: https://www.cncf.io/news/2020/04/07/siliconangle-cncf-to-host-the-argo-project-to-manage-apps-built-on-kubernetes-at-incubation-level/
+  kind: In The News
+  isDelivered: false
+- title: TOC Votes to Move Dragonfly into CNCF Incubator
+  url: https://www.cncf.io/blog/2020/04/09/toc-votes-to-move-dragonfly-into-cncf-incubator/
+  kind: Blog
+  isDelivered: false
+- title: 'Serverless Open-Source Frameworks: OpenFaaS, Knative, & More'
+  url: https://www.cncf.io/blog/2020/04/09/serverless-open-source-frameworks-openfaas-knative-more/
+  kind: Blog
+  isDelivered: false
+- title: Cloud native ecosystem empowering new open source deep learning framework
+  url: https://www.cncf.io/blog/2020/04/09/cloud-native-ecosystem-empowering-new-open-source-deep-learning-framework/
+  kind: Blog
+  isDelivered: false
+- title: How Cloud Native Is Enabling Babylon’s Medical AI Innovations
+  url: https://www.cncf.io/blog/2020/04/08/how-cloud-native-is-enabling-babylons-medical-ai-innovations/
+  kind: Blog
+  isDelivered: false
+- title: TOC Welcomes Argo into the CNCF Incubator
+  url: https://www.cncf.io/blog/2020/04/07/toc-welcomes-argo-into-the-cncf-incubator/
+  kind: Blog
+  isDelivered: false
+- title: 'EnterpriseAI: “Kubernetes Tools Keep Coming”'
+  url: https://www.cncf.io/blog/2020/04/07/enterpriseai-kubernetes-tools-keep-coming/
+  kind: Blog
+  isDelivered: false
