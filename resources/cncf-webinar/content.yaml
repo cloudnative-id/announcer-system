@@ -278,19 +278,19 @@ content:
   date: Apr 17 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/announcing-open-source-grpc-kotlin/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: KubeCarrier: the Operator of Operators'
   date: Apr 29 2020
   time: 10:00-11:00 AM CST (UTC+7)
   url: https://www.cncf.io/webinars/kubecarrier-the-operator-of-operators-2/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Kubernetes RBAC 101'
   date: Apr 29 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/kubernetes-rbac-101/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Data Services for Cloud Native Workloads'
   date: May 12 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/webinar-data-services-for-cloud-native-workloads/
-  isDelivered: false
+  isDelivered: true
