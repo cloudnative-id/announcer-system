@@ -1,0 +1,84 @@
+title: 'kubeweekly #212'
+date: 04/17/2020
+source: kubeweekly
+data:
+- title: 'Join the Kubernetes Release Team: learn from and give back to the community'
+  link: https://cloudblogs.microsoft.com/opensource/2020/04/11/join-kubernetes-release-team-roles-responsibilities//
+  type: The Headlines
+- title: 10 developer skills on the rise — and five on the decline
+  link: https://www.cio.com/article/3538234/10-developer-skills-on-the-rise-and-five-on-the-decline.html
+  type: The Headlines
+- title: containerd 1.3.4 
+  link: https://github.com/containerd/containerd/releases/tag/v1.3.4
+  type: CNCF Project News
+- title: Helm v2.16.6 
+  link: https://github.com/helm/helm/releases/tag/v2.16.6
+  type: CNCF Project News
+- title: Envoy 1.14
+  link: https://groups.google.com/forum/#!topic/envoy-announce/zr73-Ey6Aq0
+  type: CNCF Project News
+- title: Linkerd stable 2.7.1
+  link: https://lists.cncf.io/g/cncf-linkerd-users/message/225
+  type: CNCF Project News
+- title: gRPC, meet Kotlin
+  link: https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin
+  type: CNCF Project News
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Ambassador Webinar: Introduction to Service Mesh Interface'
+  link: https://www.cncf.io/webinars/introduction-to-service-mesh-interface/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Declarative Host Upgrades From Within Kubernetes'
+  link: https://www.cncf.io/webinars/declarative-host-upgrades-from-within-k8s/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Helping App Developers Adopt Kubernetes with Tekton
+    and Argo Automation'
+  link: https://www.cncf.io/webinars/cncf-member-webinar-helping-app-developers-adopt-kubernetes-with-tekton-and-argo-automation/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Enabling Cloud Native Storage for the Enterprise'
+  link: https://www.cncf.io/webinars/cncf-member-webinar-enabling-cloud-native-storage-for-the-enterprise/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'Monitoring Kubernetes Workloads: The Sidecar Pattern'
+  link: https://kubernetes.io/blog/2020/04/16/monitoring-kubernetes-sidecar-pattern/
+  type: The Technical
+- title: Human-friendly Domains with Knative
+  link: https://bsideup.github.io/posts/knative_custom_domains/
+  type: The Technical
+- title: Please don’t evict my pod; priority & disruption budget
+  link: https://itnext.io/please-dont-evict-my-pod-priority-disruption-budget-e099da7b93d2
+  type: The Technical
+- title: Graceful shutdown in Kubernetes is not always trivial
+  link: https://medium.com/flant-com/kubernetes-graceful-shutdown-nginx-php-fpm-d5ab266963c2
+  type: The Technical
+- title: Getting started with writing Serverless workloads on Kubernetes using Fission
+    – 1
+  link: https://www.infracloud.io/serverless-using-fission-1/
+  type: The Technical
+- title: 'Kubernetes API Operator: Apply API Management for Istio Microservices'
+  link: https://hackernoon.com/kubernetes-api-operator-apply-api-management-for-istio-microservices-qs5e3yrq
+  type: The Technical
+- title: Announcing the Compose Specification
+  link: https://www.docker.com/blog/announcing-the-compose-specification/
+  type: The Technical
+- title: Istio telemetry V2 (Mixerless) deep dive
+  link: https://banzaicloud.com/blog/istio-mixerless-telemetry/
+  type: The Technical
+- title: Kubernetes Node Local DNS Cache
+  link: https://povilasv.me/kubernetes-node-local-dns-cache/
+  type: The Technical
+- title: Understanding Kubernetes Objects
+  link: https://www.magalix.com/blog/understanding-kubernetes-objects
+  type: The Technical
+- title: 'Kubernetes Podcast: kpt, with Morten Torkildsen'
+  link: https://kubernetespodcast.com/episode/099-kpt/
+  type: The Editorial
+- title: Is there a Helm and Operators showdown?
+  link: https://cloudblogs.microsoft.com/opensource/2020/04/02/when-to-use-helm-operators-kubernetes-ops/
+  type: The Editorial
+- title: Kubernetes Logging and Monitoring Explained
+  link: https://kublr.com/blog/kubernetes-logging-and-monitoring-explained/
+  type: The Editorial
+- title: Fluentd Project Journey Report
+  link: https://www.cncf.io/cncf-fluentd-project-journey/
+  type: The Editorial
