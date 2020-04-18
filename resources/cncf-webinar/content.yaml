@@ -305,4 +305,4 @@ content:
   date: May 13 2020
   time: 10:00-11:00 AM CST (UTC+7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-piraeus-dynamic-provisioning-resource-management-and-high-availability-for-local-persistent-volumes/
-  isDelivered: false
+  isDelivered: true
