@@ -300,3 +300,9 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/ensuring-compliance-without-sacrificing-development-agility-and-operational-independence-in-k8s-with-opa-gatekeeper/
   isDelivered: true
+- title: 'CNCF Member Webinar: Piraeus: Dynamic Provisioning, Resource Management
+    and High Availability for Local Persistent Volumes'
+  date: May 13 2020
+  time: 10:00-11:00 AM CST (UTC+7)
+  url: https://www.cncf.io/webinars/cncf-member-webinar-piraeus-dynamic-provisioning-resource-management-and-high-availability-for-local-persistent-volumes/
+  isDelivered: false
