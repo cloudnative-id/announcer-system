@@ -587,3 +587,41 @@ content:
   url: https://www.cncf.io/blog/2020/04/07/enterpriseai-kubernetes-tools-keep-coming/
   kind: Blog
   isDelivered: true
+- title: 'EnterpriseAI: “Kubernetes Tools Keep Coming”'
+  url: https://www.cncf.io/news/2020/04/07/enterpriseai-kubernetes-tools-keep-coming/
+  kind: In The News
+  isDelivered: false
+- title: 'What if it was a software bug/virus? Cyber vs. COVID-19: A thought experiment'
+  url: https://www.cncf.io/blog/2020/04/18/what-if-it-was-a-software-bug-virus-cyber-vs-covid-19-a-thought-experiment/
+  kind: Blog
+  isDelivered: false
+- title: Migrating to Kubernetes
+  url: https://www.cncf.io/blog/2020/04/17/migrating-to-kubernetes/
+  kind: Blog
+  isDelivered: false
+- title: How Cloud Native Is Enabling STL to ‘Build Once and Run Anywhere’ to Supply
+    Telecom Operators Worldwide
+  url: https://www.cncf.io/blog/2020/04/17/how-cloud-native-is-enabling-stl-to-build-once-and-run-anywhere-to-supply-telecom-operators-worldwide/
+  kind: Blog
+  isDelivered: false
+- title: Launching CommunityBridge Mentorships Q2 2020
+  url: https://www.cncf.io/blog/2020/04/16/launching-communitybridge-mentorships-q2-2020/
+  kind: Blog
+  isDelivered: false
+- title: Seven CNCF Interns Graduate from the 2020 Linux Foundation CommunityBridge
+    Program
+  url: https://www.cncf.io/blog/2020/04/15/seven-cncf-interns-graduate-from-the-2020-linux-foundation-communitybridge-program/
+  kind: Blog
+  isDelivered: false
+- title: Fluentd Project Journey Report
+  url: https://www.cncf.io/blog/2020/04/14/fluentd-project-journey-report/
+  kind: Blog
+  isDelivered: false
+- title: 'Serverless Open-Source Frameworks: OpenFaaS, Knative, & More'
+  url: https://www.cncf.io/blog/2020/04/13/serverless-open-source-frameworks-openfaas-knative-more/
+  kind: Blog
+  isDelivered: false
+- title: Cloud native ecosystem empowering new open source deep learning framework
+  url: https://www.cncf.io/blog/2020/04/10/cloud-native-ecosystem-empowering-new-open-source-deep-learning-framework/
+  kind: Blog
+  isDelivered: false
