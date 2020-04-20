@@ -13,3 +13,10 @@ newMeetup:
     delivered: true
   tags:
   - '#meetup'
+- contentFile: meetup/jakarta14.yaml
+  city: Jakarta
+  number: 14
+  status:
+    delivered: false
+  tags:
+  - '#meetup'
