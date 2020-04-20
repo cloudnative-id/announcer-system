@@ -17,6 +17,6 @@ newMeetup:
   city: Jakarta
   number: 14
   status:
-    delivered: false
+    delivered: true
   tags:
   - '#meetup'
