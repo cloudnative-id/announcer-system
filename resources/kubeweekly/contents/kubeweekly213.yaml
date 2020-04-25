@@ -1,0 +1,100 @@
+title: 'kubeweekly #213'
+date: 04/25/2020
+source: kubeweekly
+data:
+- title: 'Kubernetes Podcast episode 100: Community Redux, with Paris Pittman'
+  link: https://kubernetespodcast.com/episode/100-community-redux/
+  type: The Headlines
+- title: Bundle Training and Certification to Jump Start Your Career
+  link: https://training.linuxfoundation.org/announcements/bundle-training-and-certification-to-jump-start-your-career/
+  type: The Headlines
+- title: training and certification bundles
+  link: https://training.linuxfoundation.org/april-2020-promo/?utm_source=lftraining&utm_medium=blog&utm_campaign=april2020
+  type: The Headlines
+- title: 30% off
+  link: https://training.linuxfoundation.org/april-2020-promo/?utm_source=lftraining&utm_medium=blog&utm_campaign=april2020
+  type: The Headlines
+- title: bundles
+  link: https://training.linuxfoundation.org/april-2020-promo/?utm_source=lftraining&utm_medium=blog&utm_campaign=april2020
+  type: The Headlines
+- title: courses
+  link: https://training.linuxfoundation.org/training/course-catalog/?utm_source=lftraining&utm_medium=blog&utm_campaign=april2020
+  type: The Headlines
+- title: certification exams
+  link: https://training.linuxfoundation.org/certification/catalog/?utm_source=lftraining&utm_medium=blog&utm_campaign=april2020
+  type: The Headlines
+- title: free training courses
+  link: https://training.linuxfoundation.org/resources/?_sft_content_type=free-course&utm_source=lftraining&utm_medium=blog&utm_campaign=april2020
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Project Webinar: Announcing Open Source gRPC Kotlin'
+  link: https://www.cncf.io/webinars/announcing-open-source-grpc-kotlin/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Ensuring compliance, without sacrificing development
+    agility and operational independence, in K8s with OPA Gatekeeper'
+  link: https://www.cncf.io/webinars/ensuring-compliance-without-sacrificing-development-agility-and-operational-independence-in-k8s-with-opa-gatekeeper/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Kubernetes RBAC 101'
+  link: https://www.cncf.io/webinars/kubernetes-rbac-101/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: 如何让你的Windows应用运行在Kubernetes平台'
+  link: https://www.cncf.io/webinars/%e5%a6%82%e4%bd%95%e8%ae%a9%e4%bd%a0%e7%9a%84windows%e5%ba%94%e7%94%a8%e8%bf%90%e8%a1%8c%e5%9c%a8kubernetes%e5%b9%b3%e5%8f%b0/
+  type: 'ICYMI: CNCF Webinars '
+- title: kubesort
+  link: https://github.com/AATHITH/kubesort?utm_sq=gdl0r67wh8
+  type: The Technical
+- title: 'Videos: Intro to Vitess—its powerful capabilities and how to get started'
+  link: https://www.planetscale.com/blog/videos-intro-to-vitess-its-powerful-capabilities-and-how-to-get-started
+  type: The Technical
+- title: 'Learn from our maintainer: build/run/test your Velero code locally and in
+    cluster'
+  link: https://www.youtube.com/watch?v=Aiz9M4aVFdA
+  type: The Technical
+- title: 'Multicluster-Scheduler and Argo (Workflows and CD): a Deep Dive'
+  link: https://itnext.io/multicluster-scheduler-argo-workflows-across-kubernetes-clusters-ea98016499ca
+  type: The Technical
+- title: Virtual 4G Simulation Using Kubernetes And GNS3
+  link: https://www.loodse.com/blog/virtual-4g-simulation-using-kubernetes-and-gns3/
+  type: The Technical
+- title: 'Building a Kubernetes-Based Platform: Progressive Delivery, the Edge, and
+    Observability'
+  link: https://www.getambassador.io/resources/building-kubernetes-based-platform/
+  type: The Technical
+- title: How GKE surge upgrades improve operational efficiency
+  link: https://cloud.google.com/blog/products/containers-kubernetes/introducing-surge-upgrades-for-anthos-gke
+  type: The Technical
+- title: Rolling Updates and Blue-Green Deployments with Kubernetes and HAProxy
+  link: https://www.haproxy.com/blog/rolling-updates-and-blue-green-deployments-with-kubernetes-and-haproxy/
+  type: The Technical
+- title: EKS Service Accounts Explained
+  link: https://fika.works/blog/eks-service-accounts/
+  type: The Technical
+- title: Navigating the Kubernetes Hype Cycle
+  link: https://www.weave.works/blog/navigating-the-kubernetes-hype-cycle
+  type: The Editorial
+- title: Kubernetes architecture for beginners
+  link: https://enterprisersproject.com/article/2020/4/kubernetes-architecture-beginners
+  type: The Editorial
+- title: 'Pancake Podcast: Cassandra and the Kubernetes Data Plane'
+  link: https://thenewstack.io/pancake-podcast-cassandra-and-the-kubernetes-data-plane/
+  type: The Editorial
+- title: GigaOm Radar for Hosted Kubernetes Solutions
+  link: https://gigaom.com/report/gigaom-radar-for-hosted-kubernetes-solutions/
+  type: The Editorial
+- title: Is Kubernetes becoming the driving force of enterprise IT?
+  link: https://www.information-age.com/kubernetes-becoming-driving-force-enterprise-it-123488580/
+  type: The Editorial
+- title: NetApp to make stateful applications easier to do in Kubernetes
+  link: https://www.zdnet.com/article/netapp-to-make-stateful-applications-easier-to-do-in-kubernetes/
+  type: The Editorial
+- title: The important things I know which helped me pass the CKAD exam
+  link: https://medium.com/@vishwas76/the-important-things-i-know-which-helped-me-pass-the-ckad-exam-d1f460aff1c2
+  type: The Editorial
+- title: 'Istio Service Mesh in 2020: Envoy In, Control Plane Simplified'
+  link: https://blog.alcide.io/istio-service-mesh-in-2020
+  type: The Editorial
+- title: Master Shifu & His Cloud-Native Mentoring Sessions
+  link: https://www.infracloud.io/master-shifu-cloud-native-mentoring-sessions/
+  type: The Editorial
