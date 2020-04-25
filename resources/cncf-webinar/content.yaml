@@ -311,3 +311,19 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-ambassador-webinar-cka-ckad/
   isDelivered: true
+- title: 'CNCF Member Webinar: Zero Trust in Healthcare with SPIFFE/SPIRE'
+  date: Apr 29 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/cncf-member-webinar-zero-trust-in-healthcare-with-spiffe-spire/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Everything you need to know about Storage for Kubernetes'
+  date: May 7 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/everything-you-need-to-know-about-storage-for-kubernetes/
+  isDelivered: false
+- title: 'CNCF Member Webinar: The Rosetta Stone Guide to Compliance in a Cloud-Native
+    World'
+  date: May 13 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/the-rosetta-stone-guide-to-compliance-in-a-cloud-native-world/
+  isDelivered: false
