@@ -327,3 +327,13 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/the-rosetta-stone-guide-to-compliance-in-a-cloud-native-world/
   isDelivered: true
+- title: 'CNCF Member Webinar: Kuma: Service Mesh and the Future of Application Connectivity'
+  date: Apr 28 2020
+  time: 10:00 - 11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/kuma-service-mesh-and-the-future-of-application-connectivity/
+  isDelivered: false
+- title: 'CNCF Community Webinar: How to Conduct a GREAT Live Stream'
+  date: Apr 30 2020
+  time: 1:00pm - 3:00pm PT (UTC-7)
+  url: https://www.cncf.io/webinars/cncf-community-webinar-how-to-conduct-a-great-live-stream/
+  isDelivered: false
