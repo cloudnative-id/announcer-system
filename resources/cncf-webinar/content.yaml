@@ -331,9 +331,9 @@ content:
   date: Apr 28 2020
   time: 10:00 - 11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/kuma-service-mesh-and-the-future-of-application-connectivity/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Community Webinar: How to Conduct a GREAT Live Stream'
   date: Apr 30 2020
   time: 1:00pm - 3:00pm PT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-community-webinar-how-to-conduct-a-great-live-stream/
-  isDelivered: false
+  isDelivered: true
