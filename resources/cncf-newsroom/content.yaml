@@ -625,3 +625,20 @@ content:
   url: https://www.cncf.io/blog/2020/04/10/cloud-native-ecosystem-empowering-new-open-source-deep-learning-framework/
   kind: Blog
   isDelivered: true
+- title: 'Techgenix: “CNCF Tools: 5 Hot Open Source Cloud Solutions for Your Application
+    Stack'
+  url: https://www.cncf.io/news/2020/03/25/techgenix-cncf-tools-5-hot-open-source-cloud-solutions-for-your-application-stack-2/
+  kind: In The News
+  isDelivered: false
+- title: 'Prometheus and Grafana: The Perfect Combo'
+  url: https://www.cncf.io/blog/2020/04/24/prometheus-and-grafana-the-perfect-combo/
+  kind: Blog
+  isDelivered: false
+- title: Chasing Away Kubernetes DaemonSet Issues with Prometheus & AlertManager
+  url: https://www.cncf.io/blog/2020/04/21/chasing-away-kubernetes-daemonset-issues-with-prometheus-alertmanager/
+  kind: Blog
+  isDelivered: false
+- title: 'What if it was a software bug/virus? Cyber vs. COVID-19: A thought experiment'
+  url: https://www.cncf.io/blog/2020/04/20/what-if-it-was-a-software-bug-virus-cyber-vs-covid-19-a-thought-experiment/
+  kind: Blog
+  isDelivered: false
