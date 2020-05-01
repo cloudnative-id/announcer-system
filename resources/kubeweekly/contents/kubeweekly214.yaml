@@ -1,0 +1,88 @@
+title: 'kubeweekly #214'
+date: 05/01/2020
+source: kubeweekly
+data:
+- title: CNCF Announces Helm Graduation
+  link: https://www.cncf.io/announcement/2020/04/30/cloud-native-computing-foundation-announces-helm-graduation/
+  type: The Headlines
+- title: KubeCon + CloudNativeCon is Going Virtual
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Ambassador Webinar: CKA / CKAD'
+  link: https://www.cncf.io/webinars/cncf-ambassador-webinar-cka-ckad/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Kuma: Service Mesh and the Future of Application Connectivity'
+  link: https://www.cncf.io/webinars/kuma-service-mesh-and-the-future-of-application-connectivity/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Building Zero Trust based Authentication in Healthcare
+    with SPIRE'
+  link: https://www.cncf.io/webinars/cncf-member-webinar-zero-trust-in-healthcare-with-spiffe-spire/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Best Practices In Implementing Container Image Promotion
+    Pipelines'
+  link: https://www.cncf.io/webinars/best-practices-in-implementing-container-image-promotion-pipelines/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Community Webinar: How to Conduct a GREAT Live Stream'
+  link: https://www.cncf.io/webinars/cncf-community-webinar-how-to-conduct-a-great-live-stream/
+  type: 'ICYMI: CNCF Webinars '
+- title: Life of a Vitess Cluster
+  link: https://vitess.io/blog/2020-04-27-life-of-a-cluster/
+  type: The Technical
+- title: Two-phased Canary Rollout with Open Source Gloo
+  link: https://kubernetes.io/blog/2020/04/two-phased-canary-rollout-with-gloo/
+  type: The Technical
+- title: GitHub
+  link: https://github.com/rickducott/
+  type: The Technical
+- title: Twitter
+  link: https://twitter.com/ducott
+  type: The Technical
+- title: Kubernetes state management with Pulumi and Python
+  link: https://maxromanovsky.me/blog/kubernetes/2020-04-21-pulumi.html
+  type: The Technical
+- title: Simulating Clock Skew in K8s Without Affecting Other Containers on the Node
+  link: https://pingcap.com/blog/simulating-clock-skew-in-k8s-without-affecting-other-containers-on-node/
+  type: The Technical
+- title: 'Inside Kinvolk Labs: Investigating Kubernetes performance issues with BPF'
+  link: https://kinvolk.io/blog/2020/04/inside-kinvolk-labs-investigating-kubernetes-performance-issues-with-bpf/
+  type: The Technical
+- title: kubernetes-azure-devops-dragdrop
+  link: https://github.com/reneschoonrok/kubernetes-azure-devops-dragdrop
+  type: The Technical
+- title: Istio Upgrades Reloaded | A demonstration of revisions tech in 1.6
+  link: https://www.youtube.com/watch?v=POlpwBdXfbE
+  type: The Technical
+- title: An (Opinionated) Guide to Understanding Kubernetes Network Architecture
+  link: https://blog.getambassador.io/a-guide-to-understanding-kubernetes-network-architecture-e5e6fd7c5a2a
+  type: The Technical
+- title: Encrypting and storing Kubernetes secrets in Git
+  link: https://crypt.codemancers.com/posts/2020-04-27-encrypting-and-storing-kubernetes-secrets-in-git/
+  type: The Technical
+- title: Why strace doesn’t work in Docker
+  link: https://jvns.ca/blog/2020/04/29/why-strace-doesnt-work-in-docker/
+  type: The Technical
+- title: Open Policy Agent, with Tim Hinrichs and Torin Sandall
+  link: https://kubernetespodcast.com/episode/101-open-policy-agent/
+  type: The Editorial
+- title: Announcing Vitess 6
+  link: https://www.cncf.io/blog/2020/04/29/announcing-vitess-6/
+  type: The Editorial
+- title: Essential Kubernetes Extensions Explained
+  link: https://kublr.com/blog/essential-kubernetes-extensions-explained/
+  type: The Editorial
+- title: Tidepool Replatforms Diabetes Data Service from Custom Tooling to Open Source
+    with Gloo and Kubernetes
+  link: https://www.solo.io/blog/tidepool-replatforms-diabetes-data-service-from-custom-tooling-to-open-source-with-gloo-and-kubernetes/
+  type: The Editorial
+- title: 'Container security meets Kubernetes: What IT pros need to know'
+  link: https://www.techrepublic.com/article/container-security-meets-kubernetes-what-it-pros-need-to-know/
+  type: The Editorial
+- title: Couchbase Updates Operator for Database Running on Kubernetes Clusters
+  link: https://containerjournal.com/topics/couchbase-updates-operator-for-database-running-on-kubernetes-clusters/
+  type: The Editorial
+- title: How to scale a deployment within a Kubernetes cluster
+  link: https://www.techrepublic.com/article/how-to-scale-a-deployment-within-a-kubernetes-cluster/
+  type: The Editorial
