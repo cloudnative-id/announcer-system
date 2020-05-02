@@ -358,3 +358,8 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/how-opentelemetry-is-eating-the-world/
   isDelivered: true
+- title: 'CNCF Member Webinar: The KUbernetes Test TooL (kuttl)'
+  date: May 6 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/the-kubernetes-test-tool-kuttl/
+  isDelivered: false
