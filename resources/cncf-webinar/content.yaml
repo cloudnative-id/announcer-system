@@ -362,4 +362,4 @@ content:
   date: May 6 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/the-kubernetes-test-tool-kuttl/
-  isDelivered: false
+  isDelivered: true
