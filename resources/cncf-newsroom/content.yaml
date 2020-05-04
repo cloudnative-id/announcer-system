@@ -645,55 +645,55 @@ content:
 - title: Cloud Native Computing Foundation Announces Helm Graduation
   url: https://www.cncf.io/announcement/2020/04/30/cloud-native-computing-foundation-announces-helm-graduation/
   kind: Announcements
-  isDelivered: false
+  isDelivered: true
 - title: 'SiliconANGLE: “Helm Kubernetes package manager becomes the latest CNCF project
     to graduate”'
   url: https://www.cncf.io/uncategorized/2020/04/30/siliconangle-helm-kubernetes-package-manager-becomes-the-latest-cncf-project-to-graduate/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'VentureBeat: “CNCF graduates package manager Helm to bring more stability
     to Kubernetes development”'
   url: https://www.cncf.io/news/2020/04/30/venturebeat-cncf-graduates-package-manager-helm-to-bring-more-stability-to-kubernetes-development/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'DevClass: “Cluster bombs away: Vitess 6 is here – let the upgrading begin
     (warning: may take a while)”'
   url: https://www.cncf.io/news/2020/04/30/devclass-cluster-bombs-away-vitess-6-is-here-let-the-upgrading-begin-warning-may-take-a-while/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: PlanetScale migrates open source Vitess test suite from Python to Go
   url: https://www.cncf.io/blog/2020/05/02/planetscale-migrates-open-source-vitess-test-suite-from-python-to-go/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Maintainer Spotlight: Torin Sandall of OPA'
   url: https://www.cncf.io/blog/2020/05/01/cncf-maintainer-spotlight-torin-sandall-of-opa/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Project Spotlight: etcd '
   url: https://www.cncf.io/blog/2020/05/01/project-spotlight-etcd/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Ambassador Spotlight: Queeny Jin of TiKV'
   url: https://www.cncf.io/blog/2020/05/01/cncf-ambassador-spotlight-queeny-jin-of-tikv/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'InfoWorld: “Kubernetes’ Helm gets full CNCF approval”'
   url: https://www.cncf.io/blog/2020/05/01/infoworld-kubernetes-helm-gets-full-cncf-approval/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Why Testing is No Longer Sufficient for Cloud-Native Pipelines
   url: https://www.cncf.io/blog/2020/04/30/why-testing-is-no-longer-sufficient-for-cloud-native-pipelines/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Announcing Vitess 6
   url: https://www.cncf.io/blog/2020/04/29/announcing-vitess-6/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: A Complete Storage Guide for Your Kubernetes Storage Problems
   url: https://www.cncf.io/blog/2020/04/28/a-complete-storage-guide-for-your-kubernetes-storage-problems/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Resolve Chart Upgrade Issues After Migrating to Helm v3
   url: https://www.cncf.io/blog/2020/04/27/resolve-chart-upgrade-issues-after-migrating-to-helm-v3/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
