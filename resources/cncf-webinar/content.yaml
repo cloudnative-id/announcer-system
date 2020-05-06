@@ -363,3 +363,8 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/the-kubernetes-test-tool-kuttl/
   isDelivered: true
+- title: 'CNCF Member Webinar: Take Your Monitoring to the Next Level'
+  date: May 21 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/take-your-monitoring-to-the-next-level/
+  isDelivered: false
