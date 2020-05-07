@@ -372,9 +372,9 @@ content:
   date: May 14 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/navigating-the-sea-of-local-kubernetes-clusters/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Project Webinar: Harbor, the trusted cloud native registry for Kubernetes'
   date: May 28 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-project-webinar-harbor-the-trusted-cloud-native-registry-for-kubernetes/
-  isDelivered: false
+  isDelivered: true
