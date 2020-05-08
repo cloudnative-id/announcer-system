@@ -1,0 +1,96 @@
+title: 'kubeweekly #215'
+date: 05/08/2020
+source: kubeweekly
+data:
+- title: 'Kubernetes Podcast from Google: Helm, with Matt Butcher'
+  link: https://kubernetespodcast.com/episode/102-helm-graduation/
+  type: The Headlines
+- title: With Kubernetes, the U.S. Department of Defense Is Enabling DevSecOps on
+    F-16s and Battleships
+  link: https://www.cncf.io/blog/2020/05/07/with-kubernetes-the-u-s-department-of-defense-is-enabling-devsecops-on-f-16s-and-battleships/
+  type: The Headlines
+- title: full case study
+  link: https://www.cncf.io/case-study/dod/
+  type: The Headlines
+- title: the video
+  link: https://youtu.be/junocIMbc9U
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Project Webinar: What’s New in Kubernetes 1.18'
+  link: https://www.cncf.io/webinars/kubernetes-1-18/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Making the Most of Helm 3'
+  link: https://www.cncf.io/webinars/making-the-most-of-helm-3/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Encrypting data in Kubernetes deployments. Protect
+    your data, not just your Secrets '
+  link: https://www.cncf.io/webinars/encrypting-data-in-kubernetes-deployments-protect-your-data-not-just-your-secrets/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: The KUbernetes Test TooL (kuttl)'
+  link: https://www.cncf.io/webinars/the-kubernetes-test-tool-kuttl/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Everything you need to know about Storage for Kubernetes'
+  link: https://www.cncf.io/webinars/everything-you-need-to-know-about-storage-for-kubernetes/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: How AWS uses Firecracker and Fargate to run serverless
+    Kubernetes pods in Amazon EKS'
+  link: https://www.cncf.io/webinars/how-aws-uses-firecracker-and-fargate-to-run-serverless-kubernetes-pods-in-amazon-eks/
+  type: 'ICYMI: CNCF Webinars '
+- title: Creating an Ansible Operator from scratch
+  link: https://www.twitch.tv/videos/611197578
+  type: The Technical
+- title: Helm & Kustomize Better Together
+  link: https://povilasv.me/helm-kustomze-better-together/
+  type: The Technical
+- title: WireGuard on K8s (road-warrior-style VPN server)
+  link: https://blog.levine.sh/14058/wireguard-on-k8s-road-warrior-style-vpn-server
+  type: The Technical
+- title: Domesticating Kubernetes
+  link: https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41
+  type: The Technical
+- title: Speed up administration of Kubernetes clusters with k9s
+  link: https://opensource.com/article/20/5/kubernetes-administration
+  type: The Technical
+- title: 'DNS issues in Kubernetes. Public postmortem #1'
+  link: https://medium.com/preply-engineering/dns-postmortem-e169efd45afd
+  type: The Technical
+- title: A Hacker’s Guide To Moving Linux Services Into Containers
+  link: http://crunchtools.com/moving-linux-services-to-containers/
+  type: The Technical
+- title: Enhancing Kubernetes Security with Open Policy Agent (OPA) – Part 1
+  link: https://www.stackrox.com/post/2020/04/enhancing-kubernetes-security-with-open-policy-agent-opa-part-1/
+  type: The Technical
+- title: 'Case Study: IT Modernization at Tidepool, an 8 part series'
+  link: https://www.solo.io/blog/case-study-it-modernization-at-tidepool-an-8-part-series/
+  type: The Technical
+- title: Nodejs App From Docker To Kubernetes Cluster
+  link: https://www.magalix.com/blog/nodejs-app-sample-from-docker-to-kubernetes-cluster
+  type: The Technical
+- title: 'Decoding the Self-Healing Kubernetes: Step by Step'
+  link: https://www.msystechnologies.com/blog/decoding-the-self-healing-kubernetes-step-by-step-2/
+  type: The Technical
+- title: Chris Short from Red Hat talks Operators and Kubernetes
+  link: https://l8istsh9y.com/2020/05/02/chris-short-from-red-hat-talks-operators-and-kubernetes/
+  type: The Editorial
+- title: What is a Service Mesh? – the breakout area chat between an Account manager
+    and a Solutions Engineer
+  link: https://sachcode.com/tech/tea-time-chat-service-mesh/
+  type: The Editorial
+- title: 'Kubernetes: The Universal Control Plane'
+  link: https://blog.cedriccharly.com/post/20200426-kubernetes-the-universal-control-plane/
+  type: The Editorial
+- title: Explore Anthos with a sample deployment
+  link: https://cloud.google.com/blog/topics/anthos/explore-anthos-with-a-sample-deployment
+  type: The Editorial
+- title: Kubernetes Governance, What You Should Know
+  link: https://kublr.com/blog/kubernetes-governance/
+  type: The Editorial
+- title: 'Podcast Takeaways: Cloud Developer Experience, Staging Environments, and
+    Continuous Delivery'
+  link: https://blog.getambassador.io/podcast-takeaways-cloud-developer-experience-staging-environments-and-continuous-delivery-94813a2064b4
+  type: The Editorial
+- title: Home buying & selling platform Orchard deploys Kubernetes to AWS with Maestro
+  link: https://blog.cloud66.com/home-buying-selling-platform-orchard-deploys-kubernetes-to-aws-with-maestro/
+  type: The Editorial
