@@ -378,3 +378,19 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-project-webinar-harbor-the-trusted-cloud-native-registry-for-kubernetes/
   isDelivered: true
+- title: 'CNCF Member Webinar: End YAML engineering with cdk8s!'
+  date: May 13 2020
+  time: 8:00-9:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/end-yaml-engineering-with-cdk8s/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Influencing DevOps without Authority – how “DevOps
+    engineer” can advance real DevOps'
+  date: May 15 2020
+  time: 2:00-3:00 PM PT (UTC-7)
+  url: https://www.cncf.io/webinars/influencing-devops-without-authority-how-devops-engineer-can-advance-real-devops/
+  isDelivered: false
+- title: 'CNCF Member Webinar: How to keep your clusters safe and healthy'
+  date: May 20 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/how-to-keep-your-clusters-safe-and-healthy/
+  isDelivered: false
