@@ -697,3 +697,28 @@ content:
   url: https://www.cncf.io/blog/2020/04/27/resolve-chart-upgrade-issues-after-migrating-to-helm-v3/
   kind: Blog
   isDelivered: true
+- title: Big in… Poland? New report sees Eastern Europe amongst top container adopters
+  url: https://www.cncf.io/news/2020/05/05/big-in-poland-new-report-sees-eastern-europe-amongst-top-container-adopters/
+  kind: In The News
+  isDelivered: false
+- title: 'InfoWorld: “Kubernetes’ Helm gets full CNCF approval”'
+  url: https://www.cncf.io/news/2020/05/01/infoworld-kubernetes-helm-gets-full-cncf-approval/
+  kind: In The News
+  isDelivered: false
+- title: How to manage Secrets in Kubernetes environment
+  url: https://www.cncf.io/blog/2020/05/08/how-to-manage-secrets-in-kubernetes-environment/
+  kind: Blog
+  isDelivered: false
+- title: With Kubernetes, the U.S. Department of Defense Is Enabling DevSecOps on
+    F-16s and Battleships
+  url: https://www.cncf.io/blog/2020/05/07/with-kubernetes-the-u-s-department-of-defense-is-enabling-devsecops-on-f-16s-and-battleships/
+  kind: Blog
+  isDelivered: false
+- title: 'The State of Cloud Native Development: A new survey report!'
+  url: https://www.cncf.io/blog/2020/05/04/the-state-of-cloud-native-development-a-new-survey-report/
+  kind: Blog
+  isDelivered: false
+- title: Harnessing the Power of Microservices to Overcome an Uncertain Marketplace
+  url: https://www.cncf.io/blog/2020/05/04/harnessing-the-power-of-microservices-to-overcome-an-uncertain-marketplace/
+  kind: Blog
+  isDelivered: false
