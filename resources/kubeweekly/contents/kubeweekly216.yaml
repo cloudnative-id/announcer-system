@@ -1,0 +1,100 @@
+title: 'kubeweekly #216'
+date: 05/15/2020
+source: kubeweekly
+data:
+- title: Our 1H 2020 cloud native survey has kicked off!
+  link: https://www.surveymonkey.com/r/GG26PL5
+  type: The Headlines
+- title: survey
+  link: https://www.surveymonkey.com/r/GG26PL5
+  type: The Headlines
+- title: Harbor 2.0 takes a giant leap in expanding supported artifacts with OCI support
+  link: https://goharbor.io/blog/harbor-2.0/
+  type: The Headlines
+- title: Open Container Initiative
+  link: https://www.opencontainers.org/
+  type: The Headlines
+- title: CNCF Project Webinar on Harbor
+  link: https://zoom.us/webinar/register/7415882601786/WN_dVQGhggoQXmJ1rKPugEKyg
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: How OpenTelemetry is Eating the World'
+  link: https://www.cncf.io/webinars/how-opentelemetry-is-eating-the-world/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Data Services for Cloud Native Workloads'
+  link: https://www.cncf.io/webinars/webinar-data-services-for-cloud-native-workloads/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Piraeus: Dynamic Provisioning, Resource Management
+    and High Availability for Local Persistent Volumes'
+  link: https://www.cncf.io/webinars/piraeus-dynamic-provisioning-resource-management-and-high-availability-for-local-persistent-volumes/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: The Rosetta Stone Guide to Compliance in a Cloud-Native
+    World'
+  link: https://www.cncf.io/webinars/the-rosetta-stone-guide-to-compliance-in-a-cloud-native-world/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: End YAML engineering with cdk8s!'
+  link: https://www.cncf.io/webinars/end-yaml-engineering-with-cdk8s/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Navigating the Sea of Local Kubernetes Clusters'
+  link: https://www.cncf.io/webinars/navigating-the-sea-of-local-kubernetes-clusters/
+  type: 'ICYMI: CNCF Webinars '
+- title: 9 kubectl commands sysadmins need to know
+  link: https://opensource.com/article/20/5/kubectl-cheat-sheet
+  type: The Technical
+- title: Mistakes made and lessons learned with Kubernetes and GitOps
+  link: https://blog.lukechannings.com/2020-05-10-kubernetes-gitops-lessons.html
+  type: The Technical
+- title: Not every container has an operating system inside
+  link: https://iximiuz.com/en/posts/not-every-container-has-an-operating-system-inside/
+  type: The Technical
+- title: Best Practices for Microservices on Kubernetes
+  link: https://piotrminkowski.com/2020/03/10/best-practices-for-microservices-on-kubernetes/
+  type: The Technical
+- title: Speed up Docker builds with distcc, ccache and kubernetes
+  link: https://cinaq.com/2020/05/10/speed-up-docker-builds-with-distcc-ccache-and-kubernetes/
+  type: The Technical
+- title: Simple example how to use Istio and Keycloak
+  link: https://labs.consol.de/development/2020/05/07/istio-and-keycloak.html
+  type: The Technical
+- title: Using logging for your apps running on Kubernetes Engine
+  link: https://cloud.google.com/blog/products/management-tools/using-logging-your-apps-running-kubernetes-engine
+  type: The Technical
+- title: Kubernetes 1.18 broke “kubectl run”, here’s what to do about it
+  link: https://medium.com/@alexellisuk/kubernetes-1-18-broke-kubectl-run-heres-what-to-do-about-it-2a88e5fb389a
+  type: The Technical
+- title: 'CSI: Storage, with Saad Ali'
+  link: https://kubernetespodcast.com/episode/103-csi-kubernetes-storage/
+  type: The Editorial
+- title: (video,
+  link: https://www.youtube.com/watch?v=Xe0PDeENMoE
+  type: The Editorial
+- title: slides
+  link: https://www.slideshare.net/weaveworks/defining-enforcing-policies-the-gitops-way
+  type: The Editorial
+- title: )
+  link: https://www.youtube.com/watch?v=Xe0PDeENMoE
+  type: The Editorial
+- title: 'Kubernetes: The Underpin of UK’s COVID-19 Contact Tracing?'
+  link: https://containerjournal.com/topics/container-ecosystems/kubernetes-the-underpin-of-uks-covid-19-contact-tracing/
+  type: The Editorial
+- title: 'Managing Kubernetes: 7 things you should understand'
+  link: https://enterprisersproject.com/article/2020/5/kubernetes-managing-7-tips
+  type: The Editorial
+- title: How Kubernetes Enables Sustained Business Agility
+  link: https://containerjournal.com/topics/container-management/how-kubernetes-enables-sustained-business-agility/
+  type: The Editorial
+- title: Kubernetes Storage Developments Enable Remote Work
+  link: https://www.forbes.com/sites/tomcoughlin/2020/05/09/kubernetes-storage-developments-enable-remote-work/#29defde626ca
+  type: The Editorial
+- title: VMware to Acquire Kubernetes Security Startup Octarine and Fold it into Carbon
+    Black
+  link: https://techcrunch.com/2020/05/13/vmware-to-acquire-kubernetes-security-startup-octarine-and-fold-it-into-carbon-black/
+  type: The Editorial
+- title: Bare Metal in a Cloud Native World
+  link: https://thenewstack.io/bare-metal-in-a-cloud-native-world/
+  type: The Editorial
+- title: Jetstack acquired by Venafi
+  link: https://blog.jetstack.io/blog/jetstack-venafi-join-forces/
+  type: The Editorial
