@@ -426,9 +426,9 @@ content:
   date: May 22 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/zero-trust-services-in-kubernetes/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Update on and Demo of Piraeus Datastore (LINSTOR)'
   date: May 27 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/update-on-and-demo-of-piraeus-datastore-linstor/
-  isDelivered: false
+  isDelivered: true
