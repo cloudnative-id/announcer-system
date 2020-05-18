@@ -725,25 +725,25 @@ content:
 - title: 'DevClass: “Container image registry Harbor ships in 2.0, gets OCI compliant”'
   url: https://www.cncf.io/news/2020/05/14/devclass-container-image-registry-harbor-ships-in-2-0-gets-oci-compliant/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'SD Times: “Open-source container image registry Harbor reaches 2.0 milestone”'
   url: https://www.cncf.io/news/2020/05/13/sd-times-open-source-container-image-registry-harbor-reaches-2-0-milestone/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'Virtualization Review: “Cloud-Native Development Survey Details Kubernetes,
     Serverless Data”'
   url: https://www.cncf.io/news/2020/05/08/virtualization-review-cloud-native-development-survey-details-kubernetes-serverless-data/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'Call to Participate: 1H 2020 CNCF Cloud Native Survey'
   url: https://www.cncf.io/blog/2020/05/14/call-to-participate-1h-2020-cncf-cloud-native-survey/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Harbor 2.0 takes a giant leap in expanding supported artifacts with OCI support
   url: https://www.cncf.io/blog/2020/05/13/harbor-2-0-takes-a-giant-leap-in-expanding-supported-artifacts-with-oci-support/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Introduction to OpenTelemetry (Overview Part 1/2)
   url: https://www.cncf.io/blog/2020/05/11/introduction-to-opentelemetry-overview-part-1-2/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
