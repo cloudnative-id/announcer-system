@@ -437,4 +437,4 @@ content:
   date: Jun 10 2020
   time: 7:00-8:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/develop-your-cloud-native-use-cases-at-the-edge-with-k3s/
-  isDelivered: false
+  isDelivered: true
