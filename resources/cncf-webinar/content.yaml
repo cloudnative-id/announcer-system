@@ -442,26 +442,26 @@ content:
   date: May 26 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/integrating-multi-location-adc-with-prometheusgrafana/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Securing Service Mesh with Kubernetes, Consul and Vault'
   date: May 29 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/securing-service-mesh-with-kubernetes-consul-and-vault/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Trivy Open Source Scanner for Container Images – Just
     Download and Run!'
   date: Jun 3 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/trivy-open-source-scanner-for-container-images-just-download-and-run/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Learning from the visible past to accelerate the observable
     future'
   date: Jun 17 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/learning-from-the-visible-past-to-accelerate-the-observable-future/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Multitenancy Webinar: Better walls make better tenants'
   date: Jun 17 2020
   time: 8:00-9:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/multitenancy-webinar-better-walls-make-better-tenants/
-  isDelivered: false
+  isDelivered: true
