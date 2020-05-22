@@ -469,4 +469,4 @@ content:
   date: Jun 10 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/hybrid-cloud-kubernetes-with-nodeless/
-  isDelivered: false
+  isDelivered: true
