@@ -1,0 +1,63 @@
+title: 'kubeweekly #217'
+date: 05/22/2020
+source: kubeweekly
+data:
+- title: 'Last chance: Please fill out the 2020 CNCF Cloud Native Survey!'
+  link: https://www.surveymonkey.com/r/KPQC97Q
+  type: The Headlines
+- title: filling out the survey
+  link: https://www.surveymonkey.com/r/KPQC97Q
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Ambassador Webinar: Influencing DevOps without Authority – how “DevOps
+    engineer” can advance real DevOps'
+  link: https://www.cncf.io/webinars/influencing-devops-without-authority-how-devops-engineer-can-advance-real-devops/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: How to keep your clusters safe and healthy'
+  link: https://www.cncf.io/webinars/how-to-keep-your-clusters-safe-and-healthy/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Take Your Monitoring to the Next Level'
+  link: https://www.cncf.io/webinars/take-your-monitoring-to-the-next-level/
+  type: 'ICYMI: CNCF Webinars '
+- title: How to make a Helm chart in 10 minutes
+  link: https://opensource.com/article/20/5/helm-charts
+  type: The Technical
+- title: Canary deployment with Argo
+  link: https://particule.io/en/blog/argocd-canary/
+  type: The Technical
+- title: Running Dockerized Laravel Applications On Top Of Kubernetes
+  link: https://www.magalix.com/blog/running-dockerized-laravel-applications-on-top-of-kubernetes
+  type: The Technical
+- title: Linux Containers in a few Lines of Code
+  link: https://zserge.com/posts/containers/
+  type: The Technical
+- title: Rook, the storage operator made in CNCF with Sébastien Han
+  link: https://electro-monkeys.fr/?p=195
+  type: The Editorial
+- title: Scale the Harbor with Pierre Péronnet and Maxime Hurtrel
+  link: https://electro-monkeys.fr/?p=243
+  type: The Editorial
+- title: Carving out a Cloud Native Culture in Established Organizations
+  link: https://www.weave.works/blog/podcast-carving-out-a-cloud-native-culture-in-established-organizations
+  type: The Editorial
+- title: A Pandemic Plan for Application Architecture
+  link: https://thenewstack.io/a-pandemic-plan-for-application-architecture/
+  type: The Editorial
+- title: The Past, Present, and Future of API Gateways
+  link: https://www.infoq.com/articles/past-present-future-api-gateways/
+  type: The Editorial
+- title: Microsoft Azure Arc Previews Kubernetes Focus
+  link: https://www.sdxcentral.com/articles/news/microsoft-azure-arc-previews-kubernetes-focus/2020/05/?hit=8d4e0c42-7f25-4abf-9e8c-7153cb5a031d
+  type: The Editorial
+- title: 'LOTE #6: Dana Lawson on Kubernetes, Local Development Loops, and Constant
+    Learning'
+  link: https://www.getambassador.io/podcasts/podcats-living-on-the-edge-podcast-6-dana-lawson-on-dana-lawson-on-kubernetes-local-development-loops-and-constant-learning//
+  type: The Editorial
+- title: 5 open source projects that make Kubernetes even better
+  link: https://enterprisersproject.com/article/2020/5/kubernetes-5-open-source-projects-improve
+  type: The Editorial
+- title: 'Kubernetes deployments: 6 security best practices'
+  link: https://enterprisersproject.com/article/2020/5/kubernetes-deployments-6-security-best-practices
+  type: The Editorial
