@@ -146,3 +146,10 @@ kubeweekly:
     delivered: true
   tags:
   - '#kubereads'
+- title: kubeweekly217
+  contentFile: contents/kubeweekly217.yaml
+  date: 05/22/2020
+  status:
+    delivered: false
+  tags:
+  - '#kubereads'
