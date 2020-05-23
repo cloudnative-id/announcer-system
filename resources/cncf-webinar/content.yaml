@@ -474,9 +474,9 @@ content:
   date: Jun 3 2020
   time: 7:00-8:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/how-to-better-understand-k8s-workloads-using-octant/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Project Webinar: Charting Your Voyage To Helm 3'
   date: Jun 12 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-project-webinar-charting-your-voyage-to-helm-3/
-  isDelivered: false
+  isDelivered: true
