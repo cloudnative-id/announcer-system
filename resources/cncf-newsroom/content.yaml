@@ -750,25 +750,25 @@ content:
 - title: 'The New Stack: “Harbor Adopts OCI Compliance, Makes Bid to Graduate CNCF”'
   url: https://www.cncf.io/news/2020/05/19/the-new-stack-harbor-adopts-oci-compliance-makes-bid-to-graduate-cncf/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'Container Journal: “Latest Update to Harbor Registry Adds OCI Support”'
   url: https://www.cncf.io/news/2020/05/14/container-journal-latest-update-to-harbor-registry-adds-oci-support/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: How Cloud Native Is Driving Zerodha, the World’s Largest Retail Stock Investment
     Platform
   url: https://www.cncf.io/blog/2020/05/22/how-cloud-native-is-driving-zerodha-the-worlds-largest-retail-stock-investment-platform/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Cloud Computing: Choose a Multi-Cloud Strategy or Fly Solo'
   url: https://www.cncf.io/blog/2020/05/21/cloud-computing-choose-a-multi-cloud-strategy-or-fly-solo/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Role of Containers & Microservices in Revolutionizing IT and Telecom Sector
   url: https://www.cncf.io/blog/2020/05/20/role-of-containers-microservices-in-revolutionizing-it-and-telecom-sector/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Happy Developers: Navigators of the data age'
   url: https://www.cncf.io/blog/2020/05/18/happy-developers-navigators-of-the-data-age/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
