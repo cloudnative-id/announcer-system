@@ -480,3 +480,9 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-project-webinar-charting-your-voyage-to-helm-3/
   isDelivered: true
+- title: 'CNCF Community Webinar: How to conduct a great livestream – Open Broadcaster
+    Software(OBS) deep dive'
+  date: May 28 2020
+  time: 1:00-2:00 PM PT (UTC-7)
+  url: https://www.cncf.io/webinars/how-to-conduct-a-great-livestream-open-broadcaster-softwareobs-deep-dive/
+  isDelivered: false
