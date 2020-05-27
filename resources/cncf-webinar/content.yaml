@@ -485,4 +485,4 @@ content:
   date: May 28 2020
   time: 1:00-2:00 PM PT (UTC-7)
   url: https://www.cncf.io/webinars/how-to-conduct-a-great-livestream-open-broadcaster-softwareobs-deep-dive/
-  isDelivered: false
+  isDelivered: true
