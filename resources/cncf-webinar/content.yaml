@@ -491,9 +491,9 @@ content:
   date: Jun 2 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/20000-upgrades-later-lessons-from-a-year-of-managed-kubernetes-upgrades/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Kubernetes: Zero to Hero Deployments and Management'
   date: Jun 4 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/kubernetes-zero-to-hero-deployments-and-management/
-  isDelivered: false
+  isDelivered: true
