@@ -1,0 +1,91 @@
+title: 'kubeweekly #218'
+date: 05/29/2020
+source: kubeweekly
+data:
+- title: Helm Project Journey Report
+  link: https://www.cncf.io/cncf-helm-project-journey/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/cncf-helm-project-journey/
+  type: The Headlines
+- title: Last chance to save 30% on Linux Foundation training!
+  link: https://training.linuxfoundation.org/april-2020-promo/
+  type: The Headlines
+- title: today
+  link: https://training.linuxfoundation.org/april-2020-promo/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Zero Trust Services in Kubernetes'
+  link: https://www.cncf.io/webinars/zero-trust-services-in-kubernetes/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Integrating multi-location ADC with Prometheus+Grafana'
+  link: https://www.cncf.io/webinars/integrating-multi-location-adc-with-prometheusgrafana/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Resilient and Fast Persistent Container Storage Leveraging
+    Linux’s Storage Functionalities'
+  link: https://www.cncf.io/webinars/update-on-and-demo-of-piraeus-datastore-linstor/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Discover, Deliver and Secure your APIs Anywhere'
+  link: https://www.cncf.io/webinars/discover-deliver-and-secure-your-apis-anywhere/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Project Webinar: Harbor, the trusted cloud native registry for Kubernetes'
+  link: https://www.cncf.io/webinars/cncf-project-webinar-harbor-the-trusted-cloud-native-registry-for-kubernetes/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Community Webinar: How to conduct a great livestream – Open Broadcaster
+    Software(OBS) deep dive'
+  link: https://www.cncf.io/webinars/how-to-conduct-a-great-livestream-open-broadcaster-softwareobs-deep-dive/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'Customise your Kind clusters: networking layer'
+  link: https://medium.com/@kgamanji/customise-your-kind-clusters-networking-layer-1249e7916100
+  type: The Technical
+- title: Kubernetes Backup and Restore with Velero
+  link: https://akomljen.com/kubernetes-backup-and-restore-with-velero/
+  type: The Technical
+- title: Packaging Cloud-native Applications With Gravity
+  link: https://www.infracloud.io/packaging-cloud-native-applications-with-gravity/
+  type: The Technical
+- title: How VOI went DARK
+  link: https://medium.com/voi-engineering/how-voi-went-dark-afb43c45f094
+  type: The Technical
+- title: You need containers to build an image
+  link: https://iximiuz.com/en/posts/you-need-containers-to-build-an-image/
+  type: The Technical
+- title: Kubetap Documentation
+  link: https://github.com/soluble-ai/kubetap
+  type: The Technical
+- title: Kubernetes Apply vs. Replace vs. Patch
+  link: https://blog.atomist.com/kubernetes-apply-replace-patch/
+  type: The Technical
+- title: How We Built SELinux Support for Kubernetes in Gravity 7.0
+  link: https://gravitational.com/blog/how-we-built-selinux-support-for-kubernetes-in-gravity-7-dot-0/
+  type: The Technical
+- title: How to Autoscale Kubernetes Pods with Keda – Testing with k6
+  link: https://dev.to/k6/how-to-autoscale-kubernetes-pods-with-keda-testing-with-k6-4nl9
+  type: The Technical
+- title: Cloud Foundry on Kubernetes, with Chip Childers
+  link: https://kubernetespodcast.com/episode/105-cloud-foundry/
+  type: The Editorial
+- title: Ingress and the Service APIs, with Bowei Du
+  link: https://kubernetespodcast.com/episode/104-ingress-and-service-apis/
+  type: The Editorial
+- title: The Wrong Question About Docker and Kubernetes
+  link: https://dev.to/charlesdlandau/the-wrong-question-about-docker-and-kubernetes-15p6
+  type: The Editorial
+- title: From Containers to Kubernetes with Node.js
+  link: https://www.digitalocean.com/community/books/from-containers-to-kubernetes-with-node-js-ebook
+  type: The Editorial
+- title: 'LOTE #7: Developer Experience, PaaS, and Testing in Production'
+  link: https://www.getambassador.io/podcasts/kelsey-hightower-on-developer-experience-paas-and-testing-in-production/
+  type: The Editorial
+- title: GitOps Deployment and Kubernetes
+  link: https://medium.com/riskified-technology/gitops-deployment-and-kubernetes-f1ab289efa4b
+  type: The Editorial
+- title: 'Logging in Kubernetes: EFK vs PLG Stack'
+  link: https://www.infracloud.io/logging-in-kubernetes-efk-vs-plg-stack/
+  type: The Editorial
+- title: NATS, the simple, secure, scalable and open source queue message with Ivan
+    Kozlovic
+  link: https://electro-monkeys.fr/?p=264
+  type: The Editorial
