@@ -497,3 +497,25 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/kubernetes-zero-to-hero-deployments-and-management/
   isDelivered: true
+- title: 'CNCF Member Webinar: Lean DevOps: Building a Culture of Delivery'
+  date: Jun 5 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/lean-devops-building-a-culture-of-delivery/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Self-service of Cloud Services for Kubernetes application'
+  date: Jun 9 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/self-service-of-cloud-services-for-kubernetes-application/
+  isDelivered: false
+- title: 'CNCF Community Webinar: Cluster API (CAPI) – A Kubernetes subproject to
+    simplify cluster lifecycle management'
+  date: Jun 11 2020
+  time: 8:00-9:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/cluster-api-capi-a-kubernetes-subproject-to-simplify-cluster-lifecycle-management/
+  isDelivered: false
+- title: 'CNCF Member Webinar: How to Promote the use of Best Practices and Automate
+    Security Policies Using Tools Like OPA and Kubernetes Native Declaratives'
+  date: Jun 18 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/how-to-promote-the-use-of-best-practices-and-automate-security-policies-using-tools-like-opa-and-kubernetes-native-declaratives/
+  isDelivered: false
