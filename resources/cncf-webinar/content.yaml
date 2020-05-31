@@ -524,21 +524,21 @@ content:
   date: Jun 9 2020
   time: 6:00-7:00 PM PT (UTC-7)
   url: https://www.cncf.io/webinars/things-to-consider-to-operate-a-multi-tenant-kubernetes-cluster-multi-tenant-kubernetes-cluster%eb%a5%bc-%ec%9a%b4%ec%98%81%ed%95%98%ea%b8%b0-%ec%9c%84%ed%95%b4-%ea%b3%a0/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Multi Cluster Service Mesh Operations and Extensibility
     with WebAssembly'
   date: Jun 16 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/multi-cluster-service-mesh-operations-and-extensibility-with-webassembly/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Cloud Infrastructure for Network Functions – Requirements
     and testing'
   date: Jun 24 2020
   time: 7:00-8:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/cloud-infrastructure-for-network-functions-requirements-and-testing/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Monitoring Kubernetes clusters by “chatting” with them'
   date: Jun 25 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/monitoring-kubernetes-clusters-by-chatting-with-them/
-  isDelivered: false
+  isDelivered: true
