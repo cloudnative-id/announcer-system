@@ -775,29 +775,29 @@ content:
 - title: Cloud Native Computing Foundation Welcomes T-Mobile as Gold Member
   url: https://www.cncf.io/announcement/2020/05/27/cloud-native-computing-foundation-welcomes-t-mobile-as-gold-member/
   kind: Announcements
-  isDelivered: false
+  isDelivered: true
 - title: 'SiliconANGLE: “Shelves are well-stocked with cloud-native tools, but simplicity
     remains a moving target”'
   url: https://www.cncf.io/news/2020/05/29/siliconangle-shelves-are-well-stocked-with-cloud-native-tools-but-simplicity-remains-a-moving-target/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: Kubernetes Governance, What You Should Know
   url: https://www.cncf.io/blog/2020/05/29/kubernetes-governance-what-you-should-know/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Helm Project Journey Report
   url: https://www.cncf.io/blog/2020/05/28/helm-project-journey-report/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Decoding the Self-Healing Kubernetes: Step by Step'
   url: https://www.cncf.io/blog/2020/05/26/decoding-the-self-healing-kubernetes-step-by-step/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Istio Service Mesh in 2020
   url: https://www.cncf.io/blog/2020/05/25/istio-service-mesh-in-2020/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Kubespray CI on OVHcloud’s OpenStack public cloud
   url: https://www.cncf.io/blog/2020/05/15/kubespray-ci-on-ovhclouds-openstack-public-cloud/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
