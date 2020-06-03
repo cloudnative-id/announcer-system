@@ -546,4 +546,4 @@ content:
   date: Jul 1 2020
   time: 07:00 - 08:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/7-critical-reasons-for-kubernetes-native-backup/
-  isDelivered: false
+  isDelivered: true
