@@ -552,4 +552,4 @@ content:
   date: Jul 8 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/whats-new-in-linkerd-2-8-multi-cluster-kubernetes-made-simple-and-secure-by-default/
-  isDelivered: false
+  isDelivered: true
