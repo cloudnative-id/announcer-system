@@ -1,0 +1,85 @@
+title: 'kubeweekly #219'
+date: 06/05/2020
+source: kubeweekly
+data:
+- title: Welcome, Priyanka Sharma to CNCF! 
+  link: https://www.cncf.io/announcement/2020/06/01/priyanka-sharma-joins-cncf-as-general-manager/
+  type: The Headlines
+- title: New Linux Foundation/CNCF Cloud Engineer Bootcamp
+  link: https://training.linuxfoundation.org/training/cloud-engineer-bootcamp/?utm_source=kubeweekly&utm_medium=newsletter&utm_campaign=ceb
+  type: The Headlines
+- title: 'Day of Podcasting: Rescheduled from KubeCon + CloudNativeCon EU'
+  link: https://www.eventbrite.com/e/virtual-day-of-podcasts-with-dell-technologies-registration-104428791326?utm_source=CNCF&utm_medium=Email&utm_campaign=Dell%20podcasts
+  type: The Headlines
+- title: The New Stack on June 9
+  link: https://www.eventbrite.com/e/virtual-day-of-podcasts-with-dell-technologies-registration-104428791326?utm_source=CNCF&utm_medium=Email&utm_campaign=Dell%20podcasts
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Securing Service Mesh with Kubernetes, Consul and Vault'
+  link: https://www.cncf.io/webinars/securing-service-mesh-with-kubernetes-consul-and-vault/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: 20,000 Upgrades Later, Lessons From a Year of Managed
+    Kubernetes Upgrades'
+  link: https://www.cncf.io/webinars/20000-upgrades-later-lessons-from-a-year-of-managed-kubernetes-upgrades/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Trivy Open Source Scanner for Container Images – Just
+    Download and Run!'
+  link: https://www.cncf.io/webinars/trivy-open-source-scanner-for-container-images-just-download-and-run/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Kubernetes: Zero to Hero Deployments and Management'
+  link: https://www.cncf.io/webinars/kubernetes-zero-to-hero-deployments-and-management/
+  type: 'ICYMI: CNCF Webinars '
+- title: Google Vulnerability Rewards Program expands to include all the critical
+    open-source dependencies of GKE
+  link: https://security.googleblog.com/2020/05/expanding-our-work-with-open-source.html
+  type: The Technical
+- title: Announcing k8s-image-availability-exporter to monitor missing images in Kubernetes
+  link: https://medium.com/flant-com/prometheus-exporter-to-check-kubernetes-images-availability-26c306c44c08
+  type: The Technical
+- title: Service Mesh on Kubernetes with Istio and Spring Boot
+  link: https://piotrminkowski.com/2020/06/01/service-mesh-on-kubernetes-with-istio-and-spring-boot/#more-8017
+  type: The Technical
+- title: Using SSL certificates from Let’s Encrypt in your Kubernetes Ingress via
+    cert-manager
+  link: https://medium.com/flant-com/cert-manager-lets-encrypt-ssl-certs-for-kubernetes-7642e463bbce?source=friends_link&sk=348f7ef5256e032cd70035228bc7cda7
+  type: The Technical
+- title: Dynamic DNS and LoadBalancing without cloud provider
+  link: https://particule.io/en/blog/k8s-no-cloud/
+  type: The Technical
+- title: Kubecost- cluster turndown
+  link: https://github.com/kubecost/cluster-turndown
+  type: The Technical
+- title: Introducing Aquayman
+  link: https://www.loodse.com/blog/2020-05-26-introducing-aquayman/
+  type: The Technical
+- title: Agones 1.6
+  link: https://agones.dev/site/blog/2020/05/26/1.6.0-player-tracking-kubernetes-1.15-node.js-sdk-updates/
+  type: The Technical
+- title: CoreDNS, with John Belamaric
+  link: https://kubernetespodcast.com/episode/106-coredns/
+  type: The Editorial
+- title: 'LOTE #8: Michael Hausenblas on Customer Focus, Building App Platforms, and
+    Kubernetes Access Control'
+  link: https://www.getambassador.io/podcasts/michael-hausenblas-on-customer-focus-building-app-platforms-and-kubernetes-access-control/
+  type: The Editorial
+- title: How To Jumpstart Your Hybrid And Multi-Cloud Strategy With Microservices
+    And Kubernetes
+  link: https://www.forbes.com/sites/forbestechcouncil/2020/06/04/how-to-jumpstart-your-hybrid-and-multi-cloud-strategy-with-microservices-and-kubernetes/#8ad726e427c9
+  type: The Editorial
+- title: Gartner’s 6 Best Practices for Containers, Kubernetes
+  link: https://containerjournal.com/topics/container-ecosystems/gartners-6-best-practices-for-containers-kubernetes/
+  type: The Editorial
+- title: Mirantis’ Docker Enterprise 3.1 Adds Windows Support, Enterprise SLAs
+  link: https://thenewstack.io/mirantis-docker-enterprise-3-1-adds-windows-support-enterprise-slas/
+  type: The Editorial
+- title: Lin Sun and Neeraj Poddar on Istio, Wasm, and the Future of Service Mesh
+  link: https://www.infoq.com/podcasts/istio-wasm-service-mesh-future/
+  type: The Editorial
+- title: CI/CD with Docker and Kubernetes (open source book)
+  link: https://github.com/semaphoreci/book-cicd-docker-kubernetes
+  type: The Editorial
+- title: How Migrate for Anthos streamlines legacy Java app modernization
+  link: https://cloud.google.com/blog/products/containers-kubernetes/migrate-for-anthos-streamlines-legacy-java-app-modernization
+  type: The Editorial
