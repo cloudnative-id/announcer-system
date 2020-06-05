@@ -553,3 +553,13 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/whats-new-in-linkerd-2-8-multi-cluster-kubernetes-made-simple-and-secure-by-default/
   isDelivered: true
+- title: 'CNCF Community Webinar: What end users really recommend for Continuous Delivery'
+  date: Jun 12 2020
+  time: 8:00-9:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/what-end-users-really-recommend-for-continuous-delivery/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Best Practices for Running and Implementing Kubernetes'
+  date: Jun 30 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/best-practices-for-running-and-implementing-kubernetes/
+  isDelivered: false
