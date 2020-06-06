@@ -563,3 +563,8 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/best-practices-for-running-and-implementing-kubernetes/
   isDelivered: true
+- title: 'CNCF Ambassador Webinar: Commoditise Kubernetes with cluster-api'
+  date: Jun 26 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/commoditise-kubernetes-with-cluster-api/
+  isDelivered: false
