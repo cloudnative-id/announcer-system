@@ -801,3 +801,53 @@ content:
   url: https://www.cncf.io/blog/2020/05/15/kubespray-ci-on-ovhclouds-openstack-public-cloud/
   kind: Blog
   isDelivered: true
+- title: Cloud Native Computing Foundation Announces HCL Technologies as Gold Member
+  url: https://www.cncf.io/announcement/2020/06/04/cloud-native-computing-foundation-announces-hcl-technologies-as-gold-member/
+  kind: Announcements
+  isDelivered: false
+- title: Priyanka Sharma Joins CNCF as General Manager
+  url: https://www.cncf.io/announcement/2020/06/01/priyanka-sharma-joins-cncf-as-general-manager/
+  kind: Announcements
+  isDelivered: false
+- title: 'TechCrunch: “Priyanka Sharma takes over the leadership of the Cloud Native
+    Computing Foundation”'
+  url: https://www.cncf.io/news/2020/06/02/techcrunch-priyanka-sharma-takes-over-the-leadership-of-the-cloud-native-computing-foundation/
+  kind: In The News
+  isDelivered: false
+- title: 'Business Insider: “A former director of $2.75 billion GitLab is now heading
+    up the influential foundation that’s home to Kubernetes, the widely-used cloud
+    computing project started at Google”'
+  url: https://www.cncf.io/news/2020/06/01/business-insider-a-former-director-of-2-75-billion-gitlab-is-now-heading-up-the-influential-foundation-thats-home-to-kubernetes-the-widely-used-cloud-computing-project-started-at-google/
+  kind: In The News
+  isDelivered: false
+- title: 'ContainerJournal: “CNCF Gets a New Boss”'
+  url: https://www.cncf.io/news/2020/06/01/containerjournal-cncf-gets-a-new-boss/
+  kind: In The News
+  isDelivered: false
+- title: 'The New Stack: “Priyanka Sharma Assumes Leadership of the Cloud Native Computing
+    Foundation”'
+  url: https://www.cncf.io/news/2020/06/01/the-new-stack-priyanka-sharma-assumes-leadership-of-the-cloud-native-computing-foundation/
+  kind: In The News
+  isDelivered: false
+- title: 'SiliconANGLE: “New CNCF head Priyanka Sharma aims to keep building cloud-native
+    wave”'
+  url: https://www.cncf.io/news/2020/06/01/siliconangle-new-cncf-head-priyanka-sharma-aims-to-keep-building-cloud-native-wave/
+  kind: In The News
+  isDelivered: false
+- title: How Cloud Native Technology Helps Mux Simplify Online Video Streaming
+  url: https://www.cncf.io/blog/2020/06/05/how-cloud-native-technology-helps-mux-simplify-online-video-streaming/
+  kind: Blog
+  isDelivered: false
+- title: CNCF and Linux Foundation Announce New Cloud Engineer Bootcamp
+  url: https://www.cncf.io/blog/2020/06/03/cncf-and-linux-foundation-announce-new-cloud-engineer-bootcamp/
+  kind: Blog
+  isDelivered: false
+- title: What Exactly is “Kooper’s Daddy” aka Kubernetes and How Can The Ops Platform
+    Help
+  url: https://www.cncf.io/blog/2020/06/02/what-exactly-is-koopers-daddy-aka-kubernetes-and-how-can-the-ops-platform-help/
+  kind: Blog
+  isDelivered: false
+- title: '5G Rollout: How Kubernetes and Edge Computing Is Making 5G a Reality'
+  url: https://www.cncf.io/blog/2020/06/01/5g-rollout-how-kubernetes-and-edge-computing-is-making-5g-a-reality/
+  kind: Blog
+  isDelivered: false
