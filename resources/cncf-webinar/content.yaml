@@ -568,3 +568,8 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/commoditise-kubernetes-with-cluster-api/
   isDelivered: true
+- title: 'CNCF Member Webinar: Stay on top of ongoing Kubernetes security hygiene'
+  date: Jul 2 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/7-critical-reasons-for-kubernetes-native-backup-2/
+  isDelivered: false
