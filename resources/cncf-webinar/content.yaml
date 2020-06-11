@@ -573,3 +573,8 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/7-critical-reasons-for-kubernetes-native-backup-2/
   isDelivered: true
+- title: 'CNCF Member Webinar: Fast packet processing with KubeVirt'
+  date: Jun 19 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/fast-packet-processing-with-kubevirt/
+  isDelivered: false
