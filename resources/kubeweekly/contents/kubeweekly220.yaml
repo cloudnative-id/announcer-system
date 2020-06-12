@@ -1,0 +1,91 @@
+title: 'kubeweekly #220'
+date: 06/12/2020
+source: kubeweekly
+data:
+- title: Priyanka Sharma Chats With Kubernetes Podcast from Google
+  link: https://kubernetespodcast.com/episode/107-cncf-under-new-management/
+  type: The Headlines
+- title: Priyanka Sharma
+  link: https://twitter.com/pritianka
+  type: The Headlines
+- title: Listen now
+  link: https://kubernetespodcast.com/episode/107-cncf-under-new-management/
+  type: The Headlines
+- title: 'Deadline Extended to June 28: KubeCon + CloudNativeCon North America 2020
+    Call for Proposals'
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/
+  type: The Headlines
+- title: submit today
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/#general-info
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Self-service of Cloud Resources for Kubernetes Applications'
+  link: https://www.cncf.io/webinars/self-service-of-cloud-services-for-kubernetes-application/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Hybrid Cloud Kubernetes with Nodeless'
+  link: https://www.cncf.io/webinars/hybrid-cloud-kubernetes-with-nodeless/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Things to consider to operate a Multi-Tenant Kubernetes
+    Cluster // Multi-Tenant Kubernetes Cluster를 운영하기 위해 고려할 사항'
+  link: https://www.cncf.io/webinars/things-to-consider-to-operate-a-multi-tenant-kubernetes-cluster-multi-tenant-kubernetes-cluster%eb%a5%bc-%ec%9a%b4%ec%98%81%ed%95%98%ea%b8%b0-%ec%9c%84%ed%95%b4-%ea%b3%a0/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Develop your Cloud Native use cases at the Edge with
+    K3s'
+  link: https://www.cncf.io/webinars/develop-your-cloud-native-use-cases-at-the-edge-with-k3s/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Community Webinar: Cluster API (CAPI) – A Kubernetes subproject to
+    simplify cluster lifecycle management'
+  link: https://www.cncf.io/webinars/cluster-api-capi-a-kubernetes-subproject-to-simplify-cluster-lifecycle-management/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: The Definitive Checklist for Delivering Reliable Kubernetes-based
+    Applications'
+  link: https://www.cncf.io/webinars/the-definitive-checklist-for-delivering-reliable-kubernetes-based-applications/
+  type: 'ICYMI: CNCF Webinars '
+- title: Provision Kubernetes NFS clients on a Raspberry Pi homelab
+  link: https://opensource.com/article/20/6/kubernetes-nfs-client-provisioning
+  type: The Technical
+- title: 5 ways to boost your Kubernetes knowledge
+  link: https://opensource.com/article/20/6/kubernetes-anniversary
+  type: The Technical
+- title: 'Technical Deep Dive: Developer Portal for Istio'
+  link: https://www.solo.io/blog/technical-deep-dive-istio-developer-portal/
+  type: The Technical
+- title: Open Source Service Mesh Hub – Technical Overview
+  link: https://www.solo.io/blog/open-source-service-mesh-hub-technical-overview/
+  type: The Technical
+- title: Log Monitoring and Alerting with Grafana Loki
+  link: https://www.infracloud.io/grafana-loki-log-monitoring-alerting/
+  type: The Technical
+- title: When it’s not only about a Kubernetes CVE…
+  link: https://medium.com/@BreizhZeroDayHunters/when-its-not-only-about-a-kubernetes-cve-8f6b448eafa8
+  type: The Technical
+- title: 'Longhorn: Rancher’s Journey from Zero to GA'
+  link: 'https://rancher.com/blog/2020/longhorn-journey-to-ga '
+  type: The Editorial
+- title: 'Beda, Burns and McLuckie: the Creators of Kubernetes Look Back'
+  link: https://thenewstack.io/beda-burns-and-mcluckie-the-creators-of-kubernetes-look-back/
+  type: The Editorial
+- title: The Container Security Maturity Model, a Step-by-Step Approach to Cloud Native
+    Security
+  link: https://thenewstack.io/the-container-security-maturity-model-a-step-by-step-approach-to-cloud-native-security/
+  type: The Editorial
+- title: Multi-cluster Kubernetes with Ambassador and Linkerd
+  link: https://blog.getambassador.io/multi-cluster-kubernetes-with-ambassador-and-linkerd-2caf0e978f8f
+  type: The Editorial
+- title: 'The state of Kubernetes: 6 facts you might not know'
+  link: https://enterprisersproject.com/article/2020/6/kubernetes-birthday-6-facts
+  type: The Editorial
+- title: 'CNCF Project Spotlight: Helm'
+  link: https://www.cncf.io/blog/2020/06/08/cncf-project-spotlight-helm/
+  type: The Editorial
+- title: 'How to Contribute to Open Source: The Ultimate Guide'
+  link: https://builtin.com/software-engineering-perspectives/open-source-contribution
+  type: The Editorial
+- title: 'Announcing Linkerd 2.8: simple, secure multi-cluster Kubernetes'
+  link: https://linkerd.io/2020/06/09/announcing-linkerd-2.8/
+  type: The Editorial
+- title: Lessons Learned From Two Years Of Kubernetes
+  link: https://coderanger.net/lessons-learned/
+  type: The Editorial
