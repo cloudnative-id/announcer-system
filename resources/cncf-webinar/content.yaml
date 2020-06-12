@@ -583,16 +583,16 @@ content:
   date: Jul 8 2020
   time: 1:00-2:00 PM PT (UTC-7)
   url: https://www.cncf.io/webinars/building-production-ready-services-with-kubernetes-and-serverless-architectures/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: The Challenges and Countermeasures of Service Mesh
     Practice'
   date: Jul 8 2020
   time: 10:00-11:00 AM CST (UTC+7)
   url: https://www.cncf.io/webinars/the-challenges-and-countermeasures-of-service-mesh-practice/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: How to land Service Mesh – From technology selection
     to practice'
   date: Jul 9 2020
   time: 10:00 - 11:00 AM CST (UTC+7)
   url: https://www.cncf.io/webinars/how-to-land-service-mesh-from-technology-selection-to-practice/
-  isDelivered: false
+  isDelivered: true
