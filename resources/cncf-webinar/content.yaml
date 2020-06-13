@@ -601,10 +601,10 @@ content:
   date: Jul 9 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/the-top-10-most-useful-kubernetes-apis-for-comprehensive-cloud-native-observability/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Securing and Accelerating the Kubernetes CNI Data Plane
     with Project Antrea and NVIDIA Mellanox ConnectX SmartNICs'
   date: Jul 14 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/securing-and-accelerating-the-kubernetes-cni-data-plane-with-project-antrea-and-nvidia-mellanox-connectx-smartnics/
-  isDelivered: false
+  isDelivered: true
