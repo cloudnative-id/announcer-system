@@ -854,33 +854,33 @@ content:
 - title: 'Kubernetes Podcast: CNCF: Under New Management, with Priyanka Sharma'
   url: https://www.cncf.io/news/2020/06/10/kubernetes-podcast-cncf-under-new-management-with-priyanka-sharma/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'Built In: How to Contribute to Open Source: The Ultimate Guide'
   url: https://www.cncf.io/news/2020/06/09/built-in-how-to-contribute-to-open-source-the-ultimate-guide/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: Introducing the CNCF Technology Radar
   url: https://www.cncf.io/blog/2020/06/12/introducing-the-cncf-technology-radar/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Statement from CNCF General Manager Priyanka Sharma on the Black Lives Matter
     Movement
   url: https://www.cncf.io/blog/2020/06/11/statement-from-cncf-general-manager-priyanka-sharma-on-the-black-lives-matter-movement/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Kubernetes Resources Management – QoS, Quota, and LimitRangeb
   url: https://www.cncf.io/blog/2020/06/10/kubernetes-resources-management-qos-quota-and-limitrangeb/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Project Spotlight: Helm'
   url: https://www.cncf.io/blog/2020/06/08/cncf-project-spotlight-helm/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Ambassador Spotlight: Ariel Jatib'
   url: https://www.cncf.io/blog/2020/06/08/cncf-ambassador-spotlight-ariel-jatib/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Community Leader Spotlight: Liz Rice'
   url: https://www.cncf.io/blog/2020/06/08/cncf-community-leader-spotlight-liz-rice/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
