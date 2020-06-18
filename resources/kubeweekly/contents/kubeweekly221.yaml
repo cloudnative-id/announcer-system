@@ -1,0 +1,82 @@
+title: 'kubeweekly #221'
+date: 06/18/2020
+source: kubeweekly
+data:
+- title: CNCF Supports the Black Lives Matter movement
+  link: https://www.cncf.io/blog/2020/06/11/statement-from-cncf-general-manager-priyanka-sharma-on-the-black-lives-matter-movement/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/blog/2020/06/11/statement-from-cncf-general-manager-priyanka-sharma-on-the-black-lives-matter-movement/
+  type: The Headlines
+- title: Introducing the CNCF Technology Radar
+  link: https://www.cncf.io/blog/2020/06/12/introducing-the-cncf-technology-radar/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/blog/2020/06/12/introducing-the-cncf-technology-radar/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Project Webinar: Charting Your Voyage To Helm 3'
+  link: https://www.cncf.io/webinars/cncf-project-webinar-charting-your-voyage-to-helm-3/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Community Webinar: What end users really recommend for Continuous Delivery'
+  link: https://www.cncf.io/webinars/what-end-users-really-recommend-for-continuous-delivery/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Multi Cluster Service Mesh Operations and Extensibility
+    with WebAssembly'
+  link: https://www.cncf.io/webinars/multi-cluster-service-mesh-operations-and-extensibility-with-webassembly/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Learning from the visible past to accelerate the observable
+    future'
+  link: https://www.cncf.io/webinars/learning-from-the-visible-past-to-accelerate-the-observable-future/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Multitenancy Webinar: Better walls make better tenants'
+  link: https://www.cncf.io/webinars/multitenancy-webinar-better-walls-make-better-tenants/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: How to better understand K8s workloads using Octant'
+  link: https://www.cncf.io/webinars/how-to-better-understand-k8s-workloads-using-octant/
+  type: 'ICYMI: CNCF Webinars '
+- title: Monitoring Services like an SRE in OpenShift ServiceMesh
+  link: https://www.openshift.com/blog/monitoring-services-like-an-sre-in-openshift-servicemesh
+  type: The Technical
+- title: 'New in Prometheus v2.19.0: Memory-mapping of full chunks of the head block
+    reduces memory usage by as much as 40%'
+  link: https://grafana.com/blog/2020/06/10/new-in-prometheus-v2.19.0-memory-mapping-of-full-chunks-of-the-head-block-reduces-memory-usage-by-as-much-as-40/
+  type: The Technical
+- title: Hard lessons learned about Kubernetes garbage collection
+  link: https://opensource.com/article/20/6/kubernetes-garbage-collection
+  type: The Technical
+- title: 'Enterprise Kubernetes development with odo: The CLI tool for developers'
+  link: https://developers.redhat.com/blog/2020/06/16/enterprise-kubernetes-development-with-odo-the-cli-tool-for-developers/
+  type: The Technical
+- title: How to create ephemeral environments using Crossplane and ArgoCD?
+  link: https://www.infracloud.io/how-to-create-ephemeral-environments-using-crossplane-and-argocd/
+  type: The Technical
+- title: High availability load balancers with Maglev
+  link: https://blog.cloudflare.com/high-availability-load-balancers-with-maglev/
+  type: The Technical
+- title: Misconfigured Kubeflow workloads are a security risk
+  link: https://www.microsoft.com/security/blog/2020/06/10/misconfigured-kubeflow-workloads-are-a-security-risk/
+  type: The Technical
+- title: The Financial Times, with Sarah Wells and Dimitar Terziev
+  link: https://kubernetespodcast.com/episode/108-financial-times/
+  type: The Editorial
+- title: Google internships go virtual with the help of open source
+  link: https://www.blog.google/inside-google/working-google/google-internships-go-virtual-help-open-source/
+  type: The Editorial
+- title: Supporting the Evolving Ingress Specification in Kubernetes 1.18
+  link: https://kubernetes.io/blog/2020/06/05/supporting-the-evolving-ingress-specification-in-kubernetes-1.18/
+  type: The Editorial
+- title: 'Kubernetes by the numbers, in 2020: 12 stats to see'
+  link: https://enterprisersproject.com/article/2020/6/kubernetes-statistics-2020
+  type: The Editorial
+- title: Google’s Anthos from the eyes of a Kubernetes developer
+  link: https://thenewstack.io/google-anthos-from-the-eyes-of-a-kubernetes-developer/
+  type: The Editorial
+- title: Kubernetes startup Kubermatic, formerly Loodse, open-sources its core technology
+  link: https://techcrunch.com/2020/06/17/loodse-becomes-kubermatic-and-open-sources-kubernetes-automation-platform/
+  type: The Editorial
+- title: MayaData launches Kubera; a Kubernetes management service
+  link: https://blocksandfiles.com/2020/06/16/mayadata-launches-kubera-a-kubernetes-management-service/
+  type: The Editorial
