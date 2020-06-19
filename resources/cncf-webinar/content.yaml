@@ -620,3 +620,21 @@ content:
   time: 7:00 - 8:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/serving-millions-of-customers-with-cloud-native-and-devsecops/
   isDelivered: true
+- title: 'CNCF Member Webinar: Optimize your Kubernetes Clusters on Azure with Built-in
+    Best Practices'
+  date: Jul 7 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/optimize-your-kubernetes-clusters-on-azure-with-built-in-best-practices/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Advancing image security and compliance through Container
+    Image Encryption!'
+  date: Jul 15 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/advancing-image-security-and-compliance-through-container-image-encryption/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Kubernetes and storage. Kubernetes for storage. An
+    overview.'
+  date: Jul 16 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/kubernetes-for-storage-an-overview/
+  isDelivered: false
