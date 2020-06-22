@@ -884,3 +884,23 @@ content:
   url: https://www.cncf.io/blog/2020/06/08/cncf-community-leader-spotlight-liz-rice/
   kind: Blog
   isDelivered: true
+- title: Cloud Native Computing Foundation Welcomes SPD Bank as Gold Member
+  url: https://www.cncf.io/announcement/2020/06/18/cloud-native-computing-foundation-welcomes-spd-bank-as-gold-member/
+  kind: Announcements
+  isDelivered: false
+- title: 'Kubernetes RBAC 101: Overview'
+  url: https://www.cncf.io/blog/2020/06/19/kubernetes-rbac-101-overview-2/
+  kind: Blog
+  isDelivered: false
+- title: Testing Kubernetes Deployments within CI Pipelines
+  url: https://www.cncf.io/blog/2020/06/17/testing-kubernetes-deployments-within-ci-pipelines/
+  kind: Blog
+  isDelivered: false
+- title: 'Identifying Kubernetes Config Security Threats: Pods Running as Root'
+  url: https://www.cncf.io/blog/2020/06/16/identifying-kubernetes-config-security-threats-pods-running-as-root/
+  kind: Blog
+  isDelivered: false
+- title: Interested in the Future of Cloud Native Observability? Join SIG-Observability
+  url: https://www.cncf.io/blog/2020/06/15/interested-in-the-future-of-cloud-native-observability-join-sig-observability/
+  kind: Blog
+  isDelivered: false
