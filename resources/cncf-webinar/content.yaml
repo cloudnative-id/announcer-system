@@ -643,4 +643,4 @@ content:
   date: Jul 31 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/how-we-doubled-system-read-throughput-with-only-26-lines-of-code/
-  isDelivered: false
+  isDelivered: true
