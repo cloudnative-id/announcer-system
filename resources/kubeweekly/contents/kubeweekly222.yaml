@@ -1,0 +1,70 @@
+title: 'kubeweekly #222'
+date: 06/26/2020
+source: kubeweekly
+data:
+- title: Congratulations, Harbor on CNCF Graduation!
+  link: https://www.cncf.io/announcement/2020/06/23/cloud-native-computing-foundation-announces-harbor-graduation/
+  type: The Headlines
+- title: here
+  link: https://containerjournal.com/topics/container-management/cncf-graduates-harbor-container-registry/
+  type: The Headlines
+- title: SPIFFE/SPIRE move to CNCF Incubation-level hosted projects
+  link: https://www.cncf.io/blog/2020/06/22/toc-approves-spiffe-and-spire-to-incubation/
+  type: The Headlines
+- title: Incubation-level hosted project
+  link: https://thenewstack.io/kubernetes-authentication-solved-spiffe-spire-move-to-cncf-incubation/
+  type: The Headlines
+- title: spiffe.io
+  link: https://spiffe.io/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Fast packet processing with KubeVirt'
+  link: https://www.cncf.io/webinars/fast-packet-processing-with-kubevirt/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Kubernetes Cost Allocation Done Right'
+  link: https://www.cncf.io/webinars/kubernetes-cost-allocation-done-right/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Cloud Infrastructure for Network Functions – Requirements
+    and testing'
+  link: https://www.cncf.io/webinars/cloud-infrastructure-for-network-functions-requirements-and-testing/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Introduction to Cloud Provider Sub Sig BaiduCloud //
+    介绍SIG Cloud Provider子项目BaiduCloud'
+  link: https://www.cncf.io/webinars/introduction-to-cloud-provider-sub-sig-baiducloud-%e4%bb%8b%e7%bb%8dsig-cloud-provider%e5%ad%90%e9%a1%b9%e7%9b%aebaiducloud/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Monitoring Kubernetes clusters by “chatting” with them'
+  link: https://www.cncf.io/webinars/monitoring-kubernetes-clusters-by-chatting-with-them/
+  type: 'ICYMI: CNCF Webinars '
+- title: Exploiting an Envoy heap vulnerability
+  link: https://blog.envoyproxy.io/exploiting-an-envoy-heap-vulnerability-96173d41792
+  type: The Technical
+- title: Deploying Istio with restricted Pod Security Policies
+  link: https://banzaicloud.com/blog/istio-operator-psp/
+  type: The Technical
+- title: Cross-Cluster Traffic Mirroring with Istio
+  link: https://tech.trivago.com/2020/06/10/cross-cluster-traffic-mirroring-with-istio/
+  type: The Technical
+- title: Manage your Kubernetes cluster with Lens
+  link: https://opensource.com/article/20/6/kubernetes-lens
+  type: The Technical
+- title: Kubermatic, with Sebastian Scheele
+  link: https://kubernetespodcast.com/episode/109-kubermatic/
+  type: The Editorial
+- title: Bayer Crop Science seeds the future with 15000-node GKE clusters
+  link: https://cloud.google.com/blog/products/containers-kubernetes/google-kubernetes-engine-clusters-can-have-up-to-15000-nodes
+  type: The Editorial
+- title: 'Tsunami: An extensible network scanning engine for detecting high severity
+    vulnerabilities with high confidence'
+  link: https://opensource.googleblog.com/2020/06/tsunami-extensible-network-scanning.html
+  type: The Editorial
+- title: 'Kubernetes: 4 ways to save IT budget with automation'
+  link: https://enterprisersproject.com/article/2020/6/kubernetes-4-ways-save-it-budget-automation
+  type: The Editorial
+- title: Architecting Kubernetes clusters — choosing a cluster size
+  link: https://itnext.io/architecting-kubernetes-clusters-choosing-a-cluster-size-92f6feaa2908
+  type: The Editorial
+- title: 'Service Mesh Comparison: Istio vs Linkerd'
+  link: https://www.infracloud.io/service-mesh-comparison-istio-vs-linkerd/
+  type: The Editorial
