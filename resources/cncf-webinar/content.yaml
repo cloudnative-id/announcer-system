@@ -644,3 +644,25 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/how-we-doubled-system-read-throughput-with-only-26-lines-of-code/
   isDelivered: true
+- title: 'CNCF Member Webinar: Kubernetes Security Anatomy and the Recently Disclosed
+    CVEs'
+  date: Jul 21 2020
+  time: 10:00 - 11:00 AM PDT (UTC-7)
+  url: https://www.cncf.io/webinars/kubernetes-security-anatomy-and-the-recently-disclosed-cves/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Implementing Canary Releases on Kubernetes w/ Spinnaker,
+    Istio, and Prometheus'
+  date: Jul 22 2020
+  time: 1:00 - 2:00 PM PDT (UTC-7)
+  url: https://www.cncf.io/webinars/implementing-canary-releases-on-kubernetes-w-spinnaker-istio-and-prometheus/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Observability of multi-party computation with OpenTelemetry'
+  date: Jul 23 2020
+  time: 10:00 - 11:00 AM PDT (UTC-7)
+  url: https://www.cncf.io/webinars/observability-of-multi-party-computation-with-opentelemetry/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Kubernetes Policies 101'
+  date: Jul 28 2020
+  time: 10:00 - 11:00 AM PDT (UTC-7)
+  url: https://www.cncf.io/webinars/kubernetes-policies-101/
+  isDelivered: false
