@@ -670,4 +670,4 @@ content:
   date: Jul 10 2020
   time: 7:00 - 8:00 AM PDT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-ambassador-webinar-commoditise-kubernetes-with-cluster-api-replay/
-  isDelivered: false
+  isDelivered: true
