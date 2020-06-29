@@ -907,60 +907,60 @@ content:
 - title: Cloud Native Computing Foundation Announces Harbor Graduation
   url: https://www.cncf.io/announcement/2020/06/23/cloud-native-computing-foundation-announces-harbor-graduation/
   kind: Announcements
-  isDelivered: false
+  isDelivered: true
 - title: Cloud Native Computing Foundation Announces Hewlett Packard Enterprise as
     Gold Member
   url: https://www.cncf.io/announcement/2020/06/22/cloud-native-computing-foundation-announces-hewlett-packard-enterprise-as-gold-member/
   kind: Announcements
-  isDelivered: false
+  isDelivered: true
 - title: 'ContainerJournal: “CNCF Graduates Harbor Container Registry”'
   url: https://www.cncf.io/news/2020/06/26/containerjournal-cncf-graduates-harbor-container-registry/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'The New Stack: “Kubernetes Authentication ‘Solved’: SPIFFE/SPIRE Move to
     CNCF Incubation”'
   url: https://www.cncf.io/news/2020/06/26/the-new-stack-kubernetes-authentication-solved-spiffe-spire-move-to-cncf-incubation/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'DevClass: “CNCF plants SPIFFE and SPIRE into its incubator, looks to grow
     secure cloud projects”'
   url: https://www.cncf.io/news/2020/06/26/devclass-cncf-plants-spiffe-and-spire-into-its-incubator-looks-to-grow-secure-cloud-projects/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'DevOps.com: “CNCF Elevates SPIFFE Spec to Secure App Services”'
   url: https://www.cncf.io/news/2020/06/26/devops-com-cncf-elevates-spiffe-spec-to-secure-app-services/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'DevClass: “CNCF debuts own tech radar, looking into continuous delivery”'
   url: https://www.cncf.io/news/2020/06/15/devclass-cncf-debuts-own-tech-radar-looking-into-continuous-delivery/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'SDxCentral: “Cloud Native Security Remains a Complex Organism”'
   url: https://www.cncf.io/news/2020/06/12/sdxcentral-cloud-native-security-remains-a-complex-organism/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'ContainerJournal: “CNCF Charts Course for Helm Package Manager”'
   url: https://www.cncf.io/news/2020/06/10/containerjournal-cncf-charts-course-for-helm-package-manager/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: OpenTelemetry Best Practices (Overview Part 2/2)
   url: https://www.cncf.io/blog/2020/06/26/opentelemetry-best-practices-overview-part-2-2/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: KubeCon + CloudNativeCon EU Virtual – NEW schedule is live!
   url: https://www.cncf.io/blog/2020/06/25/kubecon-cloudnativecon-eu-virtual-new-schedule-is-live/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: How JD.com Saves 60% Maintenance Time Using Harbor for Its Private Image
     Central Repository
   url: https://www.cncf.io/blog/2020/06/24/how-jd-com-saves-60-maintenance-time-using-harbor-for-its-private-image-central-repository/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Rust at CNCF
   url: https://www.cncf.io/blog/2020/06/22/rust-at-cncf/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: TOC Approves SPIFFE and SPIRE to Incubation
   url: https://www.cncf.io/blog/2020/06/22/toc-approves-spiffe-and-spire-to-incubation/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
