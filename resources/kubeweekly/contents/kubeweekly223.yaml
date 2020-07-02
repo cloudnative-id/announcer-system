@@ -1,0 +1,86 @@
+title: 'kubeweekly #223'
+date: 07/02/2020
+source: kubeweekly
+data:
+- title: KubeCon + CloudNativeCon North America is Going Virtual + CFP extended!
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/
+  type: The Headlines
+- title: KubeCon + CloudNativeCon North America
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+  type: The Headlines
+- title: 92,000 contributors
+  link: https://all.devstats.cncf.io/d/18/overall-project-statistics-table?orgId=1
+  type: The Headlines
+- title: 11 new sandbox projects
+  link: https://www.cncf.io/sandbox-projects/
+  type: The Headlines
+- title: members
+  link: https://www.cncf.io/about/members/
+  type: The Headlines
+- title: submit
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/
+  type: The Headlines
+- title: here
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+  type: The Headlines
+- title: The Beginners Guide to the CNCF TOC
+  link: https://sched.co/ZfCr
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Ambassador Webinar: Commoditise Kubernetes with cluster-api'
+  link: https://www.cncf.io/webinars/commoditise-kubernetes-with-cluster-api/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Best Practices for Running and Implementing Kubernetes'
+  link: https://www.cncf.io/webinars/best-practices-for-running-and-implementing-kubernetes/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: 7 Critical Reasons for Kubernetes-Native Backup'
+  link: https://www.cncf.io/webinars/7-critical-reasons-for-kubernetes-native-backup/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Pivoting Your Pipeline from Legacy to Cloud Native'
+  link: https://www.cncf.io/webinars/pivoting-pipeline-from-legacy-to-cloud-native/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'ConfigMaps in Kubernetes: how they work and what you should remember'
+  link: https://medium.com/flant-com/configmaps-in-kubernetes-f9f6d0081dcb
+  type: The Technical
+- title: Docker and Kubernetes — root vs. privileged
+  link: https://medium.com/@bryant.hagadorn/docker-and-kubernetes-root-vs-privileged-9d2a37453dec
+  type: The Technical
+- title: 'Verify your Kubernetes Cluster Network Policies: From Faith to Proof'
+  link: https://blog.nody.cc/posts/2020-06-kubernetes-network-policy-verification/
+  type: The Technical
+- title: 'Introducing Frigate: A documentation generation tool for Kubernetes Helm
+    Charts'
+  link: https://medium.com/rapids-ai/introducing-frigate-a-documentation-generation-tool-for-kubernetes-1791854031a1#cid=av01_so-twit_en-us
+  type: The Technical
+- title: User-defined Webhooks in Puppet Relay with Knative and Ambassador API Gateway
+  link: https://blog.getambassador.io/user-defined-webhooks-in-puppet-relay-with-knative-and-ambassador-api-gateway-542ef2e1e137
+  type: The Technical
+- title: 'The Building Blocks of DX: K8s Evolution from CLI to GitOps'
+  link: https://medium.com/@kgamanji/the-building-blocks-of-dx-k8s-evolution-from-cli-to-gitops-a7a574ac10eb
+  type: The Technical
+- title: Kubernetes Operator
+  link: https://github.com/dmytrostriletskyi/stale-feature-branch-operator
+  type: The Technical
+- title: Mirantis and Docker Enterprise, with Adrian Ionel
+  link: https://kubernetespodcast.com/episode/110-mirantis/
+  type: The Editorial
+- title: Introducing the Hewlett Packard Enterprise Ezmeral software portfolio
+  link: https://www.hpe.com/us/en/newsroom/blog-post/2020/06/introducing-the-hpe-ezmeral-software-portfolio.html
+  type: The Editorial
+- title: Building Cloud-Scale DBaaS with Kubernetes Operators
+  link: https://www.ibm.com/cloud/blog/building-cloud-scale-dbaas-with-kubernetes-operators
+  type: The Editorial
+- title: I Found A Painless Way To Manage Secrets In Google Kubernetes Engine
+  link: https://hackernoon.com/i-found-a-painless-way-to-manage-secrets-in-google-kubernetes-engine-cs3d3uuz
+  type: The Editorial
+- title: Optimize the Kubernetes Developer Experience with Version 0
+  link: https://www.getambassador.io/resources/kubernetes-developer-experience-version-0/
+  type: The Editorial
+- title: How Microservices facilitate Feature Teams’ work
+  link: https://blog.mia-platform.eu/en/how-microservices-facilitate-feature-teams-work
+  type: The Editorial
+- title: Kubernetes static code analysis with Checkov
+  link: https://bridgecrew.io/blog/kubernetes-static-code-analysis-with-checkov/
+  type: The Editorial
