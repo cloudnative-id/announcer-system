@@ -671,3 +671,18 @@ content:
   time: 7:00 - 8:00 AM PDT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-ambassador-webinar-commoditise-kubernetes-with-cluster-api-replay/
   isDelivered: true
+- title: 'Webinar: Learn how to clean up your cloud-native “DevOps Dumping Ground”'
+  date: Jul 17 2020
+  time: 10:00 - 11:00 AM PDT (UTC-7)
+  url: https://www.cncf.io/webinars/learn-how-to-clean-up-your-cloud-native-devops-dumping-ground/
+  isDelivered: false
+- title: 'Webinar: Cluster API  – Yesterday, Today, Tomorrow'
+  date: Jul 30 2020
+  time: 10:00 - 11:00 AM PDT (UTC-7)
+  url: https://www.cncf.io/webinars/webinar-cluster-api-yesterday-today-tomorrow/
+  isDelivered: false
+- title: 'Webinar: Getting started with container runtime security using Falco'
+  date: Sep 2 2020
+  time: 1:00 - 2:00 PM PDT (UTC-7)
+  url: https://www.cncf.io/webinars/getting-started-with-container-runtime-security-using-falco/
+  isDelivered: false
