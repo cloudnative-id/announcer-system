@@ -967,24 +967,24 @@ content:
 - title: Cloud Native Computing Foundation Continues Steady Growth with 30 New Members
   url: https://www.cncf.io/announcement/2020/06/29/cloud-native-computing-foundation-continues-steady-growth-with-30-new-members/
   kind: Announcements
-  isDelivered: false
+  isDelivered: true
 - title: Efficient Model Training in the Cloud with Kubernetes, TensorFlow, and Alluxio
   url: https://www.cncf.io/blog/2020/07/03/efficient-model-training-in-the-cloud-with-kubernetes-tensorflow-and-alluxio/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Jenkins and Kubernetes: The Perfect Pair'
   url: https://www.cncf.io/blog/2020/07/02/jenkins-and-kubernetes-the-perfect-pair/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Introducing Cloud Native Community Groups!
   url: https://www.cncf.io/blog/2020/07/01/introducing-cloud-native-community-groups/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Kubernetes Best Practices for Monitoring and Alerts
   url: https://www.cncf.io/blog/2020/06/30/kubernetes-best-practices-for-monitoring-and-alerts/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Infrastructure as code: A non-boring guide for the clueless'
   url: https://www.cncf.io/blog/2020/06/29/infrastructure-as-code-a-non-boring-guide-for-the-clueless/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
