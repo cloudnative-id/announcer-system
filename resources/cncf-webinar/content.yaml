@@ -686,3 +686,31 @@ content:
   time: 1:00 - 2:00 PM PDT (UTC-7)
   url: https://www.cncf.io/webinars/getting-started-with-container-runtime-security-using-falco/
   isDelivered: true
+- title: 'CNCF Member Webinar: How Alibaba Extends K8s scheduler to support AI and
+    big data workloads'
+  date: Jul 15 2020
+  time: 10:00-11:00 AM CST (UTC+7)
+  url: https://www.cncf.io/webinars/how-alibaba-extends-k8s-scheduler-to-support-ai-and-big-data-workloads/
+  isDelivered: false
+- title: 'CNCF Member Webinar: GitOps Continuous Delivery with Argo and Codefresh'
+  date: Jul 29 2020
+  time: 1:00-2:00 PM PT (UTC-7)
+  url: https://www.cncf.io/webinars/gitops-continuous-delivery-with-argo-and-codefresh/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Comparing eBPF and Istio/Envoy for Monitoring Microservice
+    Interactions'
+  date: Aug 4 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/comparing-ebpf-and-istio-envoy-for-monitoring-microservice-interactions/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Making Data Work for Developers with Kubernetes & Cassandra'
+  date: Aug 5 2020
+  time: 1:00-2:00 PM PT (UTC-7)
+  url: https://www.cncf.io/webinars/making-data-work-for-developers-with-kubernetes-cassandra/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Debugging your debugging tools; What to do when your
+    service mesh goes down in production?'
+  date: Aug 5 2020
+  time: 7:00-8:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/debugging-your-debugging-tools-what-to-do-when-your-service-mesh-goes-down-in-production/
+  isDelivered: false
