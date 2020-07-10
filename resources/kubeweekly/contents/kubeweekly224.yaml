@@ -1,0 +1,115 @@
+title: 'kubeweekly #224'
+date: 07/10/2020
+source: kubeweekly
+data:
+- title: CNCF Scales Sandbox Approval Process to Meet Growing Demand from New Projects
+  link: https://www.cncf.io/announcement/2020/07/08/cloud-native-computing-foundation-scales-sandbox-approval-process-to-meet-growing-demand-from-new-projects/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/announcement/2020/07/08/cloud-native-computing-foundation-scales-sandbox-approval-process-to-meet-growing-demand-from-new-projects/
+  type: The Headlines
+- title: Operator Framework
+  link: https://www.cncf.io/blog/2020/07/09/toc-approves-operator-framework-as-incubating-project/
+  type: The Headlines
+- title: Contour
+  link: https://www.cncf.io/blog/2020/07/07/toc-accepts-contour-as-incubating-project/
+  type: The Headlines
+- title: Operator SDK
+  link: https://github.com/operator-framework/operator-sdk
+  type: The Headlines
+- title: Operator Lifecycle Manager (OLM)
+  link: https://github.com/operator-framework/operator-lifecycle-manager
+  type: The Headlines
+- title: Contour
+  link: https://projectcontour.io/
+  type: The Headlines
+- title: Envoy
+  link: https://envoyproxy.io/
+  type: The Headlines
+- title: 'Tutorial: Communication Is Key — Understanding Kubernetes Networking'
+  link: https://sched.co/Zej8
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Optimize your Kubernetes Clusters on Azure with Built-in
+    Best Practices'
+  link: https://www.cncf.io/webinars/optimize-your-kubernetes-clusters-on-azure-with-built-in-best-practices/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Building Production-ready Services with Kubernetes
+    and Serverless Architectures'
+  link: https://www.cncf.io/webinars/building-production-ready-services-with-kubernetes-and-serverless-architectures/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Project Webinar: What’s new in Linkerd 2.8: Multi-cluster Kubernetes
+    made simple and secure by default'
+  link: https://www.cncf.io/webinars/whats-new-in-linkerd-2-8-multi-cluster-kubernetes-made-simple-and-secure-by-default/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: The Challenges and Countermeasures of Service Mesh
+    Practice'
+  link: https://www.cncf.io/webinars/the-challenges-and-countermeasures-of-service-mesh-practice/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: The top 7 most useful Kubernetes APIs for comprehensive
+    cloud native observability'
+  link: https://www.cncf.io/webinars/the-top-7-most-useful-kubernetes-apis-for-comprehensive-cloud-native-observability/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: How to land Service Mesh – From technology selection
+    to practice'
+  link: https://www.cncf.io/webinars/how-to-land-service-mesh-from-technology-selection-to-practice/
+  type: 'ICYMI: CNCF Webinars '
+- title: Install a Kubernetes load balancer on your Raspberry Pi homelab with MetalLB
+  link: https://opensource.com/article/20/7/homelab-metallb
+  type: The Technical
+- title: Windows Server Containers in Red Hat OpenShift 4.4
+  link: https://www.twitch.tv/videos/671942924?t=00h03m42s
+  type: The Technical
+- title: A guide to Terraform for Kubernetes beginners
+  link: https://opensource.com/article/20/7/terraform-kubernetes
+  type: The Technical
+- title: How to run Keycloak in HA on Kubernetes
+  link: https://blog.sighup.io/keycloak-ha-on-kubernetes/
+  type: The Technical
+- title: Sinker
+  link: https://github.com/plexsystems/sinker
+  type: The Technical
+- title: Introduction to WebAssembly on Kubernetes with Krustlet
+  link: https://rawkode.com/articles/introduction-to-webassembly-on-kubernetes-with-krustlet/
+  type: The Technical
+- title: 'How to architect for Kubernetes: Part 1'
+  link: https://blog.remote.com/architect-kubernetes-part-1
+  type: The Technical
+- title: Presslabs is the First Managed WordPress Hosting Platform running on Kubernetes
+  link: https://www.presslabs.com/blog/presslabs-is-the-first-managed-wordpress-hosting-platform-running-on-kubernetes/
+  type: The Technical
+- title: 'The world’s simplest Kubernetes dashboard: k1s'
+  link: https://itnext.io/the-worlds-simplest-kubernetes-dashboard-k1s-4246e03191df
+  type: The Technical
+- title: Leverage PodSpec to customize the Fission runtime and builder pods
+  link: https://www.infracloud.io/fission-pod-spec/
+  type: The Technical
+- title: Minimum Viable Kubernetes
+  link: https://eevans.co/blog/minimum-viable-kubernetes/
+  type: The Technical
+- title: Linux company SUSE outbids competitors for fast-growing start-up Rancher
+    Labs
+  link: https://www.cnbc.com/2020/07/08/suse-acquires-rancher-labs.html
+  type: The Editorial
+- title: Kubernetes Operators Explained
+  link: https://blog.container-solutions.com/kubernetes-operators-explained
+  type: The Editorial
+- title: Can Kubernetes be an IT budget hero?
+  link: https://enterprisersproject.com/article/2020/7/kubernetes-it-budget-savings
+  type: The Editorial
+- title: Scalability, with Wojciech Tyczynski
+  link: https://kubernetespodcast.com/episode/111-scalability/
+  type: The Editorial
+- title: Deploy HAProxy Ingress Controller from Rancher’s Apps Catalog
+  link: https://rancher.com/blog/2020/deploy-haproxy-ingress-controller
+  type: The Editorial
+- title: Building a Multi-Tenant gRPC Development Platform with Ambassador and AWS
+    EKS
+  link: https://hackernoon.com/building-a-multi-tenant-grpc-development-platform-with-ambassador-and-aws-eks-hgt3uh0
+  type: The Editorial
+- title: 'LOTE #12: Daniel Mangum on Crossplane, building a PaaS, and Multi-Cluster
+    Kubernetes'
+  link: https://www.getambassador.io/podcasts/daniel-mangum-on-crossplane-building-a-paas-and-multi-cluster-kubernetes/
+  type: The Editorial
