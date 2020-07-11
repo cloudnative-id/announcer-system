@@ -718,21 +718,21 @@ content:
   date: Jul 17 2020
   time: 1:00-2:00 PM PT (UTC-7)
   url: https://www.cncf.io/webinars/fluent-bit-v1-5/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Kubernetes Secrets Management: Build Secure Apps Faster
     Without Secrets'
   date: Jul 22 2020
   time: 7:00-8:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/kubernetes-secrets-management-build-secure-apps-faster-without-secrets/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: One large cluster or lots of small ones? Pros, cons
     and when to apply each approach'
   date: Jul 24 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/one-large-cluster-or-lots-of-small-ones-pros-cons-and-when-to-apply-each-approach/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Hardware for Kubernetes, Peeling Back the Layers'
   date: Aug 11 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/hardware-for-kubernetes-peeling-back-the-layers/
-  isDelivered: false
+  isDelivered: true
