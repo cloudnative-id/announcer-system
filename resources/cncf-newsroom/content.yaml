@@ -988,3 +988,28 @@ content:
   url: https://www.cncf.io/blog/2020/06/29/infrastructure-as-code-a-non-boring-guide-for-the-clueless/
   kind: Blog
   isDelivered: true
+- title: Cloud Native Computing Foundation Scales Sandbox Approval Process to Meet
+    Growing Demand from New Projects
+  url: https://www.cncf.io/announcement/2020/07/08/cloud-native-computing-foundation-scales-sandbox-approval-process-to-meet-growing-demand-from-new-projects/
+  kind: Announcements
+  isDelivered: false
+- title: How Kubernetes Empowered Nubank Engineers to Deploy 700 Times a Week
+  url: https://www.cncf.io/blog/2020/07/10/how-kubernetes-empowered-nubank-engineers-to-deploy-200-times-a-week/
+  kind: Blog
+  isDelivered: false
+- title: TOC approves Operator Framework as Incubating Project  
+  url: https://www.cncf.io/blog/2020/07/09/toc-approves-operator-framework-as-incubating-project/
+  kind: Blog
+  isDelivered: false
+- title: Deepening End User Engagement with an Enhanced Ecosystem Program
+  url: https://www.cncf.io/blog/2020/07/08/deepening-end-user-engagement-with-an-enhanced-ecosystem-program/
+  kind: Blog
+  isDelivered: false
+- title: TOC Accepts Contour as Incubating Project
+  url: https://www.cncf.io/blog/2020/07/07/toc-accepts-contour-as-incubating-project/
+  kind: Blog
+  isDelivered: false
+- title: Announcing the updated CNCF Storage Landscape Whitepaper
+  url: https://www.cncf.io/blog/2020/07/06/announcing-the-updated-cncf-storage-landscape-whitepaper/
+  kind: Blog
+  isDelivered: false
