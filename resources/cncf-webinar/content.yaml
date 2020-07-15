@@ -736,3 +736,9 @@ content:
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/hardware-for-kubernetes-peeling-back-the-layers/
   isDelivered: true
+- title: 'CNCF Ambassador Webinar: Building application management platform with Open
+    Application Model'
+  date: Jul 22 2020
+  time: 10:00-11:00 AM CST (UTC+7)
+  url: https://www.cncf.io/webinars/cncf-ambassador-webinar-building-application-management-platform-with-open-application-model/
+  isDelivered: false
