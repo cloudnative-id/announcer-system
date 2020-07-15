@@ -741,4 +741,4 @@ content:
   date: Jul 22 2020
   time: 10:00-11:00 AM CST (UTC+7)
   url: https://www.cncf.io/webinars/cncf-ambassador-webinar-building-application-management-platform-with-open-application-model/
-  isDelivered: false
+  isDelivered: true
