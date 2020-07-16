@@ -746,4 +746,4 @@ content:
   date: Aug 28 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/kubernetes-1-19/
-  isDelivered: false
+  isDelivered: true
