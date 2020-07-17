@@ -1,0 +1,112 @@
+title: 'kubeweekly #225'
+date: 07/17/2020
+source: kubeweekly
+data:
+- title: 'Announcing Fluent Bit v1.5: Lightweight and High-performance Log Processor'
+  link: https://www.cncf.io/blog/2020/07/14/fluent-bit-v1-5-lightweight-and-high-performance-log-processor/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/blog/2020/07/14/fluent-bit-v1-5-lightweight-and-high-performance-log-processor/
+  type: The Headlines
+- title: webinar
+  link: https://www.cncf.io/webinars/fluent-bit-v1-5/
+  type: The Headlines
+- title: KubeCon + CloudNativeCon EU Virtual – Complimentary pass option! 
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+  type: The Headlines
+- title: ""
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/
+  type: The Headlines
+- title: 'DayZero Co-located Event: NSMCon '
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/colocated-events/#cloud-native-security-day
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Securing and Accelerating the Kubernetes CNI Data Plane
+    with Project Antrea and NVIDIA Mellanox ConnectX SmartNICs'
+  link: https://www.cncf.io/webinars/securing-and-accelerating-the-kubernetes-cni-data-plane-with-project-antrea-and-nvidia-mellanox-connectx-smartnics/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: How Alibaba Extends K8s scheduler to support AI and
+    big data workloads'
+  link: https://www.cncf.io/webinars/how-alibaba-extends-k8s-scheduler-to-support-ai-and-big-data-workloads/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Advancing image security and compliance through Container
+    Image Encryption!'
+  link: https://www.cncf.io/webinars/advancing-image-security-and-compliance-through-container-image-encryption/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Serving Millions of Customers with Cloud Native and
+    DevSecOps'
+  link: https://www.cncf.io/webinars/serving-millions-of-customers-with-cloud-native-and-devsecops/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Kubernetes and storage. Kubernetes for storage. An
+    overview.'
+  link: https://www.cncf.io/webinars/kubernetes-for-storage-an-overview/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'A visual guide to Lens: A new way to see Kubernetes'
+  link: https://opensource.com/article/20/7/kubernetes-lens
+  type: The Technical
+- title: Runtime Code Profile for Kubernetes Operators
+  link: https://www.openshift.com/blog/runtime-code-profile-for-kubernetes-operators-1
+  type: The Technical
+- title: Continuous Deployment to Kubernetes with Gitea and Drone
+  link: https://christine.website/blog/drone-kubernetes-cd-2020-07-10
+  type: The Technical
+- title: Kubernetes NodePort and iptables rules
+  link: https://ronaknathani.com/blog/2020/07/kubernetes-nodeport-and-iptables-rules/
+  type: The Technical
+- title: OIDC issuer discovery for Kubernetes service accounts
+  link: https://banzaicloud.com/blog/kubernetes-oidc/
+  type: The Technical
+- title: 5G Core Deployment Using Kubermatic KubeOne
+  link: https://www.kubermatic.com/blog/5g-core-deployment-using-kubermatic-kubeone/
+  type: The Technical
+- title: '[Tutorial] How to Set Multiple Rate Limits per Client ID with Envoy Proxy'
+  link: https://www.solo.io/blog/tutorial-how-to-set-multiple-rate-limits-per-client-id-with-envoy-proxy/
+  type: The Technical
+- title: Multi-Cluster Service Discovery in Kubernetes and Service Mesh
+  link: https://www.solo.io/blog/multi-cluster-service-discovery-in-kubernetes-and-service-mesh/
+  type: The Technical
+- title: Building Kubernetes Operators with Ansible Workshop
+  link: https://www.twitch.tv/videos/680494909?t=00h04m59s
+  type: The Technical
+- title: Building images using Podman and cron
+  link: https://www.redhat.com/sysadmin/building-images-podman-cron
+  type: The Technical
+- title: About Kubernetes Authentication
+  link: https://hackernoon.com/about-kubernetes-authentication-gg1f3yrd
+  type: The Technical
+- title: WireGuard on Kubernetes with Adblocking
+  link: https://codingcoffee.dev/blog/wireguard_on_kubernetes_with_adblocking/
+  type: The Technical
+- title: 5 Problems with Kubernetes Cost Estimation Strategies
+  link: https://www.fairwinds.com/blog/5-problems-with-kubernetes-cost-estimation-strategies
+  type: The Editorial
+- title: Scaling the Hottest Apps in Tech on AWS and Kubernetes
+  link: https://info.acloud.guru/resources/kubernetes-aws-cloud-scaling-hey
+  type: The Editorial
+- title: Application Configuration Management in Kubernetes
+  link: https://www.giantswarm.io/blog/application-configuration-management-in-kubernetes/
+  type: The Editorial
+- title: Chaos Engineering for a More Secure Kubernetes
+  link: https://logz.io/blog/kubernetes-chaos-engineering-security-networking/
+  type: The Editorial
+- title: What Are the Hardest Parts of Kubernetes to Learn?
+  link: https://logz.io/blog/what-are-the-hardest-parts-of-kubernetes-to-learn/
+  type: The Editorial
+- title: SIG-Windows Spotlight
+  link: https://kubernetes.io/blog/2020/06/30/sig-windows-spotlight-2020/
+  type: The Editorial
+- title: 'LOTE #13: Dave Sudia on Kubernetes Local Dev, Building a PaaS, and Platform
+    Personas'
+  link: https://www.getambassador.io/podcasts/dave-sudia-on-kubernetes-local-development-building-a-paas-and-platform-personas/
+  type: The Editorial
+- title: 'API Security: best practices to protect your digital channels'
+  link: https://blog.mia-platform.eu/en/api-security-best-practices-to-protect-your-digital-channels
+  type: The Editorial
+- title: Kubernetes Disaster Recovery using Kasten K10 platform
+  link: https://www.infracloud.io/k8s-disaster-recovery-using-kasten-k10/
+  type: The Editorial
+- title: Announcing the New Special Interest Group on Contributor Strategy
+  link: https://www.cncf.io/blog/2020/07/13/announcing-the-new-special-interest-group-on-contributor-strategy/
+  type: The Editorial
