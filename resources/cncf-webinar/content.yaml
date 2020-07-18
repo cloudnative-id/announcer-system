@@ -751,10 +751,10 @@ content:
   date: Jul 29 2020
   time: 7:00 - 8:00 AM PDT (UTC-7)
   url: https://www.cncf.io/webinars/event-driven-cloud-native-workflows-use-cases-and-patterns/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Maximizing M3 – Pushing performance boundaries in a
     distributed metrics engine at global scale'
   date: Aug 6 2020
   time: 10:00 - 11:00 AM PDT  (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-maximizing-m3-pushing-performance-boundaries-in-a-distributed-metrics-engine-at-global-scale/
-  isDelivered: false
+  isDelivered: true
