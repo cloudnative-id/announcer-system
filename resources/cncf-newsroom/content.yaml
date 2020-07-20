@@ -1016,28 +1016,28 @@ content:
 - title: Site Reliability Engineering (SRE) 101 with DevOps vs SRE
   url: https://www.cncf.io/blog/2020/07/17/site-reliability-engineering-sre-101-with-devops-vs-sre/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Ambassador Spotlight: Alex Ellis'
   url: https://www.cncf.io/blog/2020/07/16/cncf-ambassador-spotlight-alex-ellis/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Maintainer Spotlight: Goutham Veeramachaneni'
   url: https://www.cncf.io/blog/2020/07/16/cncf-maintainer-spotlight-goutham-veeramachaneni/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Project Spotlight: Fluentd'
   url: https://www.cncf.io/blog/2020/07/16/project-spotlight-fluentd/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Certified Kubernetes Security Specialist (CKS) Coming in November
   url: https://www.cncf.io/blog/2020/07/15/certified-kubernetes-security-specialist-cks-coming-in-november/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Fluent Bit v1.5: Lightweight and High-performance Log Processor'
   url: https://www.cncf.io/blog/2020/07/14/fluent-bit-v1-5-lightweight-and-high-performance-log-processor/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Announcing the New Special Interest Group on Contributor Strategy
   url: https://www.cncf.io/blog/2020/07/13/announcing-the-new-special-interest-group-on-contributor-strategy/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
