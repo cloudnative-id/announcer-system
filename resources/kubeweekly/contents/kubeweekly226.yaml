@@ -1,0 +1,110 @@
+title: 'kubeweekly #226'
+date: 07/24/2020
+source: kubeweekly
+data:
+- title: Advanced Cloud Engineer Bootcamp makes it simple for IT pros to learn cloud
+  link: https://www.cncf.io/blog/2020/07/22/advanced-cloud-engineer-bootcamp-to-make-it-simple-for-it-pros-to-learn-cloud/
+  type: The Headlines
+- title: Learn more
+  link: https://www.cncf.io/blog/2020/07/22/advanced-cloud-engineer-bootcamp-to-make-it-simple-for-it-pros-to-learn-cloud/
+  type: The Headlines
+- title: 'Tutorial: KubeEdge Hands on Workshop — Build Your Edge AI App on Real Edge
+    Devices '
+  link: https://sched.co/Zep5
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Project Webinar: Fluent Bit v1.5'
+  link: https://www.cncf.io/webinars/fluent-bit-v1-5/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Learn how to clean up your cloud-native “DevOps Dumping
+    Ground”'
+  link: https://www.cncf.io/webinars/learn-how-to-clean-up-your-cloud-native-devops-dumping-ground/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Kubernetes Security Anatomy and the Recently Disclosed
+    CVEs'
+  link: https://www.cncf.io/webinars/kubernetes-security-anatomy-and-the-recently-disclosed-cves/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Implementing Canary Releases on Kubernetes w/ Spinnaker,
+    Istio, and Prometheus'
+  link: https://www.cncf.io/webinars/implementing-canary-releases-on-kubernetes-w-spinnaker-istio-and-prometheus/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Kubernetes Secrets Management: Build Secure Apps Faster
+    Without Secrets'
+  link: https://www.cncf.io/webinars/kubernetes-secrets-management-build-secure-apps-faster-without-secrets/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Ambassador Webinar: Building application management platform with Open
+    Application Model'
+  link: https://www.cncf.io/webinars/cncf-ambassador-webinar-building-application-management-platform-with-open-application-model/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Observability of multi-party computation with OpenTelemetry'
+  link: https://www.cncf.io/webinars/observability-of-multi-party-computation-with-opentelemetry/
+  type: 'ICYMI: CNCF Webinars '
+- title: Where in the World is Phippy?
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/where-is-phippy/
+  type: ""
+- title: here
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/where-is-phippy/
+  type: ""
+- title: Forwarding Logs to Splunk Using the OpenShift Log Forwarding API
+  link: https://www.openshift.com/blog/forwarding-logs-to-splunk-using-the-openshift-log-forwarding-api
+  type: The Technical
+- title: Best practices for alerting on Kubernetes
+  link: https://sysdig.com/blog/alerting-kubernetes/
+  type: The Technical
+- title: Introduction to Istio access control
+  link: https://banzaicloud.com/blog/istio-authorization-policies/
+  type: The Technical
+- title: CRD is just a table in Kubernetes
+  link: https://itnext.io/crd-is-just-a-table-in-kubernetes-13e15367bbe4
+  type: The Technical
+- title: Shell-operator
+  link: https://github.com/flant/shell-operator
+  type: The Technical
+- title: Diving Into Istio 1.6 Certificate Rotation
+  link: https://blog.christianposta.com/diving-into-istio-1-6-certificate-rotation/
+  type: The Technical
+- title: Hidden Gems of Kops — Kubernetes Deployment Tool
+  link: https://dev.to/lambdastore/hidden-gems-of-kops-kubernetes-deployment-tool-2in5
+  type: The Technical
+- title: 'GKE best practices: Exposing applications through Ingress and Services'
+  link: https://cloud.google.com/blog/products/containers-kubernetes/exposing-services-on-gke
+  type: The Editorial
+- title: Instrumentation and cAdvisor, with David Ashpole
+  link: https://kubernetespodcast.com/episode/113-instrumentation-and-cadvisor/
+  type: The Editorial
+- title: Traffic Director and gRPC—proxyless services for your service mesh
+  link: https://cloud.google.com/blog/products/networking/traffic-director-supports-proxyless-grpc
+  type: The Editorial
+- title: Implementing a GitOps UI with Spotify’s Backstage
+  link: https://www.weave.works/blog/implementing-a-gitops-ui-with-spotify-s-backstage
+  type: The Editorial
+- title: Explaining Kubernetes in 10 minutes using an analogy
+  link: https://opensource.com/article/20/7/kubernetes-analogy
+  type: The Editorial
+- title: Introducing Gloo Federation for Multi-Cluster API Gateway Management
+  link: https://www.solo.io/blog/introducing-gloo-federation-for-multi-cluster-management/
+  type: The Editorial
+- title: Cloud Native Computing Foundation Takes Charge of Red Hat’s Operator Framework
+  link: https://thenewstack.io/cloud-native-computing-foundation-takes-charge-of-red-hats-operator-framework/
+  type: The Editorial
+- title: Announcing Clutch, the Open-source Platform for Infrastructure Tooling
+  link: https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713
+  type: The Editorial
+- title: 6 Kubernetes workflows and processes you can automate
+  link: https://enterprisersproject.com/article/2020/7/kubernetes-workflows-and-processes-can-automate
+  type: The Editorial
+- title: Managing Day 2 in a Hybrid Cloud Environment
+  link: https://nirmata.com/2020/07/22/managing-day-2-in-a-hybrid-cloud-environment/
+  type: The Editorial
+- title: Linkerd Case Studies
+  link: https://buoyant.io/2020/07/20/linkerd-case-studies/
+  type: The Editorial
+- title: Conftest joins the Open Policy Agent project
+  link: https://www.cncf.io/blog/2020/07/23/conftest-joins-the-open-policy-agent-project/
+  type: The Editorial
+- title: 'The Future of Instrumentation Is Open: Introducing Open Source Agents and
+    Projects at New Relic'
+  link: https://blog.newrelic.com/product-news/introducing-open-source-agents-and-projects/
+  type: The Editorial
