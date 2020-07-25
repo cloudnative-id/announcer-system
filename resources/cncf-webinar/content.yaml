@@ -758,3 +758,14 @@ content:
   time: 10:00 - 11:00 AM PDT  (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-maximizing-m3-pushing-performance-boundaries-in-a-distributed-metrics-engine-at-global-scale/
   isDelivered: true
+- title: 'CNCF Member Webinar: The Open-Source Observability Playbook'
+  date: Aug 12 2020
+  time: 7:00 - 8:00 AM PDT (UTC-7)
+  url: https://www.cncf.io/webinars/cncf-member-webinar-the-open-source-observability-playbook/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Migrating Real-Time Communication Applications to Kubernetes
+    at Scale: Learnings from 8×8’s Experience'
+  date: Aug 12 2020
+  time: 1:00 - 2:00 PM PDT (UTC-7)
+  url: https://www.cncf.io/webinars/cncf-member-webinar-migrating-real-time-communication-applications-to-kubernetes-at-scale-learnings-from-8x8s-experience/
+  isDelivered: false
