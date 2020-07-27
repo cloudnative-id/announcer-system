@@ -1045,29 +1045,29 @@ content:
     and exams as demand spikes”'
   url: https://www.cncf.io/news/2020/07/24/techrepublic-linux-foundation-offering-kubernetes-certifications-courses-and-exams-as-demand-spikes/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'TheServerSide: “How TUF can secure software systems from update vulnerabilities”'
   url: https://www.cncf.io/news/2020/07/17/how-tuf-can-secure-software-systems-from-update-vulnerabilities/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'Open Application Model: Carving building blocks for Platforms'
   url: https://www.cncf.io/blog/2020/07/24/open-application-model-carving-building-blocks-for-platforms/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Conftest joins the Open Policy Agent project
   url: https://www.cncf.io/blog/2020/07/23/conftest-joins-the-open-policy-agent-project/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Advanced Cloud Engineer Bootcamp makes it simple for IT pros to learn cloud
   url: https://www.cncf.io/blog/2020/07/22/advanced-cloud-engineer-bootcamp-to-make-it-simple-for-it-pros-to-learn-cloud/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Linkerd case studies: meeting security requirements, reducing latency, and
     migrating from Istio'
   url: https://www.cncf.io/blog/2020/07/21/linkerd-case-studies-meeting-security-requirements-reducing-latency-and-migrating-from-istio/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Which Kubernetes Certification Is Right For You?
   url: https://www.cncf.io/blog/2020/07/20/which-kubernetes-certification-is-right-for-you/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
