@@ -1,0 +1,82 @@
+title: 'kubeweekly #227'
+date: 08/01/2020
+source: kubeweekly
+data:
+- title: Scheduling, with David Oppenheimer
+  link: https://kubernetespodcast.com/episode/114-scheduling/
+  type: The Headlines
+- title: 'Jaeger Project Journey Report: A 917% increase in companies contributing
+    code'
+  link: https://www.cncf.io/blog/2020/07/30/jaeger-project-journey-report-a-917-increase-in-companies-contributing-code/
+  type: The Headlines
+- title: Read the full report
+  link: 'https://www.cncf.io/blog/2020/07/30/jaeger-project-journey-report-a-917-increase-in-companies-contributing-code/ '
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: One large cluster or lots of small ones? Pros, cons
+    and when to apply each approach'
+  link: https://www.cncf.io/webinars/one-large-cluster-or-lots-of-small-ones-pros-cons-and-when-to-apply-each-approach/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Kubernetes Policies 101'
+  link: https://www.cncf.io/webinars/kubernetes-policies-101/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: GitOps Continuous Delivery with Argo and Codefresh'
+  link: https://www.cncf.io/webinars/gitops-continuous-delivery-with-argo-and-codefresh/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Event-Driven Cloud Native Workflows Use Cases and Patterns'
+  link: https://www.cncf.io/webinars/event-driven-cloud-native-workflows-use-cases-and-patterns/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Cluster API – Yesterday, Today, Tomorrow'
+  link: https://www.cncf.io/webinars/webinar-cluster-api-yesterday-today-tomorrow/
+  type: 'ICYMI: CNCF Webinars '
+- title: Introducing Domain-Oriented Microservice Architecture
+  link: https://eng.uber.com/microservice-architecture/
+  type: The Technical
+- title: 12 Container image scanning best practices to adopt in production
+  link: https://sysdig.com/blog/image-scanning-best-practices/
+  type: The Technical
+- title: Certificate management on Istio
+  link: https://banzaicloud.com/blog/cert-management-on-istio/
+  type: The Technical
+- title: 'Kubernetes Secrets: A Secure Credential Store for Jenkins'
+  link: https://tech.ebayinc.com/research/kubernetes-secrets-a-secure-credential-store-for-jenkins/
+  type: The Technical
+- title: Conftest joins the Open Policy Agent project
+  link: https://www.cncf.io/blog/2020/07/23/conftest-joins-the-open-policy-agent-project/
+  type: The Technical
+- title: 'GitOps Continued: Using Tekton for CI and Argo for CD'
+  link: https://www.twitch.tv/videos/688300214?t=00h04m10s
+  type: The Technical
+- title: The Seccomp Notifier – New Frontiers in Unprivileged Container Development
+  link: https://people.kernel.org/brauner/the-seccomp-notifier-new-frontiers-in-unprivileged-container-development
+  type: The Technical
+- title: Introduction to instrumenting applications with Prometheus
+  link: https://sysdig.com/blog/introduction-instrumenting-applications-prometheus/
+  type: The Technical
+- title: Deny Rules! Fine-Grained Kubernetes Access Controls with Kyverno
+  link: https://medium.com/@shutting06/deny-rules-fine-grained-kubernetes-access-controls-with-kyverno-88eaffb7bc6
+  type: The Technical
+- title: 'The Kubernetes CPU Manager: a Ghost Story'
+  link: https://medium.com/redbubble/the-kubernetes-cpu-manager-a-ghost-story-4ef9575a0791
+  type: The Editorial
+- title: An Introduction to the Cloud Native Landscape
+  link: https://thenewstack.io/an-introduction-to-the-cloud-native-landscape/ 
+  type: The Editorial
+- title: A Kubernetes Ghost Story
+  link: https://www.youtube.com/watch?v=_i9Qey_tRc0
+  type: The Editorial
+- title: An Interview with CNCF GM & Heavybit Advisor, Priyanka Sharma
+  link: https://www.heavybit.com/library/blog/an-interview-with-cncf-gm-heavybit-adivsor-priyanka-sharma/
+  type: The Editorial
+- title: KUDO or how to simply create your Kubernetes operator with Denis Jannot (in
+    French)
+  link: https://electro-monkeys.fr/?p=354
+  type: The Editorial
+- title: How Policy Engines Make Day 2 Easier
+  link: https://nirmata.com/2020/07/29/how-policy-engines-make-day-2-easier/ 
+  type: The Editorial
+- title: Announcing Vitess 7
+  link: https://www.cncf.io/blog/2020/07/28/announcing-vitess-7/
+  type: The Editorial
