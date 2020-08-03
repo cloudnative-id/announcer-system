@@ -1075,95 +1075,95 @@ content:
     Native Community”'
   url: https://www.cncf.io/news/2020/07/28/the-new-stack-googles-management-of-istio-raises-questions-in-the-cloud-native-community/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'ZDNet: “The Linux Foundation offers Advanced Cloud Engineer Bootcamp program”'
   url: https://www.cncf.io/news/2020/07/22/zdnet-the-linux-foundation-offers-advanced-cloud-engineer-bootcamp-program/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'HelpNetSecurity: “The Linux Foundation develops certification to enable
     cloud native pros demonstrate competence”'
   url: https://www.cncf.io/news/2020/07/17/helpnetsecurity-the-linux-foundation-develops-certification-to-enable-cloud-native-pros-demonstrate-competence/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'TechTarget: “Google’s OUC play muddies Istio service mesh outlook”'
   url: https://www.cncf.io/news/2020/07/16/techtarget-googles-ouc-play-muddies-istio-service-mesh-outlook/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'TechBeacon: “KubeCon + CloudNativeCon Europe: Cloud native goes mainstream”'
   url: https://www.cncf.io/news/2020/07/15/techbeacon-kubecon-cloudnativecon-europe-cloud-native-goes-mainstream/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'Container Journal: “Linux Foundation Partners With CNCF on Kubernetes Certs,
     Training”'
   url: https://www.cncf.io/news/2020/07/15/container-journal-linux-foundation-partners-with-cncf-on-kubernetes-certs-training/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'ContainerJournal: “Google Proposes Changes to Istio Steering Committee”'
   url: https://www.cncf.io/news/2020/07/14/containerjournal-google-proposes-changes-to-istio-steering-committee/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'ContainerJournal: “CNCF Embraces Operator Framework to Manage Kubernetes
     Environments”'
   url: https://www.cncf.io/news/2020/07/10/containerjournal-cncf-embraces-operator-framework-to-manage-kubernetes-environments/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'Computing: “Interview: CNCF head Priyanka Sharma – ‘The arc of innovation
     is long and it bends towards true open source''”'
   url: https://www.cncf.io/news/2020/07/10/computing-interview-cncf-head-priyanka-sharma-the-arc-of-innovation-is-long-and-it-bends-towards-true-open-source/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'SDxCentral: “Google Committed to CNCF Despite Istio Snub”'
   url: https://www.cncf.io/news/2020/07/10/sdxcentral-google-committed-to-cncf-despite-istio-snub/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'SDxCentral: “Google’s Istio Move Irks IBM, Confounds Industry”'
   url: https://www.cncf.io/news/2020/07/09/sdxcentral-googles-istio-move-irks-ibm-confounds-industry/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'The New Stack: “Contour Ingress Controller Joins CNCF at Incubation Level”'
   url: https://www.cncf.io/news/2020/07/09/the-new-stack-contour-ingress-controller-joins-cncf-at-incubation-level/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'DevClass: “CNCF relaxes Sandbox process, welcomes new Incubating project”'
   url: https://www.cncf.io/news/2020/07/09/devclass-cncf-relaxes-sandbox-process-welcomes-new-incubating-project/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'The New Stack: “Google Launches Organization to Protect Trademarks for Istio,
     Angular and Other Open Source Projects”'
   url: https://www.cncf.io/news/2020/07/08/the-new-stack-google-launches-organization-to-protect-trademarks-for-istio-angular-and-other-open-source-projects/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'ContainerJournal: “CNCF Adds Contour Ingress Controller as Incubation Project”'
   url: https://www.cncf.io/news/2020/07/08/containerjournal-cncf-adds-contour-ingress-controller-as-incubation-project/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'SiliconANGLE: “VMware’s Contour becomes the CNCF’s latest incubation-level
     project”'
   url: https://www.cncf.io/news/2020/07/07/siliconangle-vmwares-contour-becomes-the-cncfs-latest-incubation-level-project/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'SDxCentral: “CNCF Leadership Change Targets Cloud Native ‘Second Wave’”'
   url: https://www.cncf.io/news/2020/07/06/sdxcentral-cncf-leadership-change-targets-cloud-native-second-wave/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'Kubernetes RBAC 101: Authentication'
   url: https://www.cncf.io/blog/2020/07/31/kubernetes-rbac-101-authentication/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Jaeger Project Journey Report: A 917% increase in companies contributing
     code'
   url: https://www.cncf.io/blog/2020/07/30/jaeger-project-journey-report-a-917-increase-in-companies-contributing-code/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: How to avoid the 503 error!
   url: https://www.cncf.io/blog/2020/07/29/how-to-avoid-the-503-error/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Announcing Vitess 7
   url: https://www.cncf.io/blog/2020/07/28/announcing-vitess-7/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Logging in Kubernetes: EFK vs PLG Stack'
   url: https://www.cncf.io/blog/2020/07/27/logging-in-kubernetes-efk-vs-plg-stack/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
