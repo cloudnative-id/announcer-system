@@ -1,0 +1,85 @@
+title: 'kubeweekly #228'
+date: 08/07/2020
+source: kubeweekly
+data:
+- title: 4 Tips for Maximizing Your Virtual KubeCon Experience
+  link: https://www.cncf.io/blog/2020/08/03/4-tips-for-maximizing-your-virtual-kubecon-experience/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/blog/2020/08/03/4-tips-for-maximizing-your-virtual-kubecon-experience/
+  type: The Headlines
+- title: 'Keynote: How to Love K8s and Not Wreck the Planet'
+  link: https://sched.co/ZfGQ
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Project Webinar: How We Doubled System Read Throughput with Only 26
+    Lines of Code'
+  link: https://www.cncf.io/webinars/how-we-doubled-system-read-throughput-with-only-26-lines-of-code/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Comparing eBPF and Istio/Envoy for Monitoring Microservice
+    Interactions'
+  link: https://www.cncf.io/webinars/comparing-ebpf-and-istio-envoy-for-monitoring-microservice-interactions/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Making Data Work for Developers with Kubernetes & Cassandra'
+  link: https://www.cncf.io/webinars/making-data-work-for-developers-with-kubernetes-cassandra/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Debugging your debugging tools; What to do when your
+    service mesh goes down in production?'
+  link: https://www.cncf.io/webinars/debugging-your-debugging-tools-what-to-do-when-your-service-mesh-goes-down-in-production/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Maximizing M3 – Pushing performance boundaries in a
+    distributed metrics engine at global scale'
+  link: https://www.cncf.io/webinars/cncf-member-webinar-maximizing-m3-pushing-performance-boundaries-in-a-distributed-metrics-engine-at-global-scale/
+  type: 'ICYMI: CNCF Webinars '
+- title: Providing Persistent Storage to Windows Containers
+  link: https://www.openshift.com/blog/providing-persistent-storage-to-windows-containers
+  type: The Technical
+- title: Why I use Ingress Controllers to expose Kubernetes services
+  link: https://opensource.com/article/20/8/ingress-controllers-kubernetes
+  type: The Technical
+- title: Sandboxing and Workload Isolation
+  link: https://fly.io/blog/sandboxing-and-workload-isolation/
+  type: The Technical
+- title: How To Set Up and Secure an etcd Cluster with Ansible on Ubuntu 18.04
+  link: https://www.digitalocean.com/community/tutorials/how-to-set-up-and-secure-an-etcd-cluster-with-ansible-on-ubuntu-18-04
+  type: The Technical
+- title: Kubernetes in Production with Jessica Deen at swampUP 2020
+  link: https://jfrog.com/blog/kubernetes-in-production-with-jessica-deen-at-swampup-2020/
+  type: The Technical
+- title: How we migrated Dropbox from Nginx to Envoy
+  link: https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy
+  type: The Technical
+- title: The Easiest And Fastest Way To Deploy An OKD 4.5 Cluster In A Libvirt/KVM
+    Host
+  link: https://www.anstack.com/blog/2020/07/31/the-fastest-and-simplest-way-to-deploy-okd-openshift-4-5.html
+  type: The Technical
+- title: Goldpinger
+  link: https://github.com/bloomberg/goldpinger
+  type: The Technical
+- title: 'Public Sector on Air: Managed Openshift on AWS w/ Tres Vance'
+  link: https://www.twitch.tv/videos/699393236?t=00h01m35s
+  type: The Technical
+- title: Deconstructing Kubernetes Networking
+  link: https://eevans.co/blog/deconstructing-kubernetes-networking/ 
+  type: The Technical
+- title: Minikube Redux, with Thomas Strömberg
+  link: https://kubernetespodcast.com/episode/115-minikube-redux/
+  type: The Editorial
+- title: 'LOTE #14: Katie Gamanji on Kubernetes Tooling DX, GitOps, and the Cluster
+    API'
+  link: https://www.getambassador.io/podcasts/katie-gamanji-on-kubernetes-tooling-dx-gitops-and-the-cluster-api/
+  type: The Editorial
+- title: The community hat rules the company hat in open source
+  link: https://www.infoworld.com/article/3569373/the-community-hat-rules-the-company-hat-in-open-source.html
+  type: The Editorial
+- title: 3 reasons to use an enterprise Kubernetes platform
+  link: https://enterprisersproject.com/article/2020/7/enterprise-kubernetes-platform-3-reasons-to-use
+  type: The Editorial
+- title: The Ups and Downs of Box’s Kubernetes Journey
+  link: https://thenewstack.io/?p=11959909
+  type: The Editorial
+- title: A Guide to Untangling the CNCF Cross-Community Relationships
+  link: https://www.cncf.io/blog/2020/08/04/a-guide-to-untangling-the-cncf-cross-community-relationships/
+  type: The Editorial
