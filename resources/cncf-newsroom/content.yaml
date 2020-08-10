@@ -1171,34 +1171,34 @@ content:
     with completion of security audit”'
   url: https://www.cncf.io/news/2020/08/05/container-journal-the-cncf-etcd-project-reaches-a-significant-milestone-with-completion-of-security-audit/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'DevClass: “What’s the point: Vitess, Cloudflare Workers Unbound, Kuma, New
     Relic, GitHub, and Oso”'
   url: https://www.cncf.io/news/2020/08/04/devclass-whats-the-point-vitess-cloudflare-workers-unbound-kuma-new-relic-github-and-oso/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 4 Tips for Maximizing Your Virtual KubeCon Experience
   url: https://www.cncf.io/blog/2020/08/03/4-tips-for-maximizing-your-virtual-kubecon-experience/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Common Kubernetes Config Security Threats
   url: https://www.cncf.io/blog/2020/08/07/common-kubernetes-config-security-threats/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: How the Productivity Software Company Nulab Boosted Its Own Productivity
     with Microservices and Kubernetes
   url: https://www.cncf.io/blog/2020/08/06/how-the-productivity-software-company-nulab-boosted-its-own-productivity-with-microservices-and-kubernetes/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'OpenTelemetry: Future-Proofing Your Instrumentation'
   url: https://www.cncf.io/blog/2020/08/06/opentelemetry-future-proofing-your-instrumentation/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Open Sourcing the etcd Security Audit
   url: https://www.cncf.io/blog/2020/08/05/etcd-security-audit/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: A Guide to Untangling the CNCF Cross-Community Relationships
   url: https://www.cncf.io/blog/2020/08/04/a-guide-to-untangling-the-cncf-cross-community-relationships/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
