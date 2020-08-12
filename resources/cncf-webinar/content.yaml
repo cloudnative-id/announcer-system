@@ -795,3 +795,8 @@ content:
   time: 10:00 - 11:00 AM PDT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-achieving-least-privilege-access-in-kubernetes/
   isDelivered: true
+- title: 'CNCF Member Webinar: MLOps automation with Git Based CI/CD for ML'
+  date: Aug 26 2020
+  time: 1:00 - 2:00 PM PDT (UTC-7)
+  url: https://www.cncf.io/webinars/cncf-member-webinar-mlops-automation-with-git-based-ci-cd-for-ml/
+  isDelivered: false
