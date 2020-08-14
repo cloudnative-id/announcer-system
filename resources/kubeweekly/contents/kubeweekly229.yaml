@@ -1,0 +1,103 @@
+title: 'kubeweekly #229'
+date: 08/14/2020
+source: kubeweekly
+data:
+- title: Register today! 
+  link: https://www.cvent.com/d/5hq9h4/4W?ct=50221cf5-5496-4c34-9ec0-3b52b1bf1204&RefID=KW08142020
+  type: The Headlines
+- title: CKA exam
+  link: https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+  type: The Headlines
+- title: CKAD exam 
+  link: https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad
+  type: The Headlines
+- title: CKA exam
+  link: https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+  type: The Headlines
+- title: CKAD exam
+  link: https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad
+  type: The Headlines
+- title: course catalog
+  link: https://training.linuxfoundation.org/training/course-catalog/
+  type: The Headlines
+- title: co-located events
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/colocated-events/
+  type: The Headlines
+- title: AWS Container Day 2020
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/colocated-events/#aws-container-day-2020-hosted-by-aws
+  type: The Headlines
+- title: Building a DevOps Pipeline with Kubernetes and Apache Cassandra™
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/colocated-events/#building-a-devops-pipeline-with-kubernetes-and-apache-cassandra
+  type: The Headlines
+- title: Cloud Native ROOST Hack-a-thon
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/colocated-events/#cloud-native-roost-hack-a-thon
+  type: The Headlines
+- title: Cloud Native Security Day
+  link: https://events.linuxfoundation.org/cloud-native-security-day/
+  type: The Headlines
+- title: 'KubeAcademy: Introduction to Containers and Kubernetes'
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/colocated-events/#kubeacademy
+  type: The Headlines
+- title: NSMCon
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/colocated-events/#nsmcon
+  type: The Headlines
+- title: Serverless Practitioners Summit
+  link: https://events.linuxfoundation.org/serverless-practitioners-summit/
+  type: The Headlines
+- title: ServiceMeshCon
+  link: https://events.linuxfoundation.org/servicemeshcon/
+  type: The Headlines
+- title: Log into
+  link: https://www.cvent.com/events/Register/RegNumConfirmation.aspx?i=3bc8cd6f-08c9-442c-9371-b9e8c22e8cbe
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Ambassador Webinar: GitOps, DSL and App Model – Getting Started Building
+    Developer Centric Kubernetes'
+  link: https://www.cncf.io/webinars/cncf-ambassador-webinar/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Hardware for Kubernetes, Peeling Back the Layers'
+  link: https://www.cncf.io/webinars/hardware-for-kubernetes-peeling-back-the-layers/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Migrating Real-Time Communication Applications to Kubernetes
+    at Scale: Learnings from 8×8’s Experience'
+  link: https://www.cncf.io/webinars/cncf-member-webinar-migrating-real-time-communication-applications-to-kubernetes-at-scale-learnings-from-8x8s-experience/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: The Open-Source Observability Playbook'
+  link: https://www.cncf.io/webinars/cncf-member-webinar-the-open-source-observability-playbook/
+  type: 'ICYMI: CNCF Webinars '
+- title: 5 reasons to run Kubernetes on your Raspberry Pi homelab
+  link: https://opensource.com/article/20/8/kubernetes-raspberry-pi
+  type: The Technical
+- title: '7 Best Practices for Writing Kubernetes Operators: An SRE Perspective'
+  link: https://www.openshift.com/blog/7-best-practices-for-writing-kubernetes-operators-an-sre-perspective
+  type: The Technical
+- title: 'DevNation Tech Talk: 10 awesome Kubernetes tools every user should know'
+  link: https://www.twitch.tv/videos/709079582?t=00h01m01s
+  type: The Technical
+- title: How to monitor etcd
+  link: https://sysdig.com/blog/monitor-etcd/
+  type: The Technical
+- title: The “podman play kube” command now supports deployments
+  link: https://www.redhat.com/sysadmin/podman-play-kube
+  type: The Technical
+- title: Independent Open Source, with Alex Ellis
+  link: https://kubernetespodcast.com/episode/116-independent-open-source/
+  type: The Editorial
+- title: Service Mesh With Michelle Noorali and Delyan Raychev
+  link: https://www.arresteddevops.com/service-mesh/
+  type: The Editorial
+- title: Introducing Tekton Hub
+  link: https://cd.foundation/blog/2020/08/10/introducing-tekton-hub/
+  type: The Editorial
+- title: Envoy 1.15 introduces a new Postgres extension with monitoring support
+  link: https://www.cncf.io/blog/2020/08/13/envoy-1-15-introduces-a-new-postgres-extension-with-monitoring-support/
+  type: The Editorial
+- title: Protecting Kubernetes applications data using Kanister
+  link: https://www.infracloud.io/blogs/protecting-kubernetes-applications-with-kanister/
+  type: The Editorial
+- title: 21 CNCF Interns Graduate from the Q2 2020 Linux Foundation CommunityBridge
+    Program
+  link: https://www.cncf.io/blog/2020/08/13/21-cncf-interns-graduate-from-the-q2-2020-linux-foundation-communitybridge-program/
+  type: The Editorial
