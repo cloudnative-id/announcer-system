@@ -804,26 +804,26 @@ content:
   date: Aug 26 2020
   time: 7:00 AM - 8:00 AM PDT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-local-development-in-the-age-of-kubernetes/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Running the next generation of cloud-native applications
     using Open Application Model (OAM)'
   date: Sep 3 2020
   time: 10:00 - 11:00 AM PDT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-running-the-next-generation-of-cloud-native-applications-using-open-application-model-oam/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Arm Developer Experience Spanning Cloud, 5G and IoT'
   date: Sep 8 2020
   time: 10:00 - 11:00 AM PDT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-arm-developer-experience-spanning-cloud-5g-and-iot/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Building a Cloud-Native Technology Stack that Supports
     Full Cycle Development'
   date: Sep 9 2020
   time: 7:00 - 8:00 AM PDT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-building-a-cloud-native-technology-stack-that-supports-full-cycle-development/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Effective Kubernetes Onboarding'
   date: Sep 16 2020
   time: 1:00 - 2:00 PM PDT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-effective-kubernetes-onboarding/
-  isDelivered: false
+  isDelivered: true
