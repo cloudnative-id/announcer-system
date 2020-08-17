@@ -1206,45 +1206,45 @@ content:
     Q&A with Priyanka Sharma'
   url: https://www.cncf.io/news/2020/08/14/infoq-kubecon-eu-cncf-community-and-role-of-the-cloud-during-the-pandemic-qa-with-priyanka-sharma/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: 'DevOps.com: “CNCF Provides Jaeger Distributed Tracing Update”'
   url: https://www.cncf.io/news/2020/08/10/devops-com-cncf-provides-jaeger-distributed-tracing-update/
   kind: In The News
-  isDelivered: false
+  isDelivered: true
 - title: Why the Kubernetes Scheduler Is Not Enough for Your AI Workloads
   url: https://www.cncf.io/blog/2020/08/10/why-the-kubernetes-scheduler-is-not-enough-for-your-ai-workloads/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: State of Cloud Native Development
   url: https://www.cncf.io/blog/2020/08/14/state-of-cloud-native-development/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Envoy 1.15 introduces a new Postgres extension with monitoring support
   url: https://www.cncf.io/blog/2020/08/13/envoy-1-15-introduces-a-new-postgres-extension-with-monitoring-support/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'Introducing Policy As Code: The Open Policy Agent (OPA)'
   url: https://www.cncf.io/blog/2020/08/13/introducing-policy-as-code-the-open-policy-agent-opa/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 'The Magic Trick of CQRS: Decoupling of Microservice Data'
   url: https://www.cncf.io/blog/2020/08/13/49940/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: 21 CNCF Interns Graduate from the Q2 2020 Linux Foundation CommunityBridge
     Program
   url: https://www.cncf.io/blog/2020/08/13/21-cncf-interns-graduate-from-the-q2-2020-linux-foundation-communitybridge-program/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Using DRBD block devices for kubevirt
   url: https://www.cncf.io/blog/2020/08/12/using-drbd-block-devices-for-kubevirt/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: CNCF Project Envoy enables Arm64 CI using Azure Pipelines on AWS Graviton2
   url: https://www.cncf.io/blog/2020/08/12/cncf-project-envoy-enables-arm64-ci-using-azure-pipelines/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
 - title: Extending Kubernetes to an unlimited one through tensile-kube
   url: https://www.cncf.io/blog/2020/08/11/extending-kubernetes-to-an-unlimited-one-through-tensile-kube/
   kind: Blog
-  isDelivered: false
+  isDelivered: true
