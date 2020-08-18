@@ -832,4 +832,4 @@ content:
   date: Aug 25 2020
   time: 10:00 - 11:00 AM PDT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-modern-software-development-pipeline-a-security-reference-architecture/
-  isDelivered: false
+  isDelivered: true
