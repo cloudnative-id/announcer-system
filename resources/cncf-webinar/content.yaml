@@ -837,14 +837,14 @@ content:
   date: Sep 16 2020
   time: 1:00 - 2:00 PM PDT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-effective-kubernetes-onboarding-2/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: How To Run Kubernetes Securely and Efficiently'
   date: Sep 16 2020
   time: 7:00 - 8:00 AM PDT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-how-to-run-kubernetes-securely-and-efficiently/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Declaratively Managing Apps in a Multi-Cluster World'
   date: Sep 17 2020
   time: 10:00 - 11:00 AM PDT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-member-webinar-declaratively-managing-apps-in-a-multi-cluster-world/
-  isDelivered: false
+  isDelivered: true
