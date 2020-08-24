@@ -1248,3 +1248,97 @@ content:
   url: https://www.cncf.io/blog/2020/08/11/extending-kubernetes-to-an-unlimited-one-through-tensile-kube/
   kind: Blog
   isDelivered: true
+- title: Cloud Native Computing Foundation Grants Zalando the Top End User Award 
+  url: https://www.cncf.io/announcement/2020/08/20/cloud-native-computing-foundation-grants-zalando-the-top-end-user-award/
+  kind: Announcements
+  isDelivered: false
+- title: Cloud Native Computing Foundation Announces Intuit as Gold Member
+  url: https://www.cncf.io/announcement/2020/08/18/cloud-native-computing-foundation-announces-intuit-as-gold-member/
+  kind: Announcements
+  isDelivered: false
+- title: Cloud Native Computing Foundation Welcomes New Members during KubeCon + CloudNativeCon
+    EU – Virtual
+  url: https://www.cncf.io/announcement/2020/08/18/cloud-native-computing-foundation-welcomes-new-members-during-kubecon-cloudnativecon-eu-virtual/
+  kind: Announcements
+  isDelivered: false
+- title: 'Computing: “Monzo: we learned a lot from self-hosting Kubernetes, but we
+    wouldn’t do it again”'
+  url: https://www.cncf.io/news/2020/08/20/computing-monzo-we-learned-a-lot-from-self-hosting-kubernetes-but-we-wouldnt-do-it-again/
+  kind: In The News
+  isDelivered: false
+- title: 'InformationWeek: “KubeCon + CloudNativeCon Shows Enterprise Software Dev
+    Growth”'
+  url: https://www.cncf.io/news/2020/08/20/informationweek-kubecon-cloudnativecon-shows-enterprise-software-dev-growth/
+  kind: In The News
+  isDelivered: false
+- title: 'DevClass: “Prometheus, isn’t it? CNCF rounds off community shindig by slipping
+    Thanos and Cortex into incubator”'
+  url: https://www.cncf.io/news/2020/08/20/devclass-prometheus-isnt-it-cncf-rounds-off-community-shindig-by-slipping-thanos-and-cortex-into-incubator/
+  kind: In The News
+  isDelivered: false
+- title: 'SearchITOperations: “GitOps gains momentum among Kubernetes deployment tools”'
+  url: https://www.cncf.io/news/2020/08/19/searchitoperations-gitops-gains-momentum-among-kubernetes-deployment-tools/
+  kind: In The News
+  isDelivered: false
+- title: 'Container Journal: “CNCF: Cloud-Native Ecosystem Expansion Continues”'
+  url: https://www.cncf.io/news/2020/08/19/container-journal-cncf-cloud-native-ecosystem-expansion-continues/
+  kind: In The News
+  isDelivered: false
+- title: 'ITOps Times: “KubeCon + CloudNativeCon EU: Carbon Relay releases Red Sky
+    Ops free edition, Cloudtamer.io and Kublr announce integration, and more”'
+  url: https://www.cncf.io/news/2020/08/18/itops-times-kubecon-cloudnativecon-eu-carbon-relay-releases-red-sky-ops-free-edition-cloudtamer-io-and-kublr-announce-integration-and-more/
+  kind: In The News
+  isDelivered: false
+- title: 'ITOps Times: “What’s coming in Kubernetes 1.19”'
+  url: https://www.cncf.io/news/2020/08/18/itops-times-whats-coming-in-kubernetes-1-19/
+  kind: In The News
+  isDelivered: false
+- title: 'SiliconANGLE: “Open source shows its enterprise value as CNCF moves through
+    its fifth year”'
+  url: https://www.cncf.io/news/2020/08/18/siliconangle-open-source-shows-its-enterprise-value-as-cncf-moves-through-its-fifth-year/
+  kind: In The News
+  isDelivered: false
+- title: 'SiliconANGLE: “Traditional enterprise tests the waters of the open-source
+    community pool as cloud native gains mainstream approval”'
+  url: https://www.cncf.io/news/2020/08/18/siliconangle-traditional-enterprise-tests-the-waters-of-the-open-source-community-pool-as-cloud-native-gains-mainstream-approval/
+  kind: In The News
+  isDelivered: false
+- title: 'SiliconANGLE: “What would CNCF do? Team ‘cloud native’ tackles 2020 challenges
+    through open-source ethos”'
+  url: https://www.cncf.io/news/2020/08/18/siliconangle-what-would-cncf-do-team-cloud-native-tackles-2020-challenges-through-open-source-ethos/
+  kind: In The News
+  isDelivered: false
+- title: 'The New Stack ” KubeCon EU: Surge of Kubernetes Edge Deployments Leads to
+    Cluster Sprawl”'
+  url: https://www.cncf.io/news/2020/08/18/the-new-stack-kubecon-eu-surge-of-kubernetes-edge-deployments-leads-to-cluster-sprawl/
+  kind: In The News
+  isDelivered: false
+- title: 'The New Stack: “Introducing Contour: Routing Traffic to Applications in
+    Kubernetes”'
+  url: https://www.cncf.io/news/2020/08/07/the-new-stack-introducing-contour-routing-traffic-to-applications-in-kubernetes/
+  kind: In The News
+  isDelivered: false
+- title: 'Kubernetes Troubleshooting: 7 Essential Steps for Delivering Reliable Applications'
+  url: https://www.cncf.io/blog/2020/08/21/kubernetes-troubleshooting-7-essential-steps-for-delivering-reliable-applications/
+  kind: Blog
+  isDelivered: false
+- title: 'Understandability: The Most Important Metric You’re Not Tracking'
+  url: https://www.cncf.io/blog/2020/08/20/understandability-what-is-it/
+  kind: Blog
+  isDelivered: false
+- title: TOC Welcomes Cortex as an Incubating Project
+  url: https://www.cncf.io/blog/2020/08/20/toc-welcomes-cortex-as-an-incubating-project/
+  kind: Blog
+  isDelivered: false
+- title: TOC Approves Thanos from Sandbox to Incubation
+  url: https://www.cncf.io/blog/2020/08/19/toc-approves-thanos-from-sandbox-to-incubation/
+  kind: Blog
+  isDelivered: false
+- title: 'Jaeger Turns Five: A Tribute to Project Contributors'
+  url: https://www.cncf.io/blog/2020/08/18/jaeger-turns-five-a-tribute-to-project-contributors/
+  kind: Blog
+  isDelivered: false
+- title: 'Falco Update: What’s new in Falco?'
+  url: https://www.cncf.io/blog/2020/08/17/falco-update-whats-new-in-falco-0-25/
+  kind: Blog
+  isDelivered: false
