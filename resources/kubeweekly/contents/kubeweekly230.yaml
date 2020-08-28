@@ -1,0 +1,82 @@
+title: 'kubeweekly #230'
+date: 08/28/2020
+source: kubeweekly
+data:
+- title: Kubernetes 1.19 released
+  link: https://kubernetes.io/blog/2020/08/26/kubernetes-release-1.19-accentuate-the-paw-sitive/
+  type: The Headlines
+- title: interview with the release manager Taylor Dolezal on this week’s Kubernetes
+    Podcast
+  link: https://kubernetespodcast.com/episode/118-kubernetes-1.19/
+  type: The Headlines
+- title: A Look Back at our FIRST KubeCon + CloudNativeCon Virtual Conference
+  link: https://www.cncf.io/blog/2020/08/26/a-look-back-at-our-first-kubecon-cloudnativecon-virtual-conference/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/blog/2020/08/26/a-look-back-at-our-first-kubecon-cloudnativecon-virtual-conference/
+  type: The Headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Modern Software Development Pipeline: A Security Reference
+    Architecture'
+  link: https://www.cncf.io/webinars/cncf-member-webinar-modern-software-development-pipeline-a-security-reference-architecture/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: MLOps automation with Git Based CI/CD for ML'
+  link: https://www.cncf.io/webinars/cncf-member-webinar-mlops-automation-with-git-based-ci-cd-for-ml/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: Local Development in The Age of Kubernetes'
+  link: https://www.cncf.io/webinars/cncf-member-webinar-local-development-in-the-age-of-kubernetes/
+  type: 'ICYMI: CNCF Webinars '
+- title: 'CNCF Member Webinar: How to migrate databases into Kubernetes?'
+  link: https://www.cncf.io/webinars/cncf-member-webinar-how-to-migrate-databases-into-kubernetes/
+  type: 'ICYMI: CNCF Webinars '
+- title: Introducing Hierarchical Namespaces
+  link: https://kubernetes.io/blog/2020/08/14/introducing-hierarchical-namespaces/
+  type: The Technical
+- title: Moving Forward From Beta
+  link: https://kubernetes.io/blog/2020/08/21/moving-forward-from-beta/
+  type: The Technical
+- title: Design Considerations at the Edge of the ServiceMesh
+  link: https://www.openshift.com/blog/design-considerations-at-the-edge-of-the-servicemesh
+  type: The Technical
+- title: Zero-Downtime Kubernetes Deployments
+  link: https://sbg.technology/2020/08/21/zero-downtime-kubernetes-deployments/
+  type: The Technical
+- title: Google chooses Cilium for GKE networking
+  link: https://cilium.io/blog/2020/08/19/google-chooses-cilium-for-gke-networking/
+  type: The Technical
+- title: 'ArgoCD and Tekton: Match made in Kubernetes heaven'
+  link: https://www.twitch.tv/videos/716089280
+  type: The Technical
+- title: An introduction to installing Prometheus with Minikube
+  link: https://www.redhat.com/sysadmin/installing-prometheus
+  type: The Technical
+- title: How To Manage Your Kubernetes Configurations with Kustomize 
+  link: https://www.digitalocean.com/community/tutorials/how-to-manage-your-kubernetes-configurations-with-kustomize
+  type: The Technical
+- title: Terrascan Leverages OPA to Make Policy as Code Extensible
+  link: https://www.accurics.com/blog/products/terrascan-opa-policy-as-code/
+  type: The Editorial
+- title: Kubernetes engineers keep your favorite software running
+  link: https://blog.google/products/google-cloud/kubernetes-engineers-keep-your-favorite-software-running/
+  type: The Editorial
+- title: Looking ahead as GKE, the original managed Kubernetes, turns 5
+  link: https://cloud.google.com/blog/products/containers-kubernetes/5-ways-google-cloud-is-making-gke-the-best-place-to-run-kubernetes
+  type: The Editorial
+- title: 'KubeCon EU: Accurics, Snyk Release Tools to Secure Infrastructure-as-Code
+    Deployments'
+  link: https://thenewstack.io/kubecon-eu-accurics-snyk-release-tools-to-secure-infrastructure-as-code-deployments/
+  type: The Editorial
+- title: Use Virtual Clusters to Tame Sprawl in Kubernetes
+  link: https://nirmata.com/2020/08/14/use-virtual-clusters-to-tame-sprawl-in-kubernetes/
+  type: The Editorial
+- title: 'Complexity: Your Day 2 Enemy'
+  link: https://nirmata.com/2020/08/18/complexity-your-day-2-enemy/
+  type: The Editorial
+- title: JaegerTracing announces v1.19 release
+  link: https://github.com/jaegertracing/jaeger/releases/tag/v1.19.2
+  type: The Editorial
+- title: Simplify Edge Networking for Different Kubernetes Providers
+  link: https://itnext.io/simplify-edge-networking-for-different-kubernetes-providers-3f275545d5c6
+  type: The Editorial
