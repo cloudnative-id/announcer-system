@@ -853,25 +853,25 @@ content:
   date: Sep 2 2020
   time: 7:00-8:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/cncf-has-99-k8s-distros-and-this-is-how-and-why-we-built-one-more-okd4-on-fcos/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Ambassador Webinar: Hybrid Serverless Development using Quarkus and
     Kubernetes'
   date: Sep 11 2020
   time: 1:00-2:00 PM PT (UTC-7)
   url: https://www.cncf.io/webinars/hybrid-serverless-development-using-quarkus-and-kubernetes/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: ChubaoFS Best Practices'
   date: Sep 15 2020
   time: 10:00-11:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/chubaofs-best-practices/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Using KubeVirt in Telcos'
   date: Sep 23 2020
   time: 7:00-8:00 AM PT (UTC-7)
   url: https://www.cncf.io/webinars/using-kubevirt-in-telcos/
-  isDelivered: false
+  isDelivered: true
 - title: 'CNCF Member Webinar: Mitigating Kubernetes Attacks'
   date: Sep 23 2020
   time: 1:00-2:00 PM PT (UTC-7)
   url: https://www.cncf.io/webinars/mitigating-kubernetes-attacks/
-  isDelivered: false
+  isDelivered: true
