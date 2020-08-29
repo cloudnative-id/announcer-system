@@ -875,3 +875,19 @@ content:
   time: 1:00-2:00 PM PT (UTC-7)
   url: https://www.cncf.io/webinars/mitigating-kubernetes-attacks/
   isDelivered: true
+- title: 'CNCF Member Webinar: Highly scalable SaaS Apps on Kubernetes: Real Life
+    Case Studies'
+  date: Sep 9 2020
+  time: 1:00-2:00 PM PT (UTC-7)
+  url: https://www.cncf.io/webinars/cncf-member-webinar-highly-scalable-saas-apps-on-kubernetes-real-life-case-studies/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Kubernetes and Networks: why is this so dang hard?'
+  date: Sep 10 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/cncf-member-webinar-kubernetes-and-networks-why-is-this-so-dang-hard/
+  isDelivered: false
+- title: 'CNCF Member Webinar: Critical DevSecOps Considerations For Multicloud Kubernetes'
+  date: Sep 18 2020
+  time: 10:00-11:00 AM PT (UTC-7)
+  url: https://www.cncf.io/webinars/cncf-member-webinar-critical-devsecops-considerations-for-multicloud-kubernetes/
+  isDelivered: false
