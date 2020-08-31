@@ -1342,3 +1342,46 @@ content:
   url: https://www.cncf.io/blog/2020/08/17/falco-update-whats-new-in-falco-0-25/
   kind: Blog
   isDelivered: true
+- title: 'The New Stack: “KubeCon EU: Envoy Looks to WebAssembly to Extend Microservices
+    Monitoring”'
+  url: https://www.cncf.io/news/2020/08/24/the-new-stack-kubecon-eu-envoy-looks-to-webassembly-to-extend-microservices-monitoring/
+  kind: In The News
+  isDelivered: false
+- title: 'SearchITOperations: “OpenTelemetry aids distributed tracing, Kubernetes
+    monitoring”'
+  url: https://www.cncf.io/news/2020/08/21/searchitoperations-opentelemetry-aids-distributed-tracing-kubernetes-monitoring/
+  kind: In The News
+  isDelivered: false
+- title: 'Ubisoft: Driving Innovation in Gaming with Kubernetes'
+  url: https://www.cncf.io/blog/2020/08/24/ubisoft-driving-innovation-in-gaming-with-kubernetes/
+  kind: Blog
+  isDelivered: false
+- title: 'Kubernetes RBAC 101: Authorization'
+  url: https://www.cncf.io/blog/2020/08/28/kubernetes-rbac-101-authorization/
+  kind: Blog
+  isDelivered: false
+- title: Introduction to LitmusChaos
+  url: https://www.cncf.io/blog/2020/08/28/introduction-to-litmuschaos/
+  kind: Blog
+  isDelivered: false
+- title: 'Building with Kubernetes: Overcoming the Cost of New Construction'
+  url: https://www.cncf.io/blog/2020/08/27/building-with-kubernetes-overcoming-the-cost-of-new-construction/
+  kind: Blog
+  isDelivered: false
+- title: A Look Back at our FIRST KubeCon + CloudNativeCon Virtual Conference
+  url: https://www.cncf.io/blog/2020/08/26/a-look-back-at-our-first-kubecon-cloudnativecon-virtual-conference/
+  kind: Blog
+  isDelivered: false
+- title: Why Do DevOps Engineers Love Helm?
+  url: https://www.cncf.io/blog/2020/08/26/why-do-devops-engineers-love-helm/
+  kind: Blog
+  isDelivered: false
+- title: Harbor is extending its reach with key image distribution features and support
+    for Machine Learning artifacts
+  url: https://www.cncf.io/blog/2020/08/25/harbor-is-extending-its-reach-with-key-image-distribution-features-and-support-for-machine-learning-artifacts/
+  kind: Blog
+  isDelivered: false
+- title: Enforce Pod Security Policies In Kubernetes Using OPA
+  url: https://www.cncf.io/blog/2020/08/25/enforce-pod-security-policies-in-kubernetes-using-opa/
+  kind: Blog
+  isDelivered: false
