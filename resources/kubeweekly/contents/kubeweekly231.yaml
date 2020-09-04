@@ -1,0 +1,87 @@
+title: 'kubeweekly #231'
+date: 09/04/2020
+source: kubeweekly
+data:
+- title: Cloud Native Computing Foundation Announces TiKV Graduation
+  link: https://www.cncf.io/announcements/2020/09/02/cloud-native-computing-foundation-announces-tikv-graduation/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/announcements/2020/09/02/cloud-native-computing-foundation-announces-tikv-graduation/
+  type: The headlines
+- title: Submit to speak at EnvoyCon 2020 – submissions due on Sept 4!
+  link: https://events.linuxfoundation.org/envoycon/program/cfp/#overview
+  type: The headlines
+- title: EnvoyCo
+  link: https://events.linuxfoundation.org/envoycon/
+  type: The headlines
+- title: "n"
+  link: https://events.linuxfoundation.org/envoycon/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Member Webinar: Let’s untangle the Service Mesh'
+  link: https://www.cncf.io/webinars/lets-untangle-the-service-mesh/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member Webinar: 
+  link: https://www.cncf.io/webinars/getting-started-with-container-runtime-security-using-falco/
+  type: 'ICYMI: CNCF webinars '
+- title: Getting started with container runtime security using Falco
+  link: https://www.cncf.io/webinars/getting-started-with-container-runtime-security-using-falco/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Member Webinar: CNCF has 99+ K8S distros, and this is how (and why)
+    we built one more: OKD4 on FCOS'
+  link: https://www.cncf.io/webinars/cncf-has-99-k8s-distros-and-this-is-how-and-why-we-built-one-more-okd4-on-fcos/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member Webinar: Running the next generation of cloud-native applications
+    using Open Application Model (OAM)
+  link: https://www.cncf.io/webinars/running-the-next-generation-of-cloud-native-applications-using-open-application-model-oam/
+  type: 'ICYMI: CNCF webinars '
+- title: Let’s learn about getting involved with open source in different ways
+  link: https://www.youtube.com/watch?v=y-BXs_MQA9Y
+  type: The technical
+- title: Building a multi-cluster authentication portal
+  link: https://www.tremolosecurity.com/post/building-a-multi-cluster-authentication-portal
+  type: The technical
+- title: Portainer 2.0 CE extended for Kubernetes
+  link: https://medium.com/@SaiyamPathak/portainer-2-0-7d5539e344f?source=friends_link&sk=3b909daeb707f7228bf72530f0a5f530
+  type: The technical
+- title: 'ContainerSolutions/kubernetes-examples:'
+  link: https://github.com/ContainerSolutions/kubernetes-examples
+  type: The technical
+- title: How a Kubernetes pod gets an IP address
+  link: https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/
+  type: The technical
+- title: 'Global load balancer for OpenShift clusters: an operator-based approach'
+  link: https://www.openshift.com/blog/global-load-balancer-for-openshift-clusters-an-operator-based-approach
+  type: The technical
+- title: 'Public Sector on Air: SPARTA OCP 4.5 air-gapped AWS GovCloud'
+  link: https://www.twitch.tv/videos/727360211?filter=archives&sort=time
+  type: The technical
+- title: Hide my secrets – visual studio marketplace
+  link: https://marketplace.visualstudio.com/items?itemName=emadashi.hide-my-secrets
+  type: The technical
+- title: redhat-cop/rego-policies
+  link: https://github.com/redhat-cop/rego-policies
+  type: The technical
+- title: Keptn, with Alois Reitbauer
+  link: https://kubernetespodcast.com/episode/119-keptn/
+  type: The editorial
+- title: 'The cloud native landscape: The provisioning layer explained'
+  link: https://thenewstack.io/the-cloud-native-landscape-the-provisioning-layer-explained/
+  type: The editorial
+- title: 'Learning Kubernetes: The need for a realistic playground'
+  link: https://thenewstack.io/learning-kubernetes-the-need-for-a-realistic-playground/
+  type: The editorial
+- title: The Kubernetes handbook
+  link: https://www.freecodecamp.org/news/the-kubernetes-handbook/
+  type: The editorial
+- title: Manage all your Kubernetes clusters with Anthos attached clusters
+  link: https://cloud.google.com/blog/topics/anthos/getting-to-know-anthos-attached-clusters
+  type: The editorial
+- title: 'Kubernetes troubleshooting: 7 essential steps for delivering reliable applications '
+  link: https://www.cncf.io/blog/2020/08/21/kubernetes-troubleshooting-7-essential-steps-for-delivering-reliable-applications/ 
+  type: The editorial
+- title: GitOps gains momentum among Kubernetes deployment tools
+  link: https://searchitoperations.techtarget.com/news/252487865/GitOps-gains-momentum-among-Kubernetes-deployment-tools
+  type: The editorial
