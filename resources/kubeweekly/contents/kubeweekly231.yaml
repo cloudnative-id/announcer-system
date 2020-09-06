@@ -23,9 +23,6 @@ data:
 - title: 'CNCF Member Webinar: Let’s untangle the Service Mesh'
   link: https://www.cncf.io/webinars/lets-untangle-the-service-mesh/
   type: 'ICYMI: CNCF webinars '
-- title: CNCF Member Webinar: 
-  link: https://www.cncf.io/webinars/getting-started-with-container-runtime-security-using-falco/
-  type: 'ICYMI: CNCF webinars '
 - title: Getting started with container runtime security using Falco
   link: https://www.cncf.io/webinars/getting-started-with-container-runtime-security-using-falco/
   type: 'ICYMI: CNCF webinars '
