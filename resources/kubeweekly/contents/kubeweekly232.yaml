@@ -1,0 +1,84 @@
+title: 'kubeweekly #232'
+date: 09/11/2020
+source: kubeweekly
+data:
+- title: CNCF End User Technology Radars
+  link: https://radar.cncf.io/2020-09-observability
+  type: The headlines
+- title: CNCF End User Technology Radar
+  link: https://www.cncf.io/blog/2020/06/12/introducing-the-cncf-technology-radar/
+  type: The headlines
+- title: CNCF End User Community
+  link: https://www.cncf.io/people/end-user-community/
+  type: The headlines
+- title: CNCF End User Technology Radar
+  link: https://radar.cncf.io/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/blog/2020/09/11/cncf-end-user-technology-radar-observability-september-2020/
+  type: The headlines
+- title: ' KubeCon + CloudNativeCon North America 2020 Virtual'
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member Webinar: Arm Developer experience spanning cloud, 5G and IoT
+  link: https://www.cncf.io/webinars/arm-developer-experience-spanning-cloud-5g-and-iot/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member Webinar: Building a cloud-native technology stack that supports
+    full cycle development
+  link: https://www.cncf.io/webinars/building-a-cloud-native-technology-stack-that-supports-full-cycle-development/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Member Webinar: Highly scalable SaaS apps on Kubernetes: Real life
+    case studies'
+  link: https://www.cncf.io/webinars/highly-scalable-saas-apps-on-kubernetes-real-life-case-studies/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Member Webinar: Kubernetes and Networks: why is this so dang hard?'
+  link: https://www.cncf.io/webinars/kubernetes-and-networks-why-is-this-so-dang-hard/
+  type: 'ICYMI: CNCF webinars '
+- title: Introduction to Tekton and Argo CD for multicluster development
+  link: https://developers.redhat.com/blog/2020/09/03/introduction-to-tekton-and-argo-cd-for-multicluster-development/ 
+  type: The technical
+- title: Scaleable multiplayer game design with OpenShift
+  link: https://youtu.be/mspNEkSWCR4
+  type: The technical
+- title: Deploy a deep learning model on Kubernetes
+  link: https://opensource.com/article/20/9/deep-learning-model-kubernetes
+  type: The technical
+- title: Preventing malicious use of Weave Scope
+  link: https://www.weave.works/blog/preventing-malicious-use-of-weave-scope
+  type: The technical
+- title: Cert-manager hits version 1.0.0
+  link: https://github.com/jetstack/cert-manager/releases/tag/v1.0.0
+  type: The technical
+- title: Service proxy, pod, sidecar, oh my!
+  link: https://iximiuz.com/en/posts/service-proxy-pod-sidecar-oh-my/
+  type: The technical
+- title: The death of Kubernetes AuditSink
+  link: https://dev.bitolog.com/the-death-of-kubernetes-auditsink/
+  type: The technical
+- title: 'Interview with Honeycomb engineer Chris Toshok: Dogfooding OpenTelemetry'
+  link: https://www.honeycomb.io/blog/interview-with-honeycomb-engineer-chris-toshok-dogfooding-opentelemetry/
+  type: The technical
+- title: 'Warning: Helpful warnings ahead'
+  link: https://kubernetes.io/blog/2020/09/03/warnings/
+  type: The technical
+- title: Continuous blue-green deployments with Kubernetes
+  link: https://semaphoreci.com/blog/continuous-blue-green-deployments-with-kubernetes
+  type: The technical
+- title: Kubernetes YAML generator
+  link: https://k8syaml.com/
+  type: The technical
+- title: Airbnb, with Melanie Cebula
+  link: https://kubernetespodcast.com/episode/120-airbnb/
+  type: The editorial
+- title: Advancing the future of CI/CD together
+  link: https://www.cloudops.com/blog/advancing-the-future-of-cicd-together/
+  type: The editorial
+- title: New, free training course teaches fundamentals of serverless on Kubernetes
+  link: https://www.cncf.io/blog/2020/09/10/new-free-training-course-teaches-fundamentals-of-serverless-on-kubernetes/
+  type: The editorial
+- title: Balancing open source sacrifice and success
+  link: https://github.com/readme/alex-ellis
+  type: The editorial
