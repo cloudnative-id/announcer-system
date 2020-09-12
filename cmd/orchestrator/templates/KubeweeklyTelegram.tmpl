@@ -2,15 +2,15 @@
 *{{ .Date }}*
 
 *Technical:*
-{{ range .Data }}{{ if eq .Type "The Technical" }}• [{{ .Title }}]({{ .Link }})
+{{ range .Data }}{{ if eq .Type "The technical" }}• [{{ .Title }}]({{ .Link }})
 {{ end }}{{ end }}
 
 *Editorial:*
-{{ range .Data }}{{ if eq .Type "The Editorial" }}• [{{ .Title }}]({{ .Link }})
+{{ range .Data }}{{ if eq .Type "The editorial" }}• [{{ .Title }}]({{ .Link }})
 {{ end }}{{ end }}
 
 *Headlines:*
-{{ range .Data }}{{ if eq .Type "The Headlines" }}• [{{ .Title }}]({{ .Link }})
+{{ range .Data }}{{ if eq .Type "The headlines" }}• [{{ .Title }}]({{ .Link }})
 {{ end }}{{ end }}
 
 Tags: #kubeweekly
