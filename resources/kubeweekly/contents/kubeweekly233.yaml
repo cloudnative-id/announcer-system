@@ -1,0 +1,75 @@
+title: 'kubeweekly #233'
+date: 09/18/2020
+source: kubeweekly
+data:
+- title: TiKV, TiDB and PingCAP, with Ed Huang
+  link: https://kubernetespodcast.com/episode/121-tikv-tidb-and-pingcap/
+  type: The headlines
+- title: TOC approves KubeEdge as incubating project
+  link: https://www.cncf.io/blog/2020/09/16/toc-approves-kubeedge-as-incubating-project/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member Webinar: Declaratively managing apps in a multi-cluster world
+  link: https://www.cncf.io/webinars/declaratively-managing-apps-in-a-multi-cluster-world/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member Webinar: Effective Kubernetes onboarding
+  link: https://www.cncf.io/webinars/effective-kubernetes-onboarding/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member Webinar: How to run Kubernetes securely and efficiently
+  link: https://www.cncf.io/webinars/how-to-run-kubernetes-securely-and-efficiently/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Ambassador Webinar: Hybrid serverless development using Quarkus and
+    Kubernetes
+  link: https://www.cncf.io/webinars/hybrid-serverless-development-using-quarkus-and-kubernetes/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member Webinar: Achieving least privilege access in Kubernetes
+  link: https://www.cncf.io/webinars/achieving-least-privilege-access-in-kubernetes/
+  type: 'ICYMI: CNCF webinars '
+- title: 5 tips for developing Kubernetes operators with the new Operator SDK
+  link: https://developers.redhat.com/blog/2020/09/11/5-tips-for-developing-kubernetes-operators-with-the-new-operator-sdk/ 
+  type: The technical
+- title: Let’s learn Kubermatic Kubernetes Platform 
+  link: https://youtu.be/4jvKSe1Lkv8
+  type: The technical
+- title: Terrascan extends policy as code to Kubernetes
+  link: https://www.accurics.com/blog/products/terrascan-kubernetes/
+  type: The technical
+- title: An introduction to Kubespray
+  link: https://www.redhat.com/sysadmin/kubespray-deploy-kubernetes
+  type: The technical
+- title: 'Cruster: Easily create and manage Kubernetes clusters on Raspberry Pis'
+  link: https://cruster.io/
+  type: The technical
+- title: Easier troubleshooting of cert-manager certificates
+  link: https://blog.jetstack.io/blog/cert-manager-status-cert/
+  type: The technical
+- title: High-availability PostgreSQL and more on OpenShift
+  link: https://youtu.be/9jbR9lZuSU0?t=81
+  type: The technical
+- title: Performing a live CNI migration
+  link: https://blog.jetstack.io/blog/cni-migration/
+  type: The technical
+- title: pgnodemx
+  link: https://github.com/CrunchyData/pgnodemx
+  type: The technical
+- title: 'Managed Kubernetes services compared: GKE vs. EKS vs. AKS'
+  link: https://medium.com/better-programming/managed-kubernetes-services-compared-gke-vs-eks-vs-aks-df1ecb22bba0?source=friends_link&sk=5a4941446a51fa1434acbd1e7d8c5a99
+  type: The editorial
+- title: Tech Breakfast Podcast, with Chris Short
+  link: https://anchor.fm/techbreakfast/episodes/Chris-Short-K8s-Release-Team---Cloud-Native-Computing-Foundation---NVIDIA-to-buy-Arm-for-40B---Oracle-and-TikTok---OpenShift-TV---Walmart-Brings-Back-Gateway-Computers-ejk8n1
+  type: The editorial
+- title: Must-read free Kubernetes books
+  link: http://www.ofbizian.com/2020/09/must-read-free-kubernetes-books.html
+  type: The editorial
+- title: 'Crossplane: A Kubernetes control plane to roll your own PaaS'
+  link: https://thenewstack.io/crossplane-a-kubernetes-control-plane-to-roll-your-own-paas/
+  type: The editorial
+- title: Confidential GKE nodes now in beta
+  link: https://cloud.google.com/blog/products/identity-security/expanding-google-clouds-confidential-computing-portfolio
+  type: The editorial
+- title: Achieving multi-tenancy in monitoring with Prometheus & the mighty Thanos
+    Receiver
+  link: https://www.infracloud.io/blogs/multi-tenancy-monitoring-thanos-receiver/
+  type: The editorial
