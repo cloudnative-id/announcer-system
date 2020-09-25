@@ -1,0 +1,67 @@
+title: 'kubeweekly #234'
+date: 09/25/2020
+source: kubeweekly
+data:
+- title: 'KubeCon + CloudNativeCon Europe 2020 – Virtual Conference Transparency Report:
+    A very successful first virtual event!'
+  link: https://www.cncf.io/blog/2020/09/23/kubecon--cloudnativecon-europe-2020---virtual-conference-transparency-report-a-very-successful-first-virtual-event/
+  type: The headlines
+- title: 'YAML Templating Solutions: Helm & Kustomize'
+  link: https://www.dex.dev/dex-videos/templating-solutions
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Critical DevSecOps considerations for multi-cloud Kubernetes
+  link: https://www.cncf.io/webinars/critical-devsecops-considerations-for-multicloud-kubernetes/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Mitigating Kubernetes attacks
+  link: https://www.cncf.io/webinars/mitigating-kubernetes-attacks/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Member webinar: Using KubeVirt in telcos'
+  link: https://www.cncf.io/webinars/using-kubevirt-in-telcos/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Member webinar: AWS controllers for Kubernetes – AWS services, now
+    kubified!'
+  link: https://www.cncf.io/webinars/aws-controllers-for-kubernetes-aws-services-now-kubified/
+  type: 'ICYMI: CNCF webinars '
+- title: Ingress for Anthos — Multi-cluster ingress and global service load balancing
+  link: https://itnext.io/ingress-for-anthos-multi-cluster-ingress-and-global-service-load-balancing-c56c57b97e82
+  type: The technical
+- title: Installing Kubernetes Metrics Server securely
+  link: https://www.brightbox.com/blog/2020/09/15/secure-kubernetes-metrics/
+  type: The technical
+- title: How we moved to Github-based Kubernetes config management
+  link: https://segment.com/blog/kubernetes-configuration/
+  type: The technical
+- title: GSoC 2020 – Building operators for cluster addons
+  link: https://kubernetes.io/blog/2020/09/16/gsoc20-building-operators-for-cluster-addons/
+  type: The technical
+- title: Detecting CVE-2020-14386 with Falco and mitigating potential container escapes
+  link: https://sysdig.com/blog/cve-2020-14386-falco/
+  type: The technical
+- title: Containing a real vulnerability
+  link: https://gvisor.dev/blog/2020/09/18/containing-a-real-vulnerability/
+  type: The technical
+- title: Yes, you can run VMs on Kubernetes with KubeVirt
+  link: https://opensource.com/article/20/9/vms-kubernetes-kubevirt
+  type: The technical
+- title: Grafana, with Torkel Ödegaard
+  link: https://kubernetespodcast.com/episode/122-grafana/
+  type: The editorial
+- title: 'CommunityBridge Spotlight: Get the most out of the CommunityBridge program'
+  link: https://www.cncf.io/blog/2020/09/21/communitybridge-spotlight-get-the-most-out-of-the-communitybridge-program/
+  type: The editorial
+- title: Cloud native ecosystem feels COVID-19 crunch
+  link: https://www.sdxcentral.com/articles/news/cloud-native-ecosystem-feels-covid-19-crunch/2020/09/
+  type: The editorial
+- title: 'DevOps 049: DevOps, Open Source, and OpenShift with Chris Short'
+  link: https://devchat.tv/adventures-in-devops/devops-049-devops-open-source-and-openshift-with-chris-short/
+  type: The editorial
+- title: 'Ask the Product Manager Office Hours: Top 5 problems with Kubernetes and
+    how we are fixing them'
+  link: https://youtu.be/FwhFEbzR258
+  type: The editorial
+- title: Air Force to demo updating software on a jet in flight, official says
+  link: https://www.nextgov.com/it-modernization/2020/09/air-force-demo-updating-software-jet-flight-official-says/168492/
+  type: The editorial
