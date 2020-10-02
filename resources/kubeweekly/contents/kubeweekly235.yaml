@@ -1,0 +1,88 @@
+title: 'kubeweekly #235'
+date: 10/02/2020
+source: kubeweekly
+data:
+- title: KubeCon + CloudNativeCon North America 2020 Virtual – schedule now available!
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/
+  type: The headlines
+- title: save $25 when you register
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Project webinar: Kubernetes 1.19'
+  link: https://www.cncf.io/webinars/kubernetes-1-19/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Member webinar: VanillaStack as a platform for a truly vendor-agnostic
+    open-source ecosystem'
+  link: https://www.cncf.io/webinars/vanillastack-as-a-platform-for-a-truly-vendor-agnostic-open-source-ecosystem/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Effective disaster recovery strategies for Kubernetes
+  link: https://www.cncf.io/webinars/effective-disaster-recovery-strategies-for-kubernetes/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Self service Kubernetes for enterprises
+  link: https://www.cncf.io/webinars/self-service-kubernetes-for-enterprises/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Dapr, Lego for microservices
+  link: https://www.cncf.io/webinars/dapr-lego-for-microservices/
+  type: 'ICYMI: CNCF webinars '
+- title: The Level Up Hour (podman play kube)
+  link: https://www.twitch.tv/videos/756426645?t=00h05m01s
+  type: The technical
+- title: Our online analytical processing journey with ClickHouse on Kubernetes
+  link: https://tech.ebayinc.com/engineering/ou-online-analytical-processing/ 
+  type: The technical
+- title: A Linux sysadmin’s introduction to cgroups
+  link: https://www.redhat.com/sysadmin/cgroups-part-one
+  type: The technical
+- title: Rabbitmq monitoring on Kubernetes
+  link: https://piotrminkowski.com/2020/09/29/rabbitmq-monitoring-on-kubernetes/
+  type: The technical
+- title: Build a data streaming pipeline using Kafka Streams and Quarkus
+  link: https://developers.redhat.com/blog/2020/09/28/build-a-data-streaming-pipeline-using-kafka-streams-and-quarkus/
+  type: The technical
+- title: 'Chaos Mesh 1.0: Chaos Engineering on Kubernetes made easier'
+  link: https://pingcap.com/blog/Chaos-Mesh-1.0-Chaos-Engineering-on-Kubernetes-Made-Easier
+  type: The technical
+- title: 'Rootless containers with Podman: The basics'
+  link: https://developers.redhat.com/blog/2020/09/25/rootless-containers-with-podman-the-basics/
+  type: The technical
+- title: couler-proj/couler
+  link: https://github.com/couler-proj/couler
+  type: The technical
+- title: jetstack/version-checker
+  link: https://github.com/jetstack/version-checker
+  type: The technical
+- title: 'TiDB Operator: Your TiDB operations expert in Kubernetes'
+  link: https://pingcap.com/blog/tidb-operator-your-tidb-operations-expert-in-kubernetes
+  type: The technical
+- title: GitHub actions demystified
+  link: https://www.infracloud.io/blogs/github-actions-demystified/
+  type: The technical
+- title: Use Terraform to create and manage a HA AKS Kubernetes cluster in Azure
+  link: https://codersociety.com/blog/articles/terraform-azure-kubernetes
+  type: The technical
+- title: Contributing to the Development Guide
+  link: https://www.kubernetes.dev/blog/2020/09/28/contributing-to-the-development-guide/
+  type: The editorial
+- title: 'Anthos in depth: Easy load balancing for your on-prem workloads'
+  link: https://cloud.google.com/blog/topics/hybrid-cloud/deep-dive-into-anthos-bundled-load-balancer
+  type: The editorial
+- title: 'Kubernetes: When to use, and when to avoid, the operator pattern'
+  link: https://thenewstack.io/kubernetes-when-to-use-and-when-to-avoid-the-operator-pattern/
+  type: The editorial
+- title: Leader Election, with Mike Danese
+  link: https://kubernetespodcast.com/episode/123-leader-election/
+  type: The editorial
+- title: Security in all its forms – detection of undesirable behavior thanks to Falco
+    with Thomas Labarussias
+  link: https://electro-monkeys.fr/?p=459
+  type: The editorial
+- title: 'The Cloud Native Landscape: The runtime layer explained'
+  link: https://thenewstack.io/the-cloud-native-landscape-the-runtime-layer-explained/
+  type: The editorial
+- title: With an eye toward standardization and security for its media brands, Verizon
+    Media turned to cloud native
+  link: https://www.cncf.io/blog/2020/09/30/with-an-eye-toward-standardization-and-security-for-its-media-brands-verizon-media-turned-to-cloud-native/
+  type: The editorial
