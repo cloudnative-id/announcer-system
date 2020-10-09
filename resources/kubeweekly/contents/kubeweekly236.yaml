@@ -1,0 +1,87 @@
+title: 'kubeweekly #236'
+date: 10/09/2020
+source: kubeweekly
+data:
+- title: Cloud Native Computing Foundation announces Rook graduation
+  link: https://www.cncf.io/announcements/2020/10/07/cloud-native-computing-foundation-announces-rook-graduation/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Project webinar: Transactional microservices with Vitess – coordination
+    without state
+  link: https://www.cncf.io/webinars/transactional-microservices-with-vitess-coordination-without-state/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Multi-cluster & multi-cloud service mesh with CNCF’s
+    Kuma and Envoy
+  link: https://www.cncf.io/webinars/multi-cluster-multi-cloud-service-mesh-with-cncfs-kuma-and-envoy/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Kubernetes native two-level resource management for
+    AI/ML workloads
+  link: https://www.cncf.io/webinars/kubernetes-native-two-level-resource-management-for-ai-ml-workloads/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: The evolution of cloud orchestration systems from ephemeral
+    to persistent storage
+  link: https://www.cncf.io/webinars/the-evolution-of-cloud-orchestration-systems-from-ephemeral-to-persistent-storage/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Building dynamic machine learning pipelines with KubeDirector
+  link: https://www.cncf.io/webinars/building-dynamic-machine-learning-pipelines-with-kubedirector/
+  type: 'ICYMI: CNCF webinars '
+- title: Identity federation for multi-cluster Kubernetes and service mesh
+  link: https://www.solo.io/blog/identity-federation-for-multi-cluster-kubernetes-and-service-mesh
+  type: The technical
+- title: Call an existing REST service with Apache Camel K
+  link: https://developers.redhat.com/blog/2020/09/28/call-an-existing-rest-service-with-apache-camel-k/
+  type: The technical
+- title: 'An architect’s guide to APIs: REST, GraphQL, and gRPC'
+  link: https://www.redhat.com/architect/apis-rest-graphql-grpc
+  type: The technical
+- title: Self-hosted Github Actions runners in Kubernetes
+  link: https://vitobotta.com/2020/09/29/self-hosted-github-actions-runners-in-kubernetes/
+  type: The technical
+- title: Kubernetes integration and more in odo 2.0
+  link: https://developers.redhat.com/blog/2020/10/06/kubernetes-integration-and-more-in-odo-2-0/
+  type: The technical
+- title: Provisioning Kubernetes clusters on AWS with Terraform and EKS
+  link: https://learnk8s.io/terraform-eks
+  type: The technical
+- title: Running Kubeflow Pipelines 
+  link: https://www.civo.com/learn/running-kubeflow-pipelines
+  type: The technical
+- title: How to perform a CNI live migration from Flannel+Calico to Cilium
+  link: https://cilium.io/blog/2020/10/06/skybet-cilium-migration/
+  type: The technical
+- title: How to set up PostgreSQL monitoring in Kubernetes
+  link: https://info.crunchydata.com/blog/setup-postgresql-monitoring-in-kubernetes
+  type: The technical
+- title: 'storax/kubedoom: The next level of chaos engineering is here! Kill pods
+    inside your Kubernetes'
+  link: https://github.com/storax/kubedoom
+  type: The technical
+- title: What’s new in Goldilocks 3.0.0
+  link: https://www.fairwinds.com/blog/new-in-goldilocks 
+  type: The technical
+- title: Kubecost, with Webb Brown
+  link: https://kubernetespodcast.com/episode/124-kubecost/
+  type: The editorial
+- title: Helm Hub is moving to Artifact Hub
+  link: https://helm.sh/blog/helm-hub-moving-to-artifact-hub/
+  type: The editorial
+- title: Introducing DigitalOcean App Platform
+  link: https://www.digitalocean.com/blog/introducing-digitalocean-app-platform-reimagining-paas-to-make-it-simpler-for-you-to-build-deploy-and-scale-apps/
+  type: The editorial
+- title: What’s New in OpenShift 4.6
+  link: https://youtu.be/0ZyPHC-7V_0?t=285
+  type: The editorial
+- title: Call for questions! sig-HONK AMA KubeCon NA keynote panel
+  link: https://discuss.kubernetes.io/t/call-for-questions-sig-honk-ama-kubecon-na-keynote-panel/13159
+  type: The editorial
+- title: Carbon-aware Kubernetes
+  link: https://devblogs.microsoft.com/sustainable-software/carbon-aware-kubernetes/
+  type: The editorial
+- title: Service meshes, Envoy, and WebAssembly with Christian Posta
+  link: https://youtu.be/kVt7BhYi77E
+  type: The editorial
+- title: Open Service Mesh (OSM) is hosting first community call on Oct 13
+  link: https://github.com/openservicemesh/osm#community
+  type: The editorial
