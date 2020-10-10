@@ -283,6 +283,6 @@ kubeweekly:
   contentFile: contents/kubeweekly236.yaml
   date: 10/09/2020
   status:
-    delivered: false
+    delivered: true
   tags:
   - '#kubereads'
