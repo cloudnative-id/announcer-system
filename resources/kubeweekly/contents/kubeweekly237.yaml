@@ -1,0 +1,50 @@
+title: 'kubeweekly #237'
+date: 10/16/2020
+source: kubeweekly
+data:
+- title: CNCF Cloud Native Survey China 
+  link: https://www.cncf.io/blog/2020/10/13/cncf-cloud-native-survey-china-2019/
+  type: The headlines
+- title: Dive into the report
+  link: https://www.cncf.io/blog/2020/10/13/cncf-cloud-native-survey-china-2019/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: You can be a Kubernetes contributor too!
+  link: https://www.cncf.io/webinars/you-can-be-a-kubernetes-contributor-too/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: GitOps at scale for a multi-cloud, multi-region stateful
+    application
+  link: https://www.cncf.io/webinars/gitops-at-scale-for-a-multi-cloud-multi-region-stateful-application/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Member webinar: ephemeral.run: A full application environment for every
+    PR–before you merge to master!'
+  link: https://www.cncf.io/webinars/ephemeral-run-a-full-application-environment-for-every-pr-before-you-merge-to-master/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Member webinar: S&P experience report: multi-cloud serverless on Knative'
+  link: https://www.cncf.io/webinars/sp-experience-report-multi-cloud-serverless-on-knative/
+  type: 'ICYMI: CNCF webinars '
+- title: 'The infrastructure triumvirate: Continuous service and infrastructure delivery
+    with Argo, Kustomize, and Google Config Connector'
+  link: https://medium.com/bluecore-engineering/the-infrastructure-triumvirate-continuous-service-and-infrastructure-delivery-with-argo-a33a3f76dc06
+  type: The technical
+- title: 'Step by step: Datastax Cassandra with Istio and SNI routing'
+  link: https://www.solo.io/blog/step-by-step-datastax-cassandra-with-istio-and-sni-routing/
+  type: The technical
+- title: Announcing Google Cloud buildpacks—container images made easy
+  link: https://cloud.google.com/blog/products/containers-kubernetes/google-cloud-now-supports-buildpacks
+  type: The editorial
+- title: Okteto, with Ramiro Berrelleza
+  link: https://kubernetespodcast.com/episode/125-okteto/
+  type: The editorial
+- title: The first authoritative guide on Harbor is now available in Chinese
+  link: https://www.cncf.io/blog/2020/10/14/the-first-authoritative-guide-on-harbor-is-now-available-in-chinese/
+  type: The editorial
+- title: Minecraft as a K8s admin tool
+  link: https://blog.usejournal.com/minecraft-as-a-k8s-admin-tool-cf16f890de42
+  type: The editorial
+- title: Minimum Viable Changes coming for KubeCon + CloudNativeCon North America
+    – Virtual!
+  link: https://www.cncf.io/blog/2020/10/15/minimum-viable-changes-coming-for-kubecon-cloudnativecon-north-america-virtual/
+  type: The editorial
