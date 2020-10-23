@@ -1,0 +1,79 @@
+title: 'kubeweekly #238'
+date: 10/23/2020
+source: kubeweekly
+data:
+- title: Local Kubernetes Clusters Overview
+  link: https://www.dex.dev/dex-videos/development-clusters
+  type: The headlines
+- title: Join us for KubeCon + CloudNativeCon North America Virtual 2020!
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Delivering cloud-native apps to Kubernetes using werf
+  link: https://www.cncf.io/webinars/delivering-cloud-native-apps-to-kubernetes-using-werf/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: How to migrate NF or VNF to CNF without vendor lock-in
+  link: https://www.cncf.io/webinars/how-to-migrate-nf-or-vnf-to-cnf-without-vendor-lock-in/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Deploying Kubernetes to bare metal using cluster API
+  link: https://www.cncf.io/webinars/deploying-kubernetes-to-bare-metal-using-cluster-api/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: The abc’s of Kubernetes security
+  link: https://www.cncf.io/webinars/the-abcs-of-kubernetes-security/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: K8s audit logging deep dive
+  link: https://www.cncf.io/webinars/k8s-audit-logging-deep-dive/
+  type: 'ICYMI: CNCF webinars '
+- title: Waypoint – Solving Build, Deploy and Release problem
+  link: https://www.civo.com/learn/waypoint-solving-the-build-deploy-and-release-problem
+  type: The technical
+- title: 'Flink on PaaSTA: Yelp’s new stream processing platform runs on Kubernetes'
+  link: https://engineeringblog.yelp.com/2020/10/flink-on-paasta.html
+  type: The technical
+- title: 'Understanding and mitigating CVE-2020-8563: vSphere credentials leak in
+    the cloud-controller-manager log'
+  link: https://sysdig.com/blog/cve-2020-8563-vsphere-credentials-cloud-controller-manager/
+  type: The technical
+- title: COBOL on Kubernetes and OpenShift
+  link: https://youtu.be/erO6XXj8Kl0?t=125
+  type: The technical
+- title: 'Quick tip: How Prometheus can make visualizing noisy data easier'
+  link: https://grafana.com/blog/2020/10/20/quick-tip-how-prometheus-can-make-visualizing-noisy-data-easier/
+  type: The technical
+- title: Introducing pvc-autoresizer
+  link: https://blog.kintone.io/entry/pvc-autoresizer
+  type: The technical
+- title: Container networking is simple
+  link: https://iximiuz.com/en/posts/container-networking-is-simple/
+  type: The technical
+- title: A Hitchhiker’s Tour to Containerizing a Java application (talk)
+  link: https://www.youtube.com/watch?v=rjzHgicWd4M
+  type: The technical
+- title: Introducing HA MicroK8s, the ultra-reliable, minimal Kubernetes
+  link: https://ubuntu.com/blog/introducing-ha-microk8s-the-ultra-reliable-minimal-kubernetes
+  type: The technical
+- title: 'Kubernetes 1.19: The future of traffic ingress and routing'
+  link: https://www.eficode.com/blog/kubernetes-1-19-the-future-of-traffic-ingress-and-routing
+  type: The technical
+- title: Research, Steering and Honking, with Bob Killen
+  link: https://kubernetespodcast.com/episode/126-research-steering-honking/
+  type: The editorial
+- title: Fear and loathing in YAML
+  link: https://chrisshort.net/fear-and-loathing-in-yaml/
+  type: The editorial
+- title: Cloud Foundry coalesces around Kubernetes
+  link: https://techcrunch.com/2020/10/20/cloud-foundry-coalesces-around-kubernetes-in-beautiful-harmony/
+  type: The editorial
+- title: Helm turns 5, and GitHub gives the gift of charts
+  link: https://helm.sh/blog/helm-turns-five/
+  type: The editorial
+- title: For PayIt, cloud native is a ‘competitive advantage’ for getting government
+    services online
+  link: https://www.cncf.io/blog/2020/10/20/for-payit-cloud-native-is-a-competitive-advantage-for-getting-government-services-online/ 
+  type: The editorial
+- title: 'Experiment with OpenTelemetry: Play with the Future Cloud Native Metrics
+    Framework, Now'
+  link: https://blog.getambassador.io/experiment-with-opentelemetry-play-with-the-future-cloud-native-metrics-framework-now-1f2c8db75324
+  type: The editorial
