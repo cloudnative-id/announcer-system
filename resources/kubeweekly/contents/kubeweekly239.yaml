@@ -1,0 +1,67 @@
+title: 'kubeweekly #239'
+date: 10/31/2020
+source: kubeweekly
+data:
+- title: Service mesh is still hard
+  link: https://www.cncf.io/blog/2020/10/26/service-mesh-is-still-hard/
+  type: The headlines
+- title: Join us for KubeCon + CloudNativeCon North America Virtual 2020!
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: The truth about the service mesh data plane
+  link: https://www.cncf.io/webinars/the-truth-about-the-service-mesh-data-plane/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Member webinar: Admission controllers: one part of your Kubernetes
+    security and governance toolkit'
+  link: https://www.cncf.io/webinars/admission-controllers-one-part-of-your-kubernetes-security-and-governance-toolkit/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Event-driven architecture with Knative events
+  link: https://www.cncf.io/webinars/event-driven-architecture-with-knative-events/
+  type: 'ICYMI: CNCF webinars '
+- title: 'Service mesh era: Building modern apps with YugabyteDB and Istio'
+  link: https://blog.yugabyte.com/service-mesh-era-building-modern-apps-with-yugabytedb-and-istio/
+  type: The technical
+- title: Container networking is simple
+  link: https://iximiuz.com/en/posts/container-networking-is-simple/
+  type: The technical
+- title: 'Building Kubernetes native SaaS applications: iterating quickly by deploying
+    in-cluster data planes'
+  link: https://blog.pixielabs.ai/blog/hybrid-architecture/hybrid-architecture/
+  type: The technical
+- title: Building Kubernetes Operator from scratch using operator-sdk(1.1.0)
+  link: https://youtu.be/FT_DLEhmOWs
+  type: The technical
+- title: GitOps using Red Hat OpenShift pipelines (Tekton) and Red Hat Advanced Cluster
+    Management to deploy on multiple clusters
+  link: https://www.openshift.com/blog/gitops-using-red-hat-openshift-pipelines-tekton-and-red-hat-advanced-cluster-management-to-deploy-on-multiple-clusters
+  type: The technical
+- title: Introducing KubeLinter – an open source linter for Kubernetes
+  link: https://www.stackrox.com/post/2020/10/introducing-kubelinter-an-open-source-linter-for-kubernetes/ 
+  type: The technical
+- title: 'Helm Project Update: New Location For Stable and Incubator Charts'
+  link: https://www.cncf.io/blog/2020/10/30/helm-project-update-new-location-for-stable-and-incubator-charts/
+  type: The technical
+- title: Pop Punk to Pods, with David Pait
+  link: https://kubernetespodcast.com/episode/127-pop-punk-to-pods/
+  type: The editorial
+- title: Web scraping that just works with OpenFaaS with Puppeteer
+  link: https://www.openfaas.com/blog/puppeteer-scraping/
+  type: The editorial
+- title: Preparing Google Cloud deployments for Docker Hub pull request limits
+  link: https://cloud.google.com/blog/products/containers-kubernetes/mitigating-the-impact-of-new-docker-hub-pull-request-limits
+  type: The editorial
+- title: Announcing the Linkerd Community Anchor Program
+  link: https://www.cncf.io/blog/2020/10/26/announcing-the-linkerd-community-anchor-program
+  type: The editorial
+- title: How to integrate virtual machines into Istio service mesh
+  link: https://thenewstack.io/how-to-integrate-virtual-machines-into-istio-service-mesh/
+  type: The editorial
+- title: Announcing Vitess 8
+  link: https://www.cncf.io/blog/2020/10/27/announcing-vitess-8/
+  type: The editorial
+- title: Kubernetes project survey 
+  link: https://docs.google.com/forms/d/e/1FAIpQLSf3ZoYSNjs6a5-xcPScBwqv7Zxae87pRcy-JnKZrAexGbBG9A/viewform 
+  type: The editorial
