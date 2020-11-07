@@ -1,0 +1,85 @@
+title: 'kubeweekly #240'
+date: 11/07/2020
+source: kubeweekly
+data:
+- title: Honoring Dan Kohn
+  link: https://www.cncf.io/blog/2020/11/02/cncf-statement-on-the-passing-of-dan-kohn/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Security in the world of service meshes
+  link: https://www.cncf.io/webinars/cncf-member-webinar-security-in-the-world-of-service-meshes/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Managing your policies and standards
+  link: https://www.cncf.io/webinars/managing-your-policies-and-standards/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Building edge as a service
+  link: https://www.cncf.io/webinars/building-edge-as-a-service/
+  type: 'ICYMI: CNCF webinars '
+- title: Ensuring YAML best practices using KubeLinter
+  link: https://www.civo.com/learn/yaml-best-practices-using-kubelinter
+  type: The technical
+- title: Set up your K3s cluster for high availability on DigitalOcean
+  link: https://rancher.com/blog/2020/k3s-high-availability
+  type: The technical
+- title: metal3-io/baremetal-operator
+  link: https://github.com/metal3-io/baremetal-operator
+  type: The technical
+- title: Using WireGuard to extend OpenShift networks
+  link: https://www.openshift.com/blog/using-wireguard-to-extend-openshift-networks
+  type: The technical
+- title: Security hardening Kubernetes 
+  link: https://elastisys.com/security-hardening-kubernetes/ 
+  type: The technical
+- title: The road to Flux v2 – November update
+  link: https://www.weave.works/blog/the-road-to-flux-v2-november-update
+  type: The technical
+- title: CI/CD with Chris Short (2/2) – YouTube
+  link: https://www.youtube.com/watch?v=gvCNHeSnglY&feature=youtu.be 
+  type: The technical
+- title: How to use skopeo to migrate off Docker Hub
+  link: https://jjasghar.github.io/blog/2020/10/30/how-to-use-skopeo-to-migrate-off-dockerhub/ 
+  type: The technical
+- title: Oracle continues building DTrace for Linux atop BPF 
+  link: https://www.phoronix.com/scan.php?page=news_item&px=DTrace-For-Linux-In-2020
+  type: The technical
+- title: Disposable Kubernetes clusters 
+  link: https://dev.to/grrywlsn/disposable-kubernetes-clusters-2f44
+  type: The technical
+- title: Reminiscing control theory and the future of observability
+  link: https://mhausenblas.medium.com/reminiscing-control-theory-and-the-future-of-observability-ba947f6da7b0
+  type: The technical
+- title: CNCF welcomes Katie Gamanji as Ecosystem Advocate
+  link: https://www.cncf.io/blog/2020/11/04/cncf-welcomes-katie-gamanji-as-ecosystem-advocate/
+  type: The editorial
+- title: Antrea, with Antonin Bas
+  link: https://kubernetespodcast.com/episode/128-antrea/
+  type: The editorial
+- title: What’s new in CKA/CKAD with CKS coming up!
+  link: https://youtu.be/jZOs8Oips7Q
+  type: The editorial
+- title: Preparing Google Cloud deployments for Docker Hub pull request limits
+  link: https://cloud.google.com/blog/products/containers-kubernetes/mitigating-the-impact-of-new-docker-hub-pull-request-limits
+  type: The editorial
+- title: D2iQ takes the next step forward
+  link: https://d2iq.com/blog/d2iq-takes-the-next-step-forward 
+  type: The editorial
+- title: Cloud native explained. An interview with Cheryl Hung, VP Ecosystem at CNCF
+  link: https://www.computing.co.uk/interview/4022550/cloud-native-explained-interview-cheryl-hung-vp-ecosystem-cncf
+  type: The editorial
+- title: A sysadmin’s guide to containerizing applications 
+  link: https://www.redhat.com/sysadmin/containerizing-applications
+  type: The editorial
+- title: 'Argo CD and Tekton: Match made in Kubernetes heaven '
+  link: https://developers.redhat.com/blog/2020/11/03/argo-cd-and-tekton-match-made-in-kubernetes-heaven/
+  type: The editorial
+- title: 4 ways to run Kubernetes locally 
+  link: https://opensource.com/article/20/11/run-kubernetes-locally
+  type: The editorial
+- title: A fireside chat to demystify KEPs
+  link: https://www.cncf.io/blog/2020/11/02/a-fireside-chat-to-demystify-keps/
+  type: The editorial
+- title: How Discord (somewhat accidentally) invented the future of the internet
+  link: https://www.protocol.com/discord
+  type: The editorial
