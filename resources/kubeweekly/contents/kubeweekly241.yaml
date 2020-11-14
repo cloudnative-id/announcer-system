@@ -1,0 +1,88 @@
+title: 'kubeweekly #241'
+date: 11/14/2020
+source: kubeweekly
+data:
+- title: Don’t forget to register for KubeCon + CloudNativeCon North America Virtual
+    2020!
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+  type: The headlines
+- title: Register now
+  link: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Developer-friendly platforms with Kubernetes and infrastructure
+    as code
+  link: https://www.cncf.io/webinars/developer-friendly-platforms-with-kubernetes-and-infrastructure-as-code/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Kubernetes in the context of on-premises edge and network
+    edge computing
+  link: https://www.cncf.io/webinars/kubernetes-in-the-context-of-on-premises-edge-and-network-edge-computing/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Member webinar: MicroK8s HA under the hood: Kubernetes with Dqlite'
+  link: https://www.cncf.io/webinars/microk8s-ha-under-the-hood-kubernetes-with-dqlite/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Project webinar: What’s new in Linkerd 2.9: mTLS for all TCP connections,
+    ARM support, and more'
+  link: https://www.cncf.io/webinars/whats-new-in-linkerd-2-9-mtls-for-all-tcp-connections-arm-support-and-more/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Member webinar: DevOps from a different data-set: what 11 million workflows
+    reveal about high performing teams'
+  link: https://www.cncf.io/webinars/devops-from-a-different-data-set-what-11-million-workflows-reveal-about-high-performing-teams/
+  type: 'ICYMI: CNCF webinars '
+- title: 'Geographically Distributed Stateful Workloads Part One: Cluster Preparation'
+  link: https://www.openshift.com/blog/geographically-distributed-stateful-workloads-part-one-cluster-preparation
+  type: The technical
+- title: 'powerfulseal/powerfulseal:'
+  link: https://github.com/powerfulseal/powerfulseal
+  type: The technical
+- title: Create your first Knative app
+  link: https://opensource.com/article/20/11/knative
+  type: The technical
+- title: How to use Docker Security Scan Locally
+  link: https://brianchristner.io/how-to-use-docker-scan/
+  type: The technical
+- title: Seccomp for Fun and Profit
+  link: https://www.openshift.com/blog/seccomp-for-fun-and-profit
+  type: The technical
+- title: metal3-io/baremetal-operator
+  link: https://github.com/metal3-io/baremetal-operator
+  type: The technical
+- title: Low-budget self-hosted Kubernetes
+  link: https://blog.tobias-huebner.org/low-budget-kubernetes-self-hosted-series/
+  type: The technical
+- title: Platforms on k8s with Golang – Watch any CRD
+  link: https://hackernoon.com/platforms-on-k8s-with-golang-watch-any-crd-0v2o3z1q
+  type: The technical
+- title: 'Announcing Linkerd 2.9: mTLS for all, ARM support, and more!'
+  link: https://linkerd.io/2020/11/09/announcing-linkerd-2.9/
+  type: The editorial
+- title: Linkerd, with Thomas Rampelberg
+  link: https://kubernetespodcast.com/episode/129-linkerd/
+  type: The editorial
+- title: Episode 42 – Veterans Day Special with Red Hat’s Chris Short and Marky Jackson
+  link: https://youtu.be/EEjiYVYdwwk
+  type: The editorial
+- title: Chaos Experiments on Kubernetes using Litmus to ensure your cluster is production
+    ready
+  link: https://www.civo.com/learn/chaos-engineering-kubernetes-litmus
+  type: The editorial
+- title: China’s government-anointed Git operator says it will become a Linux Foundation
+    mirror
+  link: https://www.theregister.com/2020/11/10/gitee_linux_foundation_china_mirror/
+  type: The editorial
+- title: CNCF Releases Free Training Course Covering Basics of Service Mesh with Linkerd
+  link: https://www.cncf.io/blog/2020/11/10/cncf-releases-free-training-course-covering-basics-of-service-mesh-with-linkerd/
+  type: The editorial
+- title: What Will It Take to Shift Kubernetes Security Left?
+  link: https://containerjournal.com/topics/container-security/what-will-it-take-to-shift-kubernetes-security-left/
+  type: The editorial
+- title: Amazon Web Services will build its own public registry for Docker container
+    images
+  link: https://siliconangle.com/2020/11/03/amazon-web-services-will-build-public-registry-docker-container-images/
+  type: The editorial
+- title: vSphere 7 with Tanzu Integrates with HAProxy for Load Balancing Enterprise-grade
+    Kubernetes
+  link: https://www.haproxy.com/blog/vsphere-7-with-tanzu-integrates-with-haproxy-for-load-balancing-enterprise-grade-kubernetes/
+  type: The editorial
