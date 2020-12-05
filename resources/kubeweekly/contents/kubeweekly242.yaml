@@ -1,0 +1,72 @@
+title: 'kubeweekly #242'
+date: 12/05/2020
+source: kubeweekly
+data:
+- title: 'Don’t Panic: Kubernetes and Docker'
+  link: https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/
+  type: The headlines
+- title: deprecating Docker
+  link: https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.20.md#deprecation
+  type: The headlines
+- title: Container Runtime Interface(CRI)
+  link: https://kubernetes.io/blog/2016/12/container-runtime-interface-cri-in-kubernetes/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Next-gen data protection for next-gen applications
+  link: https://www.cncf.io/webinars/next-gen-data-protection-for-next-gen-applications/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Discover, analyze, and secure your APIs…anywhere
+  link: https://www.cncf.io/webinars/discover-analyze-and-secure-your-apis-anywhere/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member webinar: Take the pain out of multi-cluster Kubernetes with Lens
+  link: https://www.cncf.io/webinars/take-the-pain-out-of-multi-cluster-kubernetes-with-lens/
+  type: 'ICYMI: CNCF webinars '
+- title: 'Kubernetes: Efficient multi-zone networking with topology-aware routing'
+  link: https://opensource.googleblog.com/2020/11/kubernetes-efficient-multi-zone.html
+  type: The technical
+- title: 'Geographically distributed stateful workloads Part Two: CockroachDB'
+  link: https://www.openshift.com/blog/geographically-distributed-stateful-workloads-part-two-cockroachdb 
+  type: The technical
+- title: Deployments without YAML using Ketch
+  link: https://www.civo.com/learn/deployments-without-yaml-using-ketch
+  type: The technical
+- title: Kubernetes self remediation (AKA Poison Pill)
+  link: https://www.openshift.com/blog/kubernetes-self-remediation-aka-poison-pill
+  type: The technical
+- title: k0s — Yet another Kubernetes distro
+  link: https://saiyampathak.medium.com/k0s-yet-another-kubernetes-distro-7201ea425165
+  type: The technical
+- title: Shining a light on the Kubernetes user experience with Headlamp
+  link: https://kinvolk.io/blog/2020/11/shining-a-light-on-the-kubernetes-user-experience-with-headlamp/
+  type: The technical
+- title: Scaling datastores at Slack with Vitess
+  link: https://slack.engineering/scaling-datastores-at-slack-with-vitess/
+  type: The technical
+- title: Kubernetes distros with flavour of fleet
+  link: https://youtu.be/HB37dgEO-mA
+  type: The technical
+- title: YAML tips for Kubernetes
+  link: https://www.youtube.com/watch?v=1rwCkFTjikw&feature=youtu.be
+  type: The technical
+- title: GitOps decisions
+  link: https://zwischenzugs.com/2020/11/30/gitops-decisions/
+  type: The editorial
+- title: How Kubernetes accelerates multiplayer game development
+  link: https://thenewstack.io/how-kubernetes-accelerates-multiplayer-game-development/
+  type: The editorial
+- title: Kubernetes will deliver the app store experience for enterprise software,
+    says Weaveworks CEO
+  link: https://www.techrepublic.com/article/kubernetes-will-deliver-the-app-store-experience-for-enterprise-software-says-weaveworks-ceo/
+  type: The editorial
+- title: Understanding Kubernetes operators
+  link: https://caylent.com/understanding-kubernetes-operators
+  type: The editorial
+- title: 'Kubernetes Operators: Automating complex application lifecycles'
+  link: https://www.kubermatic.com/blog/kubernetes-operators-automating-complex-application-lifecycles/ 
+  type: The editorial
+- title: How to build a CI/CD process that deploys on Kubernetes and focuses on developer
+    independence
+  link: https://medium.com/riskified-technology/how-to-build-a-ci-cd-process-that-deploys-on-kubernetes-and-focuses-on-developer-independence-7dc4c20984a
+  type: The editorial
