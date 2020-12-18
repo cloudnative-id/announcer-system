@@ -1,0 +1,58 @@
+title: 'kubeweekly #244'
+date: 12/18/2020
+source: kubeweekly
+data:
+- title: Cloud Native Computing Foundation receives renewed $3 Million Cloud Credit
+    Grant from Google Cloud
+  link: https://techcrunch.com/2020/12/17/google-grants-3-million-to-the-cncf-to-help-it-run-the-kubernetes-infrastructure/
+  type: The headlines
+- title: here
+  link: https://www.cncf.io/webinars/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member Webinar: Reducing your Kubernetes Cloud Spend
+  link: https://www.cncf.io/webinars/reducing-your-kubernetes-cloud-spend/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member Webinar: Implementing automated managed k8s service (자동화된 관리형
+    K8s 서비스 구현)
+  link: https://www.cncf.io/webinars/implementing-automated-managed-k8s-service/
+  type: 'ICYMI: CNCF webinars '
+- title: 'CNCF Member Webinar: Argo: Real enterprise-scale with k8s'
+  link: https://www.cncf.io/webinars/argo-real-enterprise-scale-with-k8s/
+  type: 'ICYMI: CNCF webinars '
+- title: CNCF Member Webinar: Machine learning for K8s logs and metrics
+  link: https://www.cncf.io/webinars/machine-learning-for-k8s-logs-and-metrics/
+  type: 'ICYMI: CNCF webinars '
+- title: Deploying to OpenShift using GitHub Actions
+  link: https://www.openshift.com/blog/deploying-to-openshift-using-github-actions
+  type: The technical
+- title: ""
+  link: https://www.openshift.com/blog/deploying-to-openshift-using-github-actions
+  type: The technical
+- title: Create a Kubernetes Operator in Golang to automatically manage a simple,
+    stateful application
+  link: https://developers.redhat.com/blog/2020/12/16/create-a-kubernetes-operator-in-golang-to-automatically-manage-a-simple-stateful-application/
+  type: The technical
+- title: How to use Kubernetes resource quotas
+  link: https://opensource.com/article/20/12/kubernetes-resource-quotas
+  type: The technical
+- title: 'K8Spin Operator:'
+  link: https://github.com/k8spin/k8spin-operator
+  type: The technical
+- title: Portainer For Kubernetes
+  link: https://youtu.be/TK1UB1xby_I
+  type: The technical
+- title: How to monitor multi-cloud Kubernetes with Prometheus and Grafana
+  link: https://inlets.dev/blog/2020/12/15/multi-cluster-monitoring.html 
+  type: The technical
+- title: Akri, with Kate Goldenring
+  link: https://kubernetespodcast.com/episode/132-akri/
+  type: The editorial
+- title: 'The Level Up Hour (S1E19): Containers, data science and replication'
+  link: https://youtu.be/OX82D8O8jxI
+  type: The editorial
+- title: 'Kubernetes Clinic Spotlight on Tabitha Sable: Helping people level up'
+  link: https://www.fairwinds.com/blog/kubernetes-clinic-spotlight-on-tabitha-sable-helping-people-level-up
+  type: The editorial
+- title: 'The Cloud Native Landscape: The orchestration and management layer'
+  link: https://thenewstack.io/the-cloud-native-landscape-the-orchestration-and-management-layer/
+  type: The editorial
